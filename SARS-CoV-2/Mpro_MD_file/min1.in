@@ -1,0 +1,14 @@
+min1
+ &cntrl
+  imin   = 1,
+  maxcyc = 20000,
+  ncyc   = 10000,
+  ntb    = 1,
+  ntr    = 1,
+  cut    = 12.0
+ /
+Hold the complex fixed
+500.0
+RES 1 306
+END
+END

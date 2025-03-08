@@ -1,0 +1,16 @@
+mple input file with nmode analysis
+&general
+   startframe=1, endframe=10000, interval=2,
+   verbose=2, keep_files=2,
+/
+&gb
+  igb=5, saltcon=0.100,
+/
+&pb
+istrng=0.15, fillratio=4.0
+/
+#&nmode
+#   nmstartframe=1, nmendframe=10000,
+#   nminterval=200, nmode_igb=5, nmode_istrng=0.1,
+#/
+

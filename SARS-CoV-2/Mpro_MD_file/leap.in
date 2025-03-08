@@ -1,0 +1,8 @@
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+loadamberparams frcmod.ions1lm_126_tip3p
+pp = loadPdb "start_for_tleap_no_H_7ZB7.pdb"
+solvateBox pp TIP3PBOX 12.0
+charge pp
+addIons pp Na+ 4
+saveAmberParm pp solvated_7ZB7.top solvated_7ZB7.crd

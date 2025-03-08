@@ -1,0 +1,15 @@
+parm solvated_7ZB7.prmtop
+trajin solvated_7ZB7_prod1.nc
+trajin solvated_7ZB7_prod2.nc
+trajin solvated_7ZB7_prod3.nc
+trajin solvated_7ZB7_prod4.nc
+trajin solvated_7ZB7_prod5.nc
+
+autoimage origin
+strip :WAT,Na+,K+,Cl-
+#trajout strippedwat_traj.pdb
+trajout frame_A_2629.pdb onlyframes 2629
+trajout frame_A_2649.pdb onlyframes 2649
+
+run
+quit

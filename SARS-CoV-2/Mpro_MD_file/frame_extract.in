@@ -1,0 +1,20 @@
+parm nsp5_8UTE.top
+trajin nsp5_8UTE_prod1.nc
+trajin nsp5_8UTE_prod2.nc
+trajin nsp5_8UTE_prod3.nc
+trajin nsp5_8UTE_prod4.nc
+trajin nsp5_8UTE_prod5.nc
+trajin nsp5_8UTE_prod6.nc
+trajin nsp5_8UTE_prod7.nc
+trajin nsp5_8UTE_prod8.nc
+trajin nsp5_8UTE_prod9.nc
+trajin nsp5_8UTE_prod10.nc
+
+autoimage origin
+strip :WAT,Na+,K+,Cl-
+#trajout strippedwat_traj.pdb
+trajout frame_A_855.pdb onlyframes 855
+trajout frame_B_4240.pdb onlyframes 4240
+
+run
+quit

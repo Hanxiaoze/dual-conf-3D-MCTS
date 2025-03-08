@@ -1,0 +1,38 @@
+#read trajectory
+parm p_l_wat.prmtop
+trajin prod1.nc
+trajin prod2.nc
+trajin prod3.nc
+trajin prod4.nc
+trajin prod5.nc
+
+#get coords into memory
+createcrd ALIGNED
+run
+
+#create avg structure
+crdaction ALIGNED average avg.pdb
+
+#align
+parm avg.pdb
+reference avg.pdb parm avg.pdb
+crdaction ALIGNED rms reference :1-306
+
+#covariance matrix
+crdaction ALIGNED matrix covar name COVAR :1-306&!@H=
+
+#write eigenvectors
+runanalysis diagmatrix COVAR out covar.dat vecs 30 name EVECTORS
+
+#project to trajectory
+crdaction ALIGNED projection PROJ modes covar.dat beg 1 end 3 out projection.dat :1-306&!@H=
+
+#1D histograms (open with xmgrace)
+hist PROJ:1 free 310 bins 100 out hists.agr name PC1
+hist PROJ:2 free 310 bins 100 out hists.agr name PC2
+hist PROJ:3 free 310 bins 100 out hists.agr name PC3
+
+#2D histograms (open with gnuplot)
+hist PROJ:1 PROJ:2 bins 100 out hists_1-2.gnu name PC12 free 310
+hist PROJ:1 PROJ:3 bins 100 out hists_1-3.gnu name PC13 free 310
+hist PROJ:2 PROJ:3 bins 100 out hists_2-3.gnu name PC23 free 310

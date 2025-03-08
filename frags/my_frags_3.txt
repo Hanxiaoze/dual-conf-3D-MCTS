@@ -1,0 +1,109 @@
+N
+c1ccccc1
+O
+C
+CC
+C=O
+CO: C, O
+CCC: C, CC
+CC=O: C, C=O
+O=CO: O, C=O
+c1ccncc1
+CN: C, N
+Clc1ccccc1
+Oc1ccccc1: O, c1ccccc1
+C1CCNCC1
+Fc1ccccc1
+O=P(O)(O)O
+CNC: C, C, N
+CCC=O: CC, C=O
+CC(=O)O: C, C=O, O
+FC(F)F
+CC(C)C
+CCO: CC, O
+NC=O
+C1CCNC1
+OC1COCC1O
+C1CNCCN1
+CCCC: CC, CC
+C1CC1
+S
+C1CCCCC1
+CCC(=O)O: CC, C=O, O
+Cc1ccccc1: C, c1ccccc1
+c1cncnc1
+C1COCCN1
+OC1COCC(O)C1O
+CC(C)O: CC, C, O
+c1cn[nH]c1
+c1c[nH]cn1
+c1ccc2[nH]ccc2c1
+CC(N)C(=O)O: CC, N, C=O, O
+c1ccsc1
+c1ccc2ccccc2c1
+O=[SH](=O)c1ccccc1
+Nc1ncnc2[nH]cnc12
+Clc1cccc(Cl)c1
+O=[N+]([O-])c1ccccc1
+CCCCC: CC, CC, C
+OC1CCOC1
+C1CCCC1
+CN1CCNCC1: C, C1CNCCN1
+O=P(O)(O)OP(=O)(O)O
+O=CCO: C=O, C, O
+Fc1cccc(F)c1
+CCCC=O: C, CC, C=O
+c1cscn1
+c1ccc2[nH]cnc2c1
+CCN: CC, N
+Oc1ccccc1O
+NS(=O)(=O)c1ccccc1: c1ccccc1, NS(=O)(=O)O
+c1ccc2ncccc2c1
+Nc1ccccc1: N, c1ccccc1
+O=c1cc[nH]c(=O)[nH]1
+CS: C, S
+C[SH](=O)=O
+Brc1ccccc1
+N#Cc1ccccc1
+CCCO: C, CC, O
+O=C1CCCN1
+C=CC
+Cc1cccc(C)c1: C, C, c1ccccc1
+CCCC(=O)O: C, CC, C=O, O
+c1ccoc1
+CCCCC(=O)O: CC, CC, C=O, O
+N=C(N)c1ccccc1
+CCCCCC: CC, CC, CC
+c1ncc2nc[nH]c2n1
+O=C(O)CCCC(=O)O: C=O, O, C, CC, C=O, O
+CC(O)CO: CC, O, C=O
+CN1CCCCC1: C, C1CCNCC1
+C[NH+](C)C
+c1ccc2ncncc2c1
+N=C(N)N
+CC(N)C=O: CC, N, C=O
+O=CNO: C=O, N, O
+Nc1cc[nH]c(=O)n1
+C1CCOC1
+Cc1c[nH]c(=O)[nH]c1=O: O=c1cc[nH]c(=O)[nH]1, C
+CC(F)(F)F:  FC(F)F, C
+NCC=O: N, C, C=O
+CC(C)CCC=O: CC, C, CC, C=O
+Oc1cccc(O)c1: O, O, c1ccccc1
+Nc1ccc([SH](=O)=O)cc1: O=[SH](=O)c1ccccc1, N
+CC(C)C=O: CC, C, C=O
+Clc1ccccc1Cl
+CCCCC=O: CC, CC, C=O
+O=CCCC(=O)O: C=O, CC, C=O, O
+Cn1cccn1: C, c1cn[nH]c1
+c1ccc2c(c1)OCO2
+CC1(C)CN2C(=O)CC2S1
+c1ccc2[nH]ncc2c1
+CC1=C(C(=O)O)N2C(=O)CC2SC1
+C1CCOCC1
+c1nc[nH]n1
+CCC(C)C: CC, CC, C
+NS(=O)(=O)O
+NC(CCC=O)C(=O)O: N, C, CC, C=O, C=O, O
+OC1CCOCC1O
+c1ccc2c(c1)Nc1ccccc1S2

@@ -1,0 +1,5 @@
+parm nsp5_8UTE_nowater.prmtop
+trajin nsp5_8UTE_nowater.ncdf
+reference nsp5_8UTE_nowater.ncdf 919 [xxx]
+rms ref [xxx] :22-27,41-54,138-145,164-173,184-194&!@H= out rmsd_ref_C0_pocket.dat
+#rms ref [xxx] :51-52&!@H= out rmsd_ref_C0_pocket.dat

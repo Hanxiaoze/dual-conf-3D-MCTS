@@ -1,0 +1,9 @@
+min2
+ &cntrl
+  imin   = 1,
+  maxcyc = 20000,
+  ncyc   = 10000,
+  ntb    = 1,
+  ntr    = 0,
+  cut    = 12.0
+ /

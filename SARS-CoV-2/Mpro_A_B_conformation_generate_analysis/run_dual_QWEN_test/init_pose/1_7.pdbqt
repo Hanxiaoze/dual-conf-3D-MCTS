@@ -1,0 +1,16 @@
+MODEL 8
+REMARK minimizedAffinity -2.65200496REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      39.017  83.467  62.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      39.409  84.181  60.848  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      40.781  84.388  60.641  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      41.654  83.890  61.566  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      41.241  83.208  62.658  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      39.929  82.997  62.870  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL

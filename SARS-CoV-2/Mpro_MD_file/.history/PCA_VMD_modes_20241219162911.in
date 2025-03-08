@@ -1,0 +1,40 @@
+parm nsp5_8UTE.top [pppp]
+trajin nsp5_8UTE_prod1.nc
+trajin nsp5_8UTE_prod2.nc
+trajin nsp5_8UTE_prod3.nc
+trajin nsp5_8UTE_prod4.nc
+trajin nsp5_8UTE_prod5.nc
+trajin nsp5_8UTE_prod6.nc
+trajin nsp5_8UTE_prod7.nc
+trajin nsp5_8UTE_prod8.nc
+trajin nsp5_8UTE_prod9.nc
+trajin nsp5_8UTE_prod10.nc
+rms first :1-302&!@H=
+average crdset crd-average
+createcrd nc-whole
+run
+crdaction nc-whole rms ref crd-average :1-302&!@H=
+crdaction nc-whole matrix covar \
+name nc-covar :1-302&!@H=
+runanalysis diagmatrix nc-covar out nc-evecs.dat \
+vecs 3 name myEvecs \
+nmwiz nmwizvecs 3 nmwizfile nc.nmd nmwizmask :1-302&!@H=
+crdaction nc-whole projection pppp modes myEvecs \
+beg 1 end 3 :1-302&!@H= crdframes 1,5000
+hist pppp:1 bins 100 out nc-hist.agr norm name nc-1
+hist pppp:2 bins 100 out nc-hist.agr norm name nc-2
+hist pppp:3 bins 100 out nc-hist.agr norm name nc-3
+run
+clear all
+readdata nc-evecs.dat name Evecs
+parm nsp5_8UTE.top
+parmstrip !(:1-302&!@H=)
+parmwrite out nc-modes.prmtop
+runanalysis modes name Evecs trajout nc-mode1.nc \
+pcmin -100 pcmax 100 tmode 1 trajoutmask :1-302&!@H= trajoutfmt netcdf
+runanalysis modes name Evecs trajout nc-mode2.nc \
+pcmin -100 pcmax 100 tmode 2 trajoutmask :1-302&!@H= trajoutfmt netcdf
+runanalysis modes name Evecs trajout nc-mode3.nc \
+pcmin -100 pcmax 100 tmode 3 trajoutmask :1-302&!@H= trajoutfmt netcdf
+run
+quit
