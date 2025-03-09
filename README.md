@@ -44,26 +44,45 @@ Create `MPerformer_test` conda env:
    conda run -n MPerformer_test pip install scikit-learn
    conda run -n MPerformer_test pip install numpy
 ```
+Please download the [MPerformer-checkpoint](https://drive.google.com/file/d/1sHWm1xOy0I8_R50dPANfMUXoRQkoPCBJ/view?usp=drive_link) and place it to the fold `./MPerformer-master/weight`
+
 
 
 Quick Start
 ------------
-The script `dual_target_drug_prepare_traning_generating_analysis_workflow.py` is the main interface, it will automatically solve and creat Conda env and call other script to run and the whole workflow. The absolute paths of `MGLToolsPckgs` and `Vinna_bin_path` are need to change with your installing path. 
+You need to in 3rd son dir to run the script:
+```
+cd dual-conf-3D-MCTS/
+conda activate dual-conf-3D-MCTS_env
+mkdir -p first/second/run_dua_conf
+cd /second/run_dua_conf
+cp ligand_A.sdf ligand_B.sdf conf_A.pdb conf_B.pdb conf_A_pocket.pdb conf_B_pocket.pdb ./
+python ../../../3D-MCTS-dual-target_QWEN.py --num_sims 100000 --ligand ./ligand_A.sdf --ligand_dual ../ligand_B.sdf --protein ../conf_A.pdb --protein_dual ../conf_B.pdb --pocket ../conf_A_pocket.pdb --pocket_dual ../conf_B_pocket.pdb --score -7 --score_dual 0 --start 1 --qed 0.3 --processor 30
+```
 
-If you have solved the Conda env manually, you can just use the script `dual_target_drug_prepare_traning_generating_analysis_workflow_manu_solve_conda_env.py` to run the whole workflow.
+An example, for the paper data reproduce, dual conformation:
+```
+cd ./SARS-CoV-2/Mpro_A_B_conformation_generate_analysis/run_dual_QWEN_test/
+python ../../../3D-MCTS-dual-target_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ../ligand_B_s.sdf --protein ../conf_A_919.pdb --protein_dual ../conf_B_4240.pdb --pocket ../conf_A_919_pock.pdb --pocket_dual ../conf_B_4240_pock.pdb --score -7 --score_dual 0 --start 1 --qed 0.3 --processor 30
+```
 
-Please download the [MPerformer-checkpoint](https://drive.google.com/file/d/1sHWm1xOy0I8_R50dPANfMUXoRQkoPCBJ/view?usp=drive_link) and place it to the fold `./MPerformer-master/weight`
+An example, for the paper data reproduce, single conformation A:
+```
+cd ./SARS-CoV-2/Mpro_A_B_conformation_generate_analysis/run_conf_A_dual_QWEN_test/
+python ../../../3D-MCTS.py --num_sims 100000 --ligand ../ligand_A_s.sdf --protein ../conf_A_919.pdb --pocket ../conf_A_919_pock.pdb --score -7 --start 1 --frag_lib '../../../frags/fragments.txt' --qed 0.3 --processor 30
+```
 
-In short, the workflow can be run by just two ways:
+An example, for the paper data reproduce, single conformation B:
+```
+cd ./SARS-CoV-2/Mpro_A_B_conformation_generate_analysis/run_conf_B_dual_QWEN_test/
+python ../../../3D-MCTS.py --num_sims 100000 --ligand ../ligand_B_s.sdf --protein ../conf_B_4240.pdb --pocket ../conf_B_4240_pock.pdb --score -7 --start 1 --frag_lib '../../../frags/fragments.txt' --qed 0.3 --processor 30
+```
 
-```bash
-   python dual_target_drug_prepare_traning_generating_analysis_workflow.py
-   python dual_target_drug_prepare_traning_generating_analysis_workflow_manu_solve_conda_env.py
-   ```
 
-The PDB files `target_protein_1.pdb` and `target_protein_2.pdb` are the 3D structures of the two target-proteins which are used as docking receptors, they should be changed to your target-proteins PDB files according to your researching project. The files `config_1.txt` and `config_2.txt` are two docking configuration files for target-protein-1 and target-protein-2 respectively, they definite the docking pocket sites of two target-proteins. 
 
-The files `times.ttf`, `timesi.ttf`, `timesbi.ttf`, `timesbd.ttf` are the font files to set the matplotlib figure plotting font, the need to be placed to the right place of the corresponding Conda env (`~/anaconda3/envs/3D_Scaffold_test/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/`).
+
+
+
 
 
 Data for research reproducing
@@ -77,4 +96,5 @@ Reference
 2. Reference the gnina from: https://github.com/gnina/gnina
 3. Reference the MPerformer lib from: https://github.com/FanmengWang/MPerformer
 4. Reference the Uni-Core from: https://github.com/dptech-corp/Uni-Core/releases
+5. Reference the ADFR from: https://ccsb.scripps.edu/adfr/
 
