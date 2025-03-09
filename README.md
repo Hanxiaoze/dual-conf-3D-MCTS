@@ -56,7 +56,7 @@ mini_QWEN_frag_recomd.ipynb
 ```
 Then, you can run ```3D-MCTS-dual-conf_QWEN.py```
 
-You need to in 3rd level sub-directory to run the script:
+You need go to in 3rd level sub-directory to run the script:
 ```
 cd dual-conf-3D-MCTS/
 conda activate dual-conf-3D-MCTS_env
