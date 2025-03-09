@@ -50,6 +50,11 @@ Please download the [MPerformer-checkpoint](https://drive.google.com/file/d/1sHW
 
 # Quick Start
 ------------
+Train the mini-GPT/QWEN model for dual-conf-3D-MCTS use our provided file:
+```
+mini_QWEN_frag_recomd.ipynb
+```
+
 You need to in 3rd level sub-directory to run the script:
 ```
 cd dual-conf-3D-MCTS/
