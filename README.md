@@ -9,7 +9,12 @@ dual conformation 3D Monte Carlo Tree Search drug generation method with mini-GP
 
 Dependencies
 ------------
-# Environment
+# Use envi file:
+```
+conda env create -f ./environment.yml -n dual-conf-3D-MCTS_env
+```
+
+# Main Environment dependencies:
 ```
 # software
 gnina         ## https://github.com/gnina/gnina
