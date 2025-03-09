@@ -54,6 +54,7 @@ Train the mini-GPT/QWEN model for dual-conf-3D-MCTS use our provided file:
 ```
 mini_QWEN_frag_recomd.ipynb
 ```
+Then, you can run ```3D-MCTS-dual-conf_QWEN.py```
 
 You need to in 3rd level sub-directory to run the script:
 ```
