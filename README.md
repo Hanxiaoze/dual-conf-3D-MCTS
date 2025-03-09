@@ -7,7 +7,7 @@ dual conformation 3D Monte Carlo Tree Search drug generation method with mini-GP
 
 
 
-Dependencies
+# Dependencies
 ------------
 # Use envi file:
 ```
