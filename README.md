@@ -80,16 +80,6 @@ python ../../../3D-MCTS.py --num_sims 100000 --ligand ../ligand_B_s.sdf --protei
 
 
 
-
-
-
-
-
-Data for research reproducing
---------
-1. [zip files for research reproducing of our paper of training and generating process](https://drive.google.com/drive/folders/1WnKOa9ul7w6HpIXFdSPEOsk43Ec5tr0i?usp=sharing)
-2. [all files for research reproducing of our paper of MD simulations and MM-GBSA calculations](https://pan.baidu.com/s/18DbmaKho242RSxJ-cbmrPg?pwd=8888)
-
 Reference
 --------
 1. Reference the single-target 3D-MCTS lib from: https: https://github.com/Brian-hongyan/3D-MCTS
