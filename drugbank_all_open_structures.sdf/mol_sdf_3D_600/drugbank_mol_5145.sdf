@@ -1,0 +1,46 @@
+
+     RDKit          3D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    0.6444   -1.1680   -2.1620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1439   -0.0313   -2.7049 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4316    1.3039    0.2481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0973   -0.0727    0.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3078   -1.1371   -0.6474 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5779   -2.4553   -0.0284 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5966   -2.9231    0.5386 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4170   -3.2398    0.4748 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0057   -4.4183    0.9929 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7448    1.3392    1.1860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8000    1.9584    2.2380 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4612   -2.1475   -2.8751 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7914    0.6400    0.7254 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 12  2  0
+  3 10  1  0
+  4  3  1  0
+  5  6  1  0
+  5  4  1  1
+  5  1  1  0
+  6  8  1  0
+  8  7  2  0
+  9  8  1  0
+ 10 11  2  0
+ 10 13  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06775
+
+>  <COMMON_NAME>  (1) 
+Carglumic acid
+
+>  <CAS_NUMBER>  (1) 
+1188-38-1
+
+>  <UNII>  (1) 
+5L0HB4V1EW
+
+>  <SYNONYMS>  (1) 
+(2S)-2-(carbamoylamino)pentanedioic acid; (S)-2-ureidopentanedioic acid; Acide carglumique; ácido carglúmico; Acidum carglumicum; Carbamino-L-glutamic acid; Carbamylglutamic acid; Carglumic acid; L-N-Carbamoylglutamic acid; N-Carbamoyl-L-Glutamic Acid; N-Carbamyl-L-glutamate; N-Carbamylglutamate; Ureidoglutaric acid
+
+$$$$

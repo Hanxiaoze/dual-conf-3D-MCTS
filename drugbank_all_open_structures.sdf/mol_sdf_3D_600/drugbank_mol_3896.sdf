@@ -1,0 +1,45 @@
+
+     RDKit          3D
+
+ 10 10  0  0  1  0  0  0  0  0999 V2000
+    0.9574   -0.1704   -0.0540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4397   -1.1567    0.9667 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1457   -2.5038    0.9594 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4849   -3.2792   -0.1571 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9855   -2.9234   -0.0699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0889   -1.5446    0.6066 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1377   -1.6538    1.7581 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7752   -2.3610    2.7359 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1794   -0.9614    1.5813 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5548   -0.4904    2.3340 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  6  1  0
+  2 10  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  1
+  7  8  2  0
+  7  9  1  0
+M  CHG  2   2   1   9  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04284
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02506
+
+>  <COMMON_NAME>  (1) 
+L-proline betaine
+
+>  <CAS_NUMBER>  (1) 
+471-87-4
+
+>  <UNII>  (1) 
+S1L688345C
+
+>  <SYNONYMS>  (1) 
+(S)-2-carboxylato-1,1-dimethylpyrrolidinium; L-stachydrine; Methyl hygrate betaine; Methyl hygrate βine; N,N-dimethyl-L-proline; Proline betaine; Stachydrine
+
+$$$$

@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0909   -0.0252    0.0047 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6066   -0.5099    1.3701 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0868   -1.9360    1.6296 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0909    0.4247    2.4773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8207   -0.5248    1.3728 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  2  5  1  0
+  2  1  1  0
+  2  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03900
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03021
+
+>  <COMMON_NAME>  (1) 
+tert-butanol
+
+>  <CAS_NUMBER>  (1) 
+75-65-0
+
+>  <UNII>  (1) 
+MD83SFE959
+
+>  <SYNONYMS>  (1) 
+1,1-dimethylethanol; t-butanol; t-butyl alchohol; t-Butyl alcohol; t-Butylalkohol; tert-butanol; tert-butyl alcohol; tertiary-butyl alcohol; trimethylcarbinol; trimethylmethanol
+
+$$$$

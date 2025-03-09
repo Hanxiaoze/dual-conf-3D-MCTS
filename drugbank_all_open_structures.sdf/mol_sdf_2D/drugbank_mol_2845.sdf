@@ -1,0 +1,39 @@
+Acetic acid.mol
+ OpenBabel10282417072D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.0074   -0.2417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.6413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0096    0.6669    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.6669    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6313   -0.0897    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7336   -1.7111    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6505   -1.1595    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6977   -1.6038    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB03166
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT00423; DB04184
+
+>  <COMMON_NAME>
+Acetic acid
+
+>  <CAS_NUMBER>
+64-19-7
+
+>  <UNII>
+Q40Q9N063P
+
+>  <SYNONYMS>
+Acetic acid; Acetic acid, glacial; Aceticum acidum; acide acétique; ácido acético; Essigsäure; Ethanoat; Ethanoate; Ethanoic acid; Ethoic acid; Ethylic acid; Glacial acetic acid; HOAc; Methanecarboxylic acid; Vinegar
+
+$$$$

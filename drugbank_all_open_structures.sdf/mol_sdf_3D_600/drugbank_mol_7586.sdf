@@ -1,0 +1,29 @@
+
+     RDKit          3D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    1.0643    0.0765    0.0025 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.9279   -0.0237   -0.0651 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.9241    0.0648    0.0066 Sr  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  3   1  -1   2  -1   3   2
+M  ISO  1   3  89
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09498
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB12546
+
+>  <COMMON_NAME>  (1) 
+Strontium chloride Sr-89
+
+>  <CAS_NUMBER>  (1) 
+38270-90-5
+
+>  <UNII>  (1) 
+5R78837D4A
+
+>  <SYNONYMS>  (1) 
+Strontium (89Sr) chloride; Strontium chloride Sr 89; strontium chloride, 89Sr-labeled; Strontium chloride, Sr-89; Strontium-89 chloride
+
+$$$$

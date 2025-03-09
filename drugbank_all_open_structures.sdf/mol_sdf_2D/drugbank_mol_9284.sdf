@@ -1,0 +1,35 @@
+
+ OpenBabel10282417072D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+   -0.1275   -1.0505    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4671    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5834    1.0505    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834   -0.1161    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.5834    1.0505    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5834   -0.1161    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+M  CHG  3   1   2   4  -1   6  -1
+M  END
+>  <DRUGBANK_ID>
+DB13257
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DBSALT000084
+
+>  <COMMON_NAME>
+Ferrous sulfate anhydrous
+
+>  <CAS_NUMBER>
+7720-78-7
+
+>  <UNII>
+2IDP3X9OUD
+
+>  <SYNONYMS>
+iron sulfate (1:1); iron(2+) sulfate (anhydrous); iron(II) sulfate
+
+$$$$

@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0175    0.0972    0.0154 Tl  0  0  0  0  0  3  0  0  0  0  0  0
+    3.4875    0.0972    0.0154 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09316
+
+>  <COMMON_NAME>  (1) 
+Thallous chloride
+
+>  <CAS_NUMBER>  (1) 
+7791-12-0
+
+>  <UNII>  (1) 
+37CB58V15B
+
+>  <SYNONYMS>  (1) 
+Thallium chloride; thallium monochloride; Thallium(I) chloride
+
+$$$$

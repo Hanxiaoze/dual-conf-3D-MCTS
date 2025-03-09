@@ -1,0 +1,31 @@
+
+     RDKit          3D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.9250    0.0244    0.0837 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5120    0.8595   -0.9929 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0306    2.2831   -0.8187 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8519    2.3414   -0.8995 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03345
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02882; DB03131
+
+>  <COMMON_NAME>  (1) 
+Mercaptoethanol
+
+>  <CAS_NUMBER>  (1) 
+60-24-2
+
+>  <UNII>  (1) 
+14R9K67URN
+
+>  <SYNONYMS>  (1) 
+2-mercaptoethanol; beta-mercaptoethanol; Thiomonoglycol
+
+$$$$

@@ -1,0 +1,28 @@
+
+ OpenBabel10282417103D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9704    0.0574    0.0742 N   0  0  0  0  0  2  0  0  0  0  0  0
+    2.1863    0.0574    0.0742 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+M  RAD  1   1   2
+M  END
+>  <DRUGBANK_ID>
+DB00435
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD01142
+
+>  <COMMON_NAME>
+Nitric Oxide
+
+>  <CAS_NUMBER>
+10102-43-9
+
+>  <UNII>
+31C4KY9ESH
+
+>  <SYNONYMS>
+EDRF; endothelium-derived relaxing factor; Mononitrogen monoxide; Monóxido de nitrógeno; Monoxyde d'azote; Nitric Oxide; Nitrogen monooxide; Nitrogen monoxide; Nitrosyl; NO; óxido de nitrógeno(II); óxido nítrico; Oxyde azotique; Oxyde nitrique; Stickstoff(II)-oxid; Stickstoffmonoxid
+
+$$$$

@@ -1,0 +1,39 @@
+Guaiacol
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    2.2688    0.0295    0.0109 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5441   -2.5839    0.0176 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9104   -0.1232    0.0114 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1271   -1.2847    0.0097 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2489    1.1196    0.0116 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2695   -1.1886   -0.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1457    1.2084   -0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9065    0.0476   -0.0102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1011   -1.1109   -0.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  9  1  0
+  2  4  1  0
+  3  4  2  0
+  3  5  1  0
+  4  6  1  0
+  5  7  2  0
+  6  8  2  0
+  7  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11359
+
+>  <COMMON_NAME>  (1) 
+Guaiacol
+
+>  <CAS_NUMBER>  (1) 
+90-05-1
+
+>  <UNII>  (1) 
+6JKA7MAH9C
+
+>  <SYNONYMS>  (1) 
+1-hydroxy-2-methoxybenzene; 2-methoxyl-4-vinylphenol; 2-methoxyphenol; Guaiacol; o-guaiacol; o-hydroxyanisole; o-Methoxyphenol; Pyrocatechol monomethyl ether; Pyroguaiac acid
+
+$$$$

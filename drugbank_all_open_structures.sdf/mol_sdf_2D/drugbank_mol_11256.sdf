@@ -1,0 +1,25 @@
+
+ OpenBabel10282417072D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.0033    0.0000 Tl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.0033    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+M  ISO  1   1 201
+M  END
+>  <DRUGBANK_ID>
+DB16624
+
+>  <COMMON_NAME>
+Thallous chloride Tl-201
+
+>  <CAS_NUMBER>
+55172-29-7
+
+>  <UNII>
+3I8Y076A0E
+
+>  <SYNONYMS>
+Thallium (201Tl) chloride; Thallous chloride Tl 201
+
+$$$$

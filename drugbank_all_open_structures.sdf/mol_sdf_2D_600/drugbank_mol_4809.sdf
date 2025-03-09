@@ -1,0 +1,43 @@
+
+     RDKit          2D
+
+ 10  9  0  0  1  0  0  0  0  0999 V2000
+    2.8073   -0.9817    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0928    0.2558    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8073    1.4932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9505   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2362    0.6682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8073    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9505    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6651    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  8  1  0
+  3  8  2  0
+  4  9  2  0
+  5  9  1  0
+  6  5  1  0
+  6  7  1  1
+  6  8  1  0
+  9 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06151
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB05436
+
+>  <COMMON_NAME>  (1) 
+Acetylcysteine
+
+>  <CAS_NUMBER>  (1) 
+616-91-1
+
+>  <UNII>  (1) 
+WYQ7N0BPYC
+
+>  <SYNONYMS>  (1) 
+(2R)-2-acetylamino-3-sulfanylpropanoic acid; (R)-2-acetylamino-3-mercaptopropanoic acid; (R)-mercapturic acid; Acetilcisteina; Acetylcysteine; Acetylcysteinum; L-acetylcysteine; L-α-acetamido-β-mercaptopropionic acid; Mercapturic acid; N-acetyl-L-(+)-cysteine; N-acetyl-L-cysteine; N-acetylcysteine; NAC
+
+$$$$

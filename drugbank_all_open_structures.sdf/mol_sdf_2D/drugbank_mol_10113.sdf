@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB14500
+
+>  <COMMON_NAME>
+Potassium
+
+>  <CAS_NUMBER>
+7440-09-7
+
+>  <UNII>
+RWP5GA015D
+
+>  <SYNONYMS>
+K; Kalium; Potasio; Potassium metal; Potassium, elemental; Potassium, metal
+
+$$$$

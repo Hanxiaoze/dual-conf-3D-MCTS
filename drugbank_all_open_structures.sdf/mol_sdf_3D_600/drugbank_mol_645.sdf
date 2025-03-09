@@ -1,0 +1,38 @@
+763
+     RDKit          3D
+
+  7  7  0  0  0  0  0  0  0  0999 V2000
+   -1.9087    0.3903   -0.0104 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5903   -0.8262    0.0151 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6132    1.4008   -0.0114 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2593    0.3005    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9002   -0.3885    0.0116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1776   -2.2074   -0.0299 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9092    0.9522   -0.0044 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  4  1  0
+  3  7  1  0
+  5  7  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00763
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00002
+
+>  <COMMON_NAME>  (1) 
+Methimazole
+
+>  <CAS_NUMBER>  (1) 
+60-56-0
+
+>  <UNII>  (1) 
+554Z48XN5E
+
+>  <SYNONYMS>  (1) 
+1-Methylimidazole-2(3H)-thione; Methimazole; Thiamazol; Thiamazole; Thiamazolum; Tiamazol
+
+$$$$

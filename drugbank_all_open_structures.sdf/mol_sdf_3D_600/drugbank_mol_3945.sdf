@@ -1,0 +1,30 @@
+
+     RDKit          3D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    0.9041    0.0118    0.0611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4289   -1.0378    0.9009 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0385   -1.9000    1.5908 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  3  3  0
+M  CHG  2   2   1   3  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04337
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02202
+
+>  <COMMON_NAME>  (1) 
+Isocyanomethane
+
+>  <CAS_NUMBER>  (1) 
+593-75-9
+
+>  <UNII>  (1) 
+B5B6DXM7GG
+
+>  <SYNONYMS>  (1) 
+Methyl isocyanide; Methyl isonitrile; Methylisonitrile
+
+$$$$

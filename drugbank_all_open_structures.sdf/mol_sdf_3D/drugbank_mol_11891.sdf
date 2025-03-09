@@ -1,0 +1,28 @@
+
+ OpenBabel10282417243D
+
+  4  2  0  0  0  0  0  0  0  0999 V2000
+    1.0347   -0.0784    0.0515 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    0.9145   -0.0308    0.0417 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.7645   -0.0308    0.0417 As  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4202   -0.0308    0.0417 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>
+DB18508
+
+>  <COMMON_NAME>
+Sodium arsenite
+
+>  <CAS_NUMBER>
+7784-46-5
+
+>  <UNII>
+48OVY2OC72
+
+>  <SYNONYMS>
+Arsenenous acid, sodium salt (1:1); Arsenious acid, monosodium salt; Arsenious acid, sodium salt; Sodium (meta)arsenite; Sodium arsenenite; Sodium dioxoarsenate; Sodium meta arsenite; Sodium meta-arsenite; Sodium metaarsenite
+
+$$$$

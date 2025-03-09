@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    1.0664   -0.1242   -0.0150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6087    1.0768    0.7974 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1173    2.3941    0.1911 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6183    2.6508   -1.2495 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3764    3.8465   -1.8613 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6077    3.7301   -0.3811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2714    5.1356   -0.8223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9361    2.6812   -1.2831 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8706    3.6505   -3.1009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6277    4.9023   -1.2851 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  3  1  0
+  3  4  1  0
+  4  8  1  0
+  4  5  1  0
+  5  9  1  0
+  5 10  2  0
+  6  7  1  0
+  6  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00313
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00256; DB00510; APRD00066
+
+>  <COMMON_NAME>  (1) 
+Valproic acid
+
+>  <CAS_NUMBER>  (1) 
+99-66-1
+
+>  <UNII>  (1) 
+614OI1Z5WI
+
+>  <SYNONYMS>  (1) 
+2-n-propyl-n-valeric acid; 2-propyl-pentanoic acid; 2-Propylpentanoic Acid; 2-Propylvaleric Acid; 4-heptanecarboxylic acid; acide valproïque; ácido valproico; acidum valproicum; di-n-propylacetic acid; Di-n-propylessigsäure; Dipropylacetic acid; DPA; n-DPA; Valproate; Valproic acid; Valproinsäure; VPA
+
+$$$$

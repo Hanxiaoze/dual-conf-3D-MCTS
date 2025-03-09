@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 11 11  0  0  1  0  0  0  0  0999 V2000
+   -0.4537   -2.4041    3.2005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9405   -2.5037    2.5513 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9697   -3.0044    3.2694 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8008   -2.7137    1.0379 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5206   -2.4229   -0.3138 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6545   -3.0706   -1.4822 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1419   -4.4739   -1.2016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4451   -5.3438   -2.2669 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3360   -6.5313   -2.3721 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1879   -4.9893    0.0082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7296   -4.2540    1.1404 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  4  5  1  0
+  4 11  1  0
+  4  2  1  1
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7 10  2  0
+  8  9  1  0
+ 10 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB15289
+
+>  <COMMON_NAME>  (1) 
+Perillyl alcohol
+
+>  <CAS_NUMBER>  (1) 
+18457-55-1
+
+>  <UNII>  (1) 
+3UL4QIY642
+
+>  <SYNONYMS>  (1) 
+(±)-1-CYCLOHEXENE-1-METHANOL, 4-(1-METHYLETHENYL)-; (±)-PERILLYL ALCOHOL; 1-CYCLOHEXENE-1-METHANOL, 4-(1-METHYLETHENYL)-; DIHYDROCUMINIC ALCOHOL; DIHYDROCUMINYL ALCOHOL; DL-PERILLYL ALCOHOL; HYDROCUMIN ALCOHOL; P-MENTHA-1,8-DIEN-7-OL; Perilla alcohol
+
+$$$$

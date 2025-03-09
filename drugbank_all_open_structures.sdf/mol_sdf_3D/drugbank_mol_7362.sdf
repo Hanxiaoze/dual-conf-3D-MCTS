@@ -1,0 +1,24 @@
+
+ OpenBabel10282417173D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.0424    0.3968    0.6143 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    1.9914   -0.4873   -0.4811 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>
+DB09153
+
+>  <COMMON_NAME>
+Sodium chloride
+
+>  <CAS_NUMBER>
+7647-14-5
+
+>  <UNII>
+451W47IQ8X
+
+>  <SYNONYMS>
+Cloruro sódico; Natriumchlorid; Natrum muriaticum; Sodium chloride
+
+$$$$

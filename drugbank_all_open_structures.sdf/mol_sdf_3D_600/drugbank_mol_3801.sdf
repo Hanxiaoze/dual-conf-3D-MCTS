@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  1  0  0  0  0  0999 V2000
+   -1.1296   -4.2399    1.1217 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5820   -2.7865    1.0870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9718   -1.9468    2.2221 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5760   -1.9196    2.2679 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1859   -2.2389    0.9683 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0747   -2.8868    3.3725 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8314   -2.3014    4.3314 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8104   -4.0832    3.4370 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  4  6  1  0
+  4  5  1  6
+  4  3  1  0
+  6  7  1  0
+  6  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04185
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00144; EXPT02397; DB03519
+
+>  <COMMON_NAME>  (1) 
+Norvaline
+
+>  <CAS_NUMBER>  (1) 
+6600-40-4
+
+>  <UNII>  (1) 
+A70UKS48FE
+
+>  <SYNONYMS>  (1) 
+(S)-2-Aminopentanoic acid; 2-Aminopentanoic acid; 2-Aminovaleric acid; L-2-aminopentanoic acid; L-2-Aminovaleric acid; L-Norvaline
+
+$$$$

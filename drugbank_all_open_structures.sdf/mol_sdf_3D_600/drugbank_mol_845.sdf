@@ -1,0 +1,54 @@
+
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+   -1.6373    7.0504    2.0528 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2112    7.6265    0.9251 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1279    4.8189    1.1635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6824    5.4263    0.0280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5966    5.6512    2.1685 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2455    1.5304   -0.0286 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3774    1.9355   -1.1772 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2808    2.4047    1.2550 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0040    3.3068    1.2662 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9990    0.2171    0.1887 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2785    8.9820    0.7538 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7296    6.8135   -0.0781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2871    7.3579   -1.2010 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6091    3.1630    1.2876 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2802    1.5218    2.4619 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0
+  2  1  1  0
+  2 12  2  0
+  4  3  2  0
+  5  3  1  0
+  6  7  2  0
+  8 14  1  6
+  8 15  1  0
+  8  9  1  0
+  8  6  1  0
+  9  3  1  0
+ 10  6  1  0
+ 11  2  1  0
+ 12  4  1  0
+ 12 13  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00968
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01106
+
+>  <COMMON_NAME>  (1) 
+Methyldopa
+
+>  <CAS_NUMBER>  (1) 
+555-30-6
+
+>  <UNII>  (1) 
+M4R0H12F6M
+
+>  <SYNONYMS>  (1) 
+(S)-(-)-alpha-Methyldopa; 3-Hydroxy-alpha-methyl-L-tyrosine; Alpha medopa; alpha-Methyl dopa; alpha-methyl-L-dopa; Alphamethyldopa; AMD; Anhydrous methyldopa; L-alpha-Methyldopa; L-Methyl Dopa; Methyl dopa; Methyldopa; Methyldopa anhydrous; metildopa; α-Methyl dopa; α-methyl-L-dopa
+
+$$$$

@@ -1,0 +1,73 @@
+367
+     RDKit          2D
+
+ 23 26  0  0  1  0  0  0  0  0999 V2000
+    6.6263    1.5550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    0.5186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993   -0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849   -0.7189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703   -0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799    0.7700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849    0.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799   -0.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703    0.5186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9196   -0.7246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3614    0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -1.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    1.3436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9130   -1.5839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550   -0.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849    1.7561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5482    1.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3729   -0.6948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1413   -2.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.5899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2165    1.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2 22  2  0
+  3  4  1  0
+  3  7  1  0
+  3  8  1  0
+  3 14  1  1
+  4  5  1  0
+  4  9  1  1
+  5  6  1  0
+  5 13  1  6
+  6 10  1  1
+  6 11  1  0
+  7  1  1  1
+  7 12  1  0
+  7 19  1  0
+  8 10  1  0
+  9 12  1  0
+ 11 16  1  0
+ 11 17  1  6
+ 13 15  1  0
+ 14 18  1  0
+ 15 16  1  0
+ 16 21  2  0
+ 17 20  1  0
+ 19 23  3  0
+ 20 22  1  0
+ 21 22  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00367
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00754; DB00506; APRD00106
+
+>  <COMMON_NAME>  (1) 
+Levonorgestrel
+
+>  <CAS_NUMBER>  (1) 
+797-63-7
+
+>  <UNII>  (1) 
+5W7SIA7YZW
+
+>  <SYNONYMS>  (1) 
+(-)-13-Ethyl-17-hydroxy-18,19-dinor-17alpha-pregn-4-en-20-yn-3-one; (8R,9S,10R,13S,14S,17R)-13-ethyl-17-ethynyl-17-hydroxy- 1,2,6,7,8,9,10,11,12,13,14,15,16, 17- tetradecahydrocyclopenta[a] phenanthren-3-one; 13-beta-Ethyl-17alpha-ethynyl-17beta-hydroxygon-4-en-3-one; 13-Ethyl-17-alpha-ethynyl-17-beta-hydroxy-4-gonen-3-one; 13-Ethyl-17-alpha-ethynylgon-4-en-17-beta-ol-3-one; 17-alpha-Ethinyl-13-beta-ethyl-17-beta-hydroxy-4-estren-3-one; 17-alpha-Ethynyl-13-ethyl-19-nortestosterone; 17-Ethynyl-18-methyl-19-nortestosterone; 17alpha-Ethynyl-13beta-ethyl-3-oxo-4-estren-17beta-ol; 17alpha-Ethynyl-17-hydroxy-18-methylestr-4-en-3-one; 17alpha-Ethynyl-18-homo-19-nortestosterone; 18-Methyl-17-alpha-ethynyl-19-nortestosterone; 18-Methylnorethisterone; d(-)-Norgestrel; Lèvonorgestrel; Levonorgestrel; Levonorgestrelum
+
+$$$$

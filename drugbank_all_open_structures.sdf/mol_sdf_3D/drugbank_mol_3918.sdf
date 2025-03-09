@@ -1,0 +1,66 @@
+
+ OpenBabel10282417143D
+
+ 21 21  0  0  1  0  0  0  0  0999 V2000
+   -3.6502    2.2392    1.3001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4607    0.1619    2.2296 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0004    2.9110    2.4713 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8053    0.8355    3.4057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8701    0.8568    1.1611 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5745    2.2013    3.5173 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3478    0.1148   -0.0561 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8026    0.0111   -0.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7796    0.7592   -1.3332 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9202    2.8099    4.6869 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2051    0.2497   -1.2009 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1532   -0.2629    1.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7352   -0.9118   -0.0791 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1589    2.8028    0.5115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6217   -0.9137    2.1805 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7887    3.9721    2.5508 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2296    0.2929    4.2463 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8053    0.7903   -1.3026 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5155    1.7456   -1.3044 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7037    3.7546    4.6259 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9011    0.4142   -1.8766 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  2  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  1  2  0  0  0  0
+  5  2  1  0  0  0  0
+  6  3  2  0  0  0  0
+  6  4  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7  5  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12  8  2  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB04308
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01178
+
+>  <COMMON_NAME>
+D-4-hydroxyphenylglycine
+
+>  <CAS_NUMBER>
+22818-40-2
+
+>  <UNII>
+PCM9OIX717
+
+>  <SYNONYMS>
+(R)-(4-hydroxyphenyl)glycine; (R)-2-(4-hydroxyphenyl)glycine; (R)-alpha-Amino-4-hydroxybenzeneacetic acid; (R)-ethyl 2-amino-2-(4-hydroxyphenyl)acetate; 4-hydroxy-d-phenylglycine; D-(-)-2-(p-hydroxyphenyl)glycine; D-(-)-4-hydroxyphenylglycine; D-(-)-amino(4-hydroxyphenyl)acetic acid; D-(-)-p-hydroxyphenylglycine; D-2-amino-2-(p-hydroxyphenyl)acetic acid; D-4-hydroxyphenylglycine; D-N-(4-Hydroxyphenyl)glycine; D-p-hydroxyphenylglycine; P-hydroxy-(R)-phenylglycine; P-hydroxy-d-phenylglycine
+
+$$$$

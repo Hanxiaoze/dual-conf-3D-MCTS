@@ -1,0 +1,29 @@
+
+     RDKit          3D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0802    0.0493   -0.0337 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7902    0.0493   -0.0337 Hg  0  0  0  0  0  2  0  0  0  0  0  0
+    6.5002    0.0493   -0.0337 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04445
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01740; DB11214
+
+>  <COMMON_NAME>  (1) 
+Mercuric iodide
+
+>  <CAS_NUMBER>  (1) 
+7774-29-0
+
+>  <UNII>  (1) 
+R03O05RB0P
+
+>  <SYNONYMS>  (1) 
+Hydrargyrum bijodatum; Mercuric iodide red; Mercuric iodide, red; Mercury Diiodide; Red mercuric iodide
+
+$$$$

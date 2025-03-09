@@ -1,0 +1,56 @@
+636
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   -2.2020   -0.1218    0.0104 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.6418    0.1427   -0.2133 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4414   -0.3100    0.1642 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8343    1.8773    0.0863 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4710    1.2939   -0.0255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3182    2.1486   -1.2908 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2031    2.0582    1.2982 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9966    0.9624    0.0632 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2895    0.1365   -0.0976 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -1.4816    0.1857 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5049    1.2784   -0.0486 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6701   -1.1197   -0.0682 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1243    1.1966   -0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2763   -1.2111   -0.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8218   -1.5752    1.4855 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4884   -0.0464    0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0
+  2  5  1  0
+  2  9  1  0
+  3  8  1  0
+  3 10  1  0
+  4  8  2  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  9 11  2  0
+  9 12  1  0
+ 10 15  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 13 16  2  0
+ 14 16  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00636
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00879
+
+>  <COMMON_NAME>  (1) 
+Clofibrate
+
+>  <CAS_NUMBER>  (1) 
+637-07-0
+
+>  <UNII>  (1) 
+HPN91K7FU3
+
+>  <SYNONYMS>  (1) 
+2-(4-Chlorophenoxy)-2-methylpropanoic acid ethyl ester; 2-(p-Chlorophenoxy)-2-methylpropionic acid ethyl ester; alpha-(p-Chlorophenoxy)isobutyric acid, ethyl ester; alpha-p-Chlorophenoxyisobutyryl ethyl ester; Clofibrate; Clofibrato; Clofibratum; EPIB; Ethyl 2-(p-chlorophenoxy)isobutyrate; Ethyl chlorophenoxyisobutyrate; Ethyl clofibrate; Liprin
+
+$$$$

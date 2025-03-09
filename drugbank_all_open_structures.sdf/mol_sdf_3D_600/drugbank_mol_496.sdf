@@ -1,0 +1,46 @@
+609
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    1.0004   -0.0117    0.1592 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8086   -2.9216   -2.3453 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4170    0.7962    0.7558 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2640   -2.6347   -4.2236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6969   -2.3115   -2.8159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9668   -1.4063   -2.0554 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4130   -1.0959   -0.7678 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3153   -2.2145   -5.2393 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5628   -1.7070   -0.2754 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2155   -2.6123   -1.0934 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6653   -0.1109    0.0543 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0
+  2  5  2  0
+  2 10  1  0
+  3 11  1  0
+  4  5  1  0
+  4  8  1  0
+  5  6  1  0
+  6  7  2  0
+  7  9  1  0
+  7 11  1  0
+  9 10  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00609
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00961
+
+>  <COMMON_NAME>  (1) 
+Ethionamide
+
+>  <CAS_NUMBER>  (1) 
+536-33-4
+
+>  <UNII>  (1) 
+OAY8ORS3CQ
+
+>  <SYNONYMS>  (1) 
+2-ethyl-4-thiopyridylamide; 2-ethylthioisonicotinamide; ETH; Ethinamide; Ethionamide; Ethionamidum; Ethioniamide; Ethylisothiamide; Ethyonomide; Etionamid; Etionamida; Etionamide; Etioniamid; ETP
+
+$$$$

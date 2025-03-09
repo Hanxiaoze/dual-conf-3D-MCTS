@@ -1,0 +1,24 @@
+
+ OpenBabel10282417203D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.9333   -0.0549   -0.0504 F   0  0  0  0  0 15  0  0  0  0  0  0
+M  RAD  1   1   2
+M  ISO  1   1  18
+M  END
+>  <DRUGBANK_ID>
+DB13134
+
+>  <COMMON_NAME>
+Fluorine F-18
+
+>  <CAS_NUMBER>
+13981-56-1
+
+>  <UNII>
+GZ5I74KB8G
+
+>  <SYNONYMS>
+Fluorine-18
+
+$$$$

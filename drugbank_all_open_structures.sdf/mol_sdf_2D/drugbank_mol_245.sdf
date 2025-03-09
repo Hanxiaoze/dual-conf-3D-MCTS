@@ -1,0 +1,57 @@
+2723601
+ OpenBabel10282417072D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+    3.5220    1.4933    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.9818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171    0.5071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.8206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.9818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.9663    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3230    1.4429    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2404   -0.4895    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.9663    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5306   -0.1568    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00352
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00290
+
+>  <COMMON_NAME>
+Tioguanine
+
+>  <CAS_NUMBER>
+154-42-7
+
+>  <UNII>
+WIX31ZPX66
+
+>  <SYNONYMS>
+2-Amino 6MP; 2-Amino-1,7-dihydro-6H-purine-6-thione; 2-amino-1,9-dihydropurine-6-thione; 2-Amino-6-mercaptopurine; 2-Amino-6-merkaptopurin; 2-Amino-6-purinethiol; 2-Aminopurin-6-thiol; 2-Aminopurine-6-thiol; 2-Aminopurine-6(1H)-thione; 6-Mercapto-2-aminopurine; 6-Mercaptoguanine; 6-TG; 6-Thioguanine; TG; ThG; Thioguanine; Thioguanine anhydrous; Thioguanine, anhydrous; Tioguanin; Tioguanina; Tioguanine; Tioguaninum
+
+$$$$

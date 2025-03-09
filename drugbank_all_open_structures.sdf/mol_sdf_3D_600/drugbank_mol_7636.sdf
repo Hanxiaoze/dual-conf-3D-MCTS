@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.9388   -0.0692   -0.0382 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0086    0.0022    0.0996 Na  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11119
+
+>  <COMMON_NAME>  (1) 
+Sodium iodide
+
+>  <CAS_NUMBER>  (1) 
+7681-82-5
+
+>  <UNII>  (1) 
+F5WR8N145C
+
+>  <SYNONYMS>  (1) 
+Sodium iodide
+
+$$$$

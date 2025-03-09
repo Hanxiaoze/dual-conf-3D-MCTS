@@ -1,0 +1,29 @@
+
+     RDKit          3D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.0301   -0.0871   -0.0463 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4194    0.4450    0.8679 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4127   -0.6885   -1.0795 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3740   -0.1188   -0.1008 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  1  1  0
+M  ISO  1   1  14
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09513
+
+>  <COMMON_NAME>  (1) 
+Urea C-14
+
+>  <CAS_NUMBER>  (1) 
+594-05-8
+
+>  <UNII>  (1) 
+WBZ6M63TEE
+
+>  <SYNONYMS>  (1) 
+14C-urea; Carbon 14 urea; Carbon-14 urea; Urea (14C); Urea 14 C; Urea C 14; Urea-14C; Urea, C-14
+
+$$$$

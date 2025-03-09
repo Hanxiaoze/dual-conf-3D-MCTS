@@ -1,0 +1,68 @@
+321
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+    1.0938   -0.0388    0.1287 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9803   -1.4891   -3.8275 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1839   -2.9860   -4.0521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2251   -2.1718   -3.5339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9610   -0.9527   -4.7961 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0630   -3.9328   -3.6521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6209   -1.3027   -4.6408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7242   -3.5684   -3.3810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5874   -1.6400   -2.6135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0569   -0.2097   -2.4541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3188   -0.1570   -5.8823 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4210   -5.2946   -3.5882 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3622   -0.8436   -5.5265 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1891   -4.5733   -3.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5896    0.4871   -1.1546 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3382    0.3080   -6.7645 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4965   -6.2722   -3.2297 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0035   -0.0215   -6.5809 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1937   -5.9102   -2.9226 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5849   -1.3712    0.4418 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5551   -0.0381    0.1578 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 20  1  0
+  1 21  1  0
+  2  3  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  1  0
+  4  8  1  0
+  4  9  2  3
+  5  7  2  0
+  5 11  1  0
+  6  8  2  0
+  6 12  1  0
+  7 13  1  0
+  8 14  1  0
+  9 10  1  0
+ 10 15  1  0
+ 11 16  2  0
+ 12 17  2  0
+ 13 18  2  0
+ 14 19  2  0
+ 16 18  1  0
+ 17 19  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00321
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00227
+
+>  <COMMON_NAME>  (1) 
+Amitriptyline
+
+>  <CAS_NUMBER>  (1) 
+50-48-6
+
+>  <UNII>  (1) 
+1806D8D52K
+
+>  <SYNONYMS>  (1) 
+10,11-dihydro-5-(γ-dimethylaminopropylidene)-5H-dibenzo(a,d)cycloheptene; 10,11-dihydro-N,N-dimethyl-5H-dibenzo(a,d)heptalene-Δ5,γ-propylamine; 3-(10,11-dihydro-5H-dibenzo(a,d)cyclohepten-5-ylidene)-N,N-dimethyl-1-propanamine; 3-(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-ylidene)-N,N-dimethylpropan-1-amine; 5-(3-dimethylaminopropylidene)-10,11-dihydro-5H-dibenzo(a,d)cycloheptatriene; 5-(3-dimethylaminopropylidene)-10,11-dihydro-5H-dibenzo(a,d)cycloheptene; 5-(γ-dimethylaminopropylidene)-5H-dibenzo[a,d][1,4]cycloheptadiene; Amitriptilina; Amitriptylin; Amitriptyline; Amitriptylinum
+
+$$$$

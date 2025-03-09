@@ -1,0 +1,36 @@
+
+     RDKit          3D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+    1.0794    0.2515    0.1267 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4669    0.2625   -0.5072 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3638   -0.5828   -1.7335 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5937    1.8024   -0.8559 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3885   -0.0575    0.6338 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8812    0.2466    2.0156 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    0.6129   -1.3622   -1.1864 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+M  CHG  4   3  -1   5  -1   6   1   7   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14502
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT001976
+
+>  <COMMON_NAME>  (1) 
+Sodium phosphate, dibasic
+
+>  <CAS_NUMBER>  (1) 
+7558-79-4
+
+>  <UNII>  (1) 
+22ADO53M6F
+
+>  <SYNONYMS>  (1) 
+Dibasic sodium phosphate anhydrous; Dibasic sodium phosphate, anhydrous; Disodium acid phosphate; Disodium hydrogen monophosphate; Disodium hydrogen phosphate; Disodium hydrogen phosphate, anhydrous; disodium hydrogenphosphate; Disodium phosphate; Phosphoric acid, disodium salt, anhydrous; Phosphoric acid, sodium salt (1:2); Sodium phosphate dibasic; Sodium phosphate, dibasic; Sodium phosphate, dibasic (anhydrous); Sodium phosphate, dibasic anhydrous; Sodium phosphate, dibasic, anhydrous; Sodium phosphate,dibasic,anhydrous
+
+$$$$

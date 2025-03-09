@@ -1,0 +1,33 @@
+
+     RDKit          2D
+
+  8  7  0  0  1  0  0  0  0  0999 V2000
+   11.9256   -5.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2111   -6.0407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4967   -5.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6400   -6.0407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9256   -4.8032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2111   -6.8656    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7822   -6.0407    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0678   -5.6281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  6  1  1
+  3  2  1  0
+  4  1  1  0
+  5  1  2  0
+  7  3  1  0
+  7  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03382
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01041
+
+>  <COMMON_NAME>  (1) 
+S-oxy-L-cysteine
+
+>  <SYNONYMS>  (1) 
+3-(oxidosulfanyl)-L-alanine; cysteine S-oxide; cysteine sulfoxide; cysteine sulphoxide; L-cysteine S-oxide; L-cysteine sulfoxide; L-cysteine sulphoxide; S-oxo-L-cysteine; S-oxocysteine
+
+$$$$

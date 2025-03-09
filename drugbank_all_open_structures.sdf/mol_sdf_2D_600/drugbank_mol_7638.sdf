@@ -1,0 +1,25 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    5.8452   -6.8116    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.6702   -6.8116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+M  CHG  1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11123
+
+>  <COMMON_NAME>  (1) 
+Hypochlorite
+
+>  <CAS_NUMBER>  (1) 
+14380-61-1
+
+>  <UNII>  (1) 
+T5UM7HB19N
+
+>  <SYNONYMS>  (1) 
+Hypochlorit
+
+$$$$

@@ -1,0 +1,27 @@
+
+     RDKit          3D
+
+  4  2  0  0  0  0  0  0  0  0999 V2000
+    1.7385   -0.1662    1.0023 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2553   -1.0871   -0.5856 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1719   -0.4641    0.7441 Si  0  0  0  0  0  4  0  0  0  0  0  0
+    0.5916    0.2264   -1.3827 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  3  2  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14138
+
+>  <COMMON_NAME>  (1) 
+Silicic acid
+
+>  <CAS_NUMBER>  (1) 
+1343-98-2
+
+>  <UNII>  (1) 
+Y6O7T4G8P9
+
+>  <SYNONYMS>  (1) 
+Hydrated silica; Hydrosilicic acid; Silica hydrate; Silica, hydrated; Silicic acid hydrate; Silicon dioxide hydrate
+
+$$$$

@@ -1,0 +1,31 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0
+  4  2  1  0
+  4  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14645
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT002344
+
+>  <COMMON_NAME>  (1) 
+Nitrogen trichloride
+
+>  <CAS_NUMBER>  (1) 
+10025-85-1
+
+>  <UNII>  (1) 
+VA681HRW8W
+
+>  <SYNONYMS>  (1) 
+Agene; Nitrogen chloride; Trichloramine
+
+$$$$

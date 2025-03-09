@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.9031   -0.0006   -0.0248 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9187    0.0517    0.0268 Ca  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  2   1  -2   2   2
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11211
+
+>  <COMMON_NAME>  (1) 
+Calcium sulfide
+
+>  <CAS_NUMBER>  (1) 
+20548-54-3
+
+>  <UNII>  (1) 
+1MBW07J51Q
+
+>  <SYNONYMS>  (1) 
+Calcium sulphide
+
+$$$$

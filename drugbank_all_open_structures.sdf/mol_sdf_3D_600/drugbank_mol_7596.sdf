@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+   -2.7502    0.0180   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7456    0.0676   -0.0098 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3872   -0.0199    0.0078 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3834    0.0075    0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6893   -1.2255    0.0106 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7088   -1.2119    0.0063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7105    1.1954    0.0105 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6838    1.2091    0.0079 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  4  1  0
+  3  5  2  0
+  3  7  1  0
+  4  6  2  0
+  4  8  1  0
+  5  6  1  0
+  7  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09526
+
+>  <COMMON_NAME>  (1) 
+Hydroquinone
+
+>  <CAS_NUMBER>  (1) 
+123-31-9
+
+>  <UNII>  (1) 
+XV74C1N1AE
+
+>  <SYNONYMS>  (1) 
+1,4-benzenediol; 1,4-dihydroxybenzene; 4-Hydroxyphenol; benzene-1,4-diol; Hydroquinone; p-Benzenediol; p-Hydroquinone; p-hydroxyphenol; Quinol
+
+$$$$

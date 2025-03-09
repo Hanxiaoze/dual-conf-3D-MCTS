@@ -1,0 +1,32 @@
+4827
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    3.0791    0.3630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.3630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  6  1  0
+  2  6  2  0
+  3  6  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04827
+
+>  <COMMON_NAME>  (1) 
+Urethane
+
+>  <CAS_NUMBER>  (1) 
+51-79-6
+
+>  <UNII>  (1) 
+3IN71E75Z5
+
+>  <SYNONYMS>  (1) 
+Aethylcarbamat; Aethylurethan; Carbamic acid ethyl ester; Carbamidsaeure-aethylester; Ethyl carbamate; Ethylester kyseliny karbaminove; Uretan etylowy; Uretano; Urethan; Urethane; Urethanum
+
+$$$$

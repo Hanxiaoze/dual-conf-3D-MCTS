@@ -1,0 +1,34 @@
+
+ OpenBabel10282417072D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  0  0  0  0
+  7  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  7  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB11104
+
+>  <COMMON_NAME>
+Sulfur hexafluoride
+
+>  <CAS_NUMBER>
+2551-62-4
+
+>  <UNII>
+WS7LR3I1D6
+
+>  <SYNONYMS>
+hexafluoridosulfur; Sulfur fluoride; Sulfur hexafluoride; sulfur(6+) fluoride; sulfur(VI) fluoride; Sulphur hexafluoride
+
+$$$$

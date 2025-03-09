@@ -1,0 +1,41 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -0.3719   -2.1202   -0.7262 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4721   -2.5938    0.4698 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0122   -0.5431    1.2376 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5434   -0.4393    1.3795 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5211   -1.4518    0.0389 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5447   -0.9922    2.5561 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2040   -0.6459    2.3930 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1929   -0.1413    0.2377 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4460   -0.4378   -1.2181 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  6  1  1
+  3  5  1  0
+  3  4  1  0
+  5  1  1  0
+  5  2  1  0
+  7  4  2  0
+  8  4  1  0
+  9  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00859
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01171
+
+>  <COMMON_NAME>  (1) 
+Penicillamine
+
+>  <CAS_NUMBER>  (1) 
+52-67-5
+
+>  <UNII>  (1) 
+GNN1DV99GX
+
+>  <SYNONYMS>  (1) 
+(−)-penicillamine; (S)-2-amino-3-mercapto-3-methylbutanoic acid; (S)-3,3-dimethylcysteine; 3-mercapto-D-valine; D-(−)-penicillamine; D-penicillamine; D-β,β-dimethylcysteine; penicilamina; Penicillamine
+
+$$$$

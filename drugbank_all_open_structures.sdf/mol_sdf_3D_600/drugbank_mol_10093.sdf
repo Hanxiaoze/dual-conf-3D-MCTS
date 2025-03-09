@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    2.9243   -3.9040   -0.7745 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3822   -4.5949    1.4812 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8553    0.9145    1.9070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6031   -1.2206    1.2964 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6477   -3.4848    3.1392 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8749   -2.6148    0.8291 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3545   -2.9420    0.6444 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2746   -3.6260    1.8285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3942   -0.1502    1.6174 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8992   -0.2586    1.6273 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  8  2  0
+  3  9  2  0
+  4  9  1  0
+  5  8  1  0
+  6  8  1  0
+  6  7  1  1
+  6  4  1  0
+  9 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14480
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT001544
+
+>  <COMMON_NAME>  (1) 
+Acetylcysteine amide
+
+>  <CAS_NUMBER>  (1) 
+38520-57-9
+
+>  <UNII>  (1) 
+4N69717RKW
+
+>  <SYNONYMS>  (1) 
+N-Acetyl cysteine amide; N-Acetyl-cysteine-amide; N-Acetyl-L-cysteinamide; N-Acetyl-L-cysteine amide; N-Acetylcysteinamide; N-Acetylcysteine amide; Nac amide; NACA
+
+$$$$

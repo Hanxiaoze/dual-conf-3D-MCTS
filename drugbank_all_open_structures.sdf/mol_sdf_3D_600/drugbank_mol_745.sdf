@@ -1,0 +1,61 @@
+
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    1.2695   -0.2539    0.4924 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7847   -0.3802    0.3964 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4308   -1.3332    0.1626 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702    0.9890    0.7660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5391    0.1508   -0.8992 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9465   -1.1361    0.0173 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6759    1.2140    0.4562 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3645    1.5888   -1.2846 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0422   -0.2009   -0.6907 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4908    0.1413    0.0931 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2238    2.0777   -2.4052 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9892    1.8837   -1.7046 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8843    1.4299   -3.7461 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1570    0.0738   -3.9616 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0574    2.0982   -4.6712 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5698   -0.6319   -4.9999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4786    1.3916   -5.7259 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7418    0.0347   -5.8981 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  2  0
+  1  4  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  2  0
+  5  8  1  0
+  5  9  1  1
+  6 10  2  0
+  7 10  1  0
+  8 11  1  0
+  8 12  1  0
+ 11 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 14 16  1  0
+ 15 17  2  0
+ 16 18  2  0
+ 17 18  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00865
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00759
+
+>  <COMMON_NAME>  (1) 
+Benzphetamine
+
+>  <CAS_NUMBER>  (1) 
+156-08-1
+
+>  <UNII>  (1) 
+0M3S43XK27
+
+>  <SYNONYMS>  (1) 
+(+)-benzphetamine; (+)-N-benzyl-N,α-dimethylphenethylamine; (+)-N,α-dimethyl-N-(phenylmethyl)-benzeneethanamine; (S)-(+)-benzphetamine; (S)-(+)-N-benzyl-N,α-dimethylphenethylamine; (S)-benzphetamine; (αS)-N,α-dimethylphenethylamine; Benzaphetamine; Benzfetamina; Benzfetamine; Benzfetaminum; Benzphetamine; Benzylamphetamine; d-N-methyl-N-benzyl-β-phenylisopropylamine; N-methyl-1-phenyl-N-(phenylmethyl)propan-2-amine
+
+$$$$

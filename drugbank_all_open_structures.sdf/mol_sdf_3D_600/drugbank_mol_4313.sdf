@@ -1,0 +1,38 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.1914    0.0182    0.0498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1873   -0.8839   -0.5795 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7815    1.0601    0.7766 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3854   -0.2055   -0.1063 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1656   -0.9635   -0.6350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0338    0.0243    0.0541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3621   -0.1068   -0.0374 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5786    0.9569    0.7046 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7821   -2.0944   -1.4239 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  2  5  2  0
+  5  6  1  0
+  5  9  1  0
+  6  7  1  0
+  6  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04734
+
+>  <COMMON_NAME>  (1) 
+Citraconic acid
+
+>  <CAS_NUMBER>  (1) 
+498-23-7
+
+>  <UNII>  (1) 
+0RQ6CXO9KD
+
+>  <SYNONYMS>  (1) 
+(Z)-2-Methyl-2-butenedioic acid; 2-Methyl-2-butenedioic acid; 2-methylmaleic acid; cis-2-methylbutenedioic acid; cis-Methylbutenedioic acid; citraconate; Citraconsäure; Methyl-maleinsäure; Methylmaleic acid; α-methylmaleic acid
+
+$$$$

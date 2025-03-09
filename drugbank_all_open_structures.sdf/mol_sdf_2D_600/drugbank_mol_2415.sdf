@@ -1,0 +1,42 @@
+627
+     RDKit          2D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    3.0793    1.1879    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6502    1.1879    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6502   -1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0793   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6502   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0793   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647    0.7754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  3  6  2  0
+  3  8  1  0
+  4  5  2  0
+  4  6  1  0
+  4  9  1  0
+  5  7  1  0
+  7  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02701
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02307
+
+>  <COMMON_NAME>  (1) 
+Nicotinamide
+
+>  <CAS_NUMBER>  (1) 
+98-92-0
+
+>  <UNII>  (1) 
+25X51I8RD4
+
+>  <SYNONYMS>  (1) 
+3-pyridinecarboxamide; Niacinamide; Nicotinamida; Nicotinamide; Nicotinamidum; Nicotinic acid amide; Nicotinic amide; β-pyridinecarboxamide
+
+$$$$

@@ -1,0 +1,31 @@
+
+     RDKit          3D
+
+  9  0  0  0  0  0  0  0  0  0999 V2000
+    1.0673    0.0214    0.0708 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9055   -0.0020   -0.0327 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0495    0.0618   -0.0610 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0738    0.0040    0.0673 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0567    0.0823   -0.0015 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9814   -0.0572   -0.0799 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9189   -0.0492   -0.0316 Al  0  0  0  0  0 15  0  0  0  0  0  0
+    1.0042    0.0503   -0.0863 Al  0  0  0  0  0 15  0  0  0  0  0  0
+    1.0815    0.0578    0.0049 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  8   2  -1   3  -1   4  -1   5  -1   6  -1   7   3   8   3   9  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11573
+
+>  <COMMON_NAME>  (1) 
+Aluminum chlorohydrate
+
+>  <CAS_NUMBER>  (1) 
+12359-72-7
+
+>  <UNII>  (1) 
+HPN8MZW13M
+
+>  <SYNONYMS>  (1) 
+Alchlordrate; Aluminium chlorohydrate; Aluminum chlorhydrate; Aluminum chlorohydrate; Aluminum chlorohydrate dihydrate; Aluminum hydroxychloride
+
+$$$$

@@ -1,0 +1,56 @@
+
+     RDKit          2D
+
+ 18 16  0  0  1  0  0  0  0  0999 V2000
+   -1.5718   -1.3200    0.0000 Pt  0  0  0  0  0 15  0  0  0  0  0  0
+    5.1827    1.3406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1827    0.5156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8971    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8971   -0.7219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1827   -1.1344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4682   -0.7219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4682    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7537    0.5156    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5554    0.2195    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1429   -0.4950    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8574   -0.9075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2696   -1.2095    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5716   -0.0825    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5716    0.7425    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5716    1.5675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3966    0.7425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2534    0.7425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  6
+  3  4  1  0
+  3  8  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  8  7  1  0
+  8  9  1  1
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  2  0
+ 11 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 15 18  2  0
+M  CHG  3   1   2  12  -1  17  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB17120
+
+>  <COMMON_NAME>  (1) 
+Imifoplatin
+
+>  <CAS_NUMBER>  (1) 
+1339960-28-9
+
+>  <UNII>  (1) 
+F5I3T42BXC
+
+>  <SYNONYMS>  (1) 
+(1R,2R)-1,2-cyclohexane-diaminepyrophosphato-platinum(II); 1,2-cyclohexanediamine pyrophosphatoplatinum(ii), (r,r)-; Cyclohexane-(1r,2r)-diamineplatinum(ii) diphosphate; Cyclohexanediamine pyrophosphatoplatinum(ii), (1r,2r)-; Dihydrogen (sp-4-2)-((1r,2r)-cyclohexane-1,2-diamine-.kappa.2n1,n2)(diphosphato(4)-.kappa.2o1,o3)platinate(2); Platinate(2-), ((1r,2r)-1,2-cyclohexanediamine-.kappa.n1,.kappa.n2)(diphosphato(4-)-.kappa.o,.kappa.o'')-, hydrogen (1:2), (sp-4-2)-
+
+$$$$

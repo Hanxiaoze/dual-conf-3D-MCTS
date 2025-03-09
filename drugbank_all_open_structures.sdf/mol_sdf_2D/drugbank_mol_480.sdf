@@ -1,0 +1,66 @@
+593
+ OpenBabel10282417072D
+
+ 21 21  0  0  1  0  0  0  0  0999 V2000
+    4.5544   -0.6800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.6800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1023   -0.9100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    0.3596    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.6897    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2994    0.6146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7697   -0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    1.1846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4348   -0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4709    1.4216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1023   -1.8945    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0607    1.2252    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6329    0.1922    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0946   -0.1013    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3170    0.9453    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4414    1.7196    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5882    1.7196    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    2.2546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4885    1.7523    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6757    2.1375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6933    2.4682    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  9  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00593
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00318
+
+>  <COMMON_NAME>
+Ethosuximide
+
+>  <CAS_NUMBER>
+77-67-8
+
+>  <UNII>
+5SEH9X1D1D
+
+>  <SYNONYMS>
+(±)-2-ethyl-2-methylsuccinimide; 2-ethyl-2-methylsuccinimide; 2-methyl-2-ethylsuccinimide; 3-ethyl-3-methyl-2,5-pyrrolidinedione; 3-ethyl-3-methylsuccinimide; 3-methyl-3-ethylpyrrolidine-2,5-dione; 3-methyl-3-ethylsuccinimide; Aethosuximide; Atysmal; Ethosuximid; éthosuximide; Ethosuximide; Ethosuximidum; Etosuximida; Thilopemal; α-ethyl-α-methylsuccinimide; α-methyl-α-ethylsuccinimide; γ-ethyl-γ-methyl-succinimide; γ-methyl-γ-ethyl-succinimide
+
+$$$$

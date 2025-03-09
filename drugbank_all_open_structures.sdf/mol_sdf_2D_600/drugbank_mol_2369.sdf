@@ -1,0 +1,35 @@
+
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.3573    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3573    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.6188    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.2061    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -1.0313    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  4  2  1  0
+  4  3  1  0
+  4  5  1  0
+  4  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02650
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00949
+
+>  <COMMON_NAME>  (1) 
+Trichloroacetaldehyde
+
+>  <CAS_NUMBER>  (1) 
+75-87-6
+
+>  <UNII>  (1) 
+FLI06WS32H
+
+>  <SYNONYMS>  (1) 
+2,2,2-trichloroacetaldehyde; Anhydrous chloral; Chloral; Tri-chloro-acetaldehyde; Trichloroacetaldehyd; Trichloroethanal
+
+$$$$

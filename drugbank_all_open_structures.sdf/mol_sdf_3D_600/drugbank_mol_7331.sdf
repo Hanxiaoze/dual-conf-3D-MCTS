@@ -1,0 +1,28 @@
+
+     RDKit          3D
+
+  4  2  0  0  0  0  0  0  0  0999 V2000
+    0.8643   -0.6412    2.2299 Ca  0  0  0  0  0 15  0  0  0  0  0  0
+    0.9718    0.1452   -0.8124 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2665    0.0989   -0.6331 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2215    0.1711   -0.9124 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  2  4  2  0
+M  CHG  3   1   2   3  -1   4  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09116
+
+>  <COMMON_NAME>  (1) 
+Calcium carbimide
+
+>  <CAS_NUMBER>  (1) 
+156-62-7
+
+>  <UNII>  (1) 
+ZLR270912W
+
+>  <SYNONYMS>  (1) 
+Calcium carbimide; calcium cyanamide; carbimida calcica; carbimide calcique; Cyanamide calcique; Cyanamide, calcium salt (1:1); Lime nitrogen; Lime-nitrogen; methanediimine, calcium salt (1:1); Nitrogen lime
+
+$$$$

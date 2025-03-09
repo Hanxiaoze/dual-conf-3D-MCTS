@@ -1,0 +1,55 @@
+
+ OpenBabel10282417133D
+
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+    0.9087    0.0582    0.0165 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3676    0.2913   -1.3884 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9087   -0.7410   -2.3693 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1537    0.3331   -1.4024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7756    1.3367   -1.7385 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9134   -0.9450   -0.9742 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3852   -1.9836   -0.6263 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2432   -0.8132   -1.0184 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6041   -0.9138    0.4141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5463    0.8268    0.7068 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0035    0.0849    0.0191 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7138    1.2805   -1.7197 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6041   -1.7564   -2.1012 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5463   -0.5433   -3.3833 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0035   -0.7213   -2.3875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6022   -1.6764   -0.7292 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB04074
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01974
+
+>  <COMMON_NAME>
+alpha-Ketoisovalerate
+
+>  <CAS_NUMBER>
+759-05-7
+
+>  <UNII>
+34P71D50E0
+
+>  <SYNONYMS>
+2-Keto-3-methylbutyric acid; 2-Ketoisovaleric acid; 2-Ketovaline; 2-Oxo-3-methylbutanoic acid; 3-Methyl-2-oxobutanoate; 3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; alpha-Ketovaline; Dimethylpyruvic acid; Isopropylglyoxylic acid; α-keto-isovaleric acid; α-oxo-β-methylbutyricacid; α-oxoisovaleric acid
+
+$$$$

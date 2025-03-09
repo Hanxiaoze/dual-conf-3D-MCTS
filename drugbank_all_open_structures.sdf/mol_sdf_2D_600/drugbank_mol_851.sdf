@@ -1,0 +1,63 @@
+
+     RDKit          2D
+
+ 20 19  0  0  0  0  0  0  0  0999 V2000
+    1.7862    2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0718    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0718    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007   -1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0718   -1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3573   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860   -2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5 10  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 12 17  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00974
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01327
+
+>  <COMMON_NAME>  (1) 
+Edetic acid
+
+>  <CAS_NUMBER>  (1) 
+60-00-4
+
+>  <UNII>  (1) 
+9G34HU7RV0
+
+>  <SYNONYMS>  (1) 
+(ethylenedinitrilo)tetraacetic acid, ion(4−); {[-(bis-carboxymethyl-amino)-ethyl]-carboxymethyl-amino}-acetic acid; 2,2',2'',2'''-(ethane-1,2-diyldinitrilo)tetraacetate; Acide edetique; Acide ethylenediaminetetracetique; Acido edetico; Acidum edeticum; Edetic acid; EDTA; EDTA, ion(4-); Ethylenediaminetetraacetate; Ethylenediaminetetraacetic acid; N,N'-1,2-Ethane diylbis-(N-(carboxymethyl)glycine)
+
+$$$$

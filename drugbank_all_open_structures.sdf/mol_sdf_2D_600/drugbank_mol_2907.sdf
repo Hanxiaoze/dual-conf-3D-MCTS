@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  2  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03229
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00985
+
+>  <COMMON_NAME>  (1) 
+alpha-Ketoisocaproic acid
+
+>  <CAS_NUMBER>  (1) 
+816-66-0
+
+>  <UNII>  (1) 
+4GUJ8AH400
+
+>  <SYNONYMS>  (1) 
+2-oxo-4-methylpentanoic acid; 2-Oxoisocaproate; 2-oxoleucine; 4-Methyl-2-oxopentanoate; 4-methyl-2-oxopentanoic acid; 4-methyl-2-oxovaleric acid; alpha-Ketoisocaproate; Ketoleucine; α-ketoisocaproic acid
+
+$$$$

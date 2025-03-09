@@ -1,0 +1,48 @@
+147
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -1.9458    1.0588   -0.0055 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7638    1.4103    1.2625 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1176    3.8516    0.0128 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8288   -1.2587   -0.0179 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7714    0.9851    0.0275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4716    1.5257    0.0097 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6372    0.6551   -0.0023 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4143   -0.7266   -0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0525    1.7667    0.0815 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8757   -0.4068   -0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5402   -1.7229    0.0127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2396    2.9980    0.0050 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  9  1  0
+  3 12  2  0
+  4  8  2  0
+  4 10  1  0
+  5  6  1  0
+  5  9  1  0
+  5 10  2  0
+  6  7  2  0
+  6 12  1  0
+  7  8  1  0
+  8 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00147
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00049
+
+>  <COMMON_NAME>  (1) 
+Pyridoxal
+
+>  <CAS_NUMBER>  (1) 
+66-72-8
+
+>  <UNII>  (1) 
+3THM379K8A
+
+>  <SYNONYMS>  (1) 
+2-methyl-3-hydroxy-4-formyl-5-hydroxymethylpyridine; 3-hydroxy-5-(hydroxymethyl)-2-methyl-4-pyridinecarboxaldehyde; 3-hydroxy-5-(hydroxymethyl)-2-methylisonicotinaldehyde; 3-hydroxy-5-(hydroxymethyl)-2-methylpyridine-4-carboxaldehyde; Piridoxal; Pyridoxaldehyde
+
+$$$$

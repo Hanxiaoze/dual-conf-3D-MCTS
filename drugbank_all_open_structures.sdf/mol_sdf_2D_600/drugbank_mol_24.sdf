@@ -1,0 +1,41 @@
+128
+     RDKit          2D
+
+  9  8  0  0  1  0  0  0  0  0999 V2000
+    5.6655   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.9034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  9  1  0
+  3  8  2  0
+  4  9  2  0
+  6  5  1  1
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00128
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00016; EXPT01823
+
+>  <COMMON_NAME>  (1) 
+Aspartic acid
+
+>  <CAS_NUMBER>  (1) 
+56-84-8
+
+>  <UNII>  (1) 
+30KYC7MIAI
+
+>  <SYNONYMS>  (1) 
+(S)-2-aminobutanedioic acid; (S)-2-aminosuccinic acid; 2-Aminosuccinic acid; ácido aspártico; Acidum asparticum; Asp; Aspartic acid; D; L-Asp; L-Asparaginsäure; L-Aspartate; L-Aspartic acid
+
+$$$$

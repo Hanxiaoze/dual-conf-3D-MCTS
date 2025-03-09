@@ -1,0 +1,31 @@
+
+ OpenBabel10282417213D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    1.7385   -0.1662    1.0023 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2553   -1.0871   -0.5856 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1719   -0.4641    0.7441 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5916    0.2264   -1.3827 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7006   -0.7358   -1.2728 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8477    0.4980   -0.4775 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0  0  0  0
+  3  2  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB14138
+
+>  <COMMON_NAME>
+Silicic acid
+
+>  <CAS_NUMBER>
+1343-98-2
+
+>  <UNII>
+Y6O7T4G8P9
+
+>  <SYNONYMS>
+Hydrated silica; Hydrosilicic acid; Silica hydrate; Silica, hydrated; Silicic acid hydrate; Silicon dioxide hydrate
+
+$$$$

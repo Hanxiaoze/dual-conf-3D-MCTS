@@ -1,0 +1,48 @@
+4815
+     RDKit          3D
+
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+    0.8653    0.0459   -0.0233 I   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7270   -2.8095   -0.0345 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0622    2.4411    0.0197 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8039    2.3578   -0.0670 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -0.0531   -0.0179 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1025    1.2052   -0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6998    1.2167    0.0249 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9923   -1.2378    0.0134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1600   -0.0498   -0.1377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9542    0.0331    0.0152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6011   -1.1976    0.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8428    1.1298   -0.3765 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1344    2.3068   -0.2786 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2  8  1  0
+  3  7  1  0
+  4  6  2  0
+  4 13  1  0
+  5  6  1  0
+  5  8  1  0
+  5  9  2  0
+  6  7  1  0
+  7 10  2  0
+  8 11  2  0
+  9 12  1  0
+ 10 11  1  0
+ 12 13  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04815
+
+>  <COMMON_NAME>  (1) 
+Clioquinol
+
+>  <CAS_NUMBER>  (1) 
+130-26-7
+
+>  <UNII>  (1) 
+7BHQ856EJ5
+
+>  <SYNONYMS>  (1) 
+5-Chlor-7-jod-8-hydroxy-chinolin; 5-Chloro-7-iodo-8-hydroxyquinoline; 5-Chloro-7-iodo-8-quinolinol; 5-chloro-7-iodoquinolin-8-ol; 5-Chloro-8-hydroxy-7-iodoquinoline; 7-Iodo-5-chloro-8-hydroxyquinoline; 7-Iodo-5-chloroxine; Chloroiodoquin; Clioquinol; Clioquinolum; Iodochlorhydroxyquin; Iodochlorhydroxyquinoline; Iodochlorohydroxyquin; Iodochloroxyquinoline
+
+$$$$

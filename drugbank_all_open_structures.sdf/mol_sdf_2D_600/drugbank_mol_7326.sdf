@@ -1,0 +1,25 @@
+
+     RDKit          2D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0000    0.0000 Mg  0  0  0  0  0 15  0  0  0  0  0  0
+    0.4125   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09104
+
+>  <COMMON_NAME>  (1) 
+Magnesium hydroxide
+
+>  <CAS_NUMBER>  (1) 
+1309-42-8
+
+>  <UNII>  (1) 
+NBZ3QY004S
+
+>  <SYNONYMS>  (1) 
+Hidroxido de magnesio; Magnesii hydroxidum; Magnesio hidróxido; Magnesium dihydroxide; Magnesium hydroxide; Milk of magnesia
+
+$$$$

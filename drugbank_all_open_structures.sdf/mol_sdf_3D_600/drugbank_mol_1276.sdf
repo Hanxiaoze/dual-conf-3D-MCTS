@@ -1,0 +1,48 @@
+1472
+     RDKit          3D
+
+ 12 12  0  0  1  0  0  0  0  0999 V2000
+    1.0225    0.1478   -0.0968 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4447   -1.8092   -2.7974 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2757   -2.6679   -3.7645 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6740   -2.9987   -3.1840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3415   -1.9333   -2.8272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4988   -3.7649   -4.2174 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1594   -2.5282   -2.3729 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6257   -0.6207   -2.4246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6973   -1.8425   -1.5000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7948    0.0463   -1.5304 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3603   -0.5619   -1.0564 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4374    0.0505   -0.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  1 12  1  0
+  2  4  1  0
+  3  4  1  0
+  3  5  1  0
+  4  6  1  0
+  5  7  2  0
+  5  8  1  0
+  7  9  1  0
+  8 10  2  0
+  9 11  2  0
+ 10 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01472
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03303
+
+>  <COMMON_NAME>  (1) 
+4-Methoxyamphetamine
+
+>  <CAS_NUMBER>  (1) 
+64-13-1
+
+>  <UNII>  (1) 
+OVB8F8P39Q
+
+>  <SYNONYMS>  (1) 
+(2RS)-1-(4-methoxyphenyl)propan-2-amine; 4-methoxyamfetamine; D,L-p-methoxyamphetamine; Formoterol fumarate related compound G; P-methoxyamfetamine; P-methoxyamphetamine; Paramethoxyamphetamine
+
+$$$$

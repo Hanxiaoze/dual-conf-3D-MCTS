@@ -1,0 +1,33 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+    0.8250   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Mo  0  0  0  0  0  6  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+  4  7  2  0
+M  CHG  4   1   1   2   1   3  -1   5  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB17641
+
+>  <COMMON_NAME>  (1) 
+Ammonium tetrathiomolybdate
+
+>  <CAS_NUMBER>  (1) 
+15060-55-6
+
+>  <UNII>  (1) 
+4V6I63LW1E
+
+>  <SYNONYMS>  (1) 
+Ammonium molybdenum sulfide ((nh4)2mos4); Coprexa; Diammonium tetrathiomolybdate; Molybdate(2-), tetrathioxo-, ammonium (1:2), (t-4)-; Molybdate(2-), tetrathioxo-, diammonium, (t-4)-; Tiomolibdate diammonium
+
+$$$$

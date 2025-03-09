@@ -1,0 +1,29 @@
+
+     RDKit          3D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    0.9966    0.0315    0.0890 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5313    0.3601    1.3899 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0290   -0.6615    2.3913 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00898
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00738
+
+>  <COMMON_NAME>  (1) 
+Ethanol
+
+>  <CAS_NUMBER>  (1) 
+64-17-5
+
+>  <UNII>  (1) 
+3K9958V90M
+
+>  <SYNONYMS>  (1) 
+1-Hydroxyethane; Alcohol; Alcohol (ethyl); Alcohol anhydrous; Alcohol denatured; Alcohol etílico; Alcohol, denatured; Alcool éthylique; Alkohol; Äthanol; Äthylalkohol; Dehydrated alcohol; Dehydrated ethanol; etanol; éthanol; Ethyl Alcohol; Grain alcohol; Hydroxyethane; Methylcarbinol; Spiritus vini
+
+$$$$

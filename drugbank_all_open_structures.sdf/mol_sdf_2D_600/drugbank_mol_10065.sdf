@@ -1,0 +1,40 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+   -0.2062    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9207   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9207   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9207   -2.2687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    2.2687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6187    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0312    1.3332    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0312    0.6187    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  6  1  0
+  1  8  1  0
+  1 10  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  3  0
+  6  7  3  0
+  8  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14199
+
+>  <COMMON_NAME>  (1) 
+Bromothalonil
+
+>  <CAS_NUMBER>  (1) 
+35691-65-7
+
+>  <UNII>  (1) 
+YX089CPS05
+
+>  <SYNONYMS>  (1) 
+1,2-Dibromo-2,4-dicyanobutane; 2-Bromo-2-(bromomethyl) glutaronitrile; 2-Bromo-2-(bromomethyl) pentanedinitrile; BBMG; Glutaronitrile, 2-bromo-2-(bromomethyl)-; MDBGN; Methyldibromo Glutaronitrile; Methyldibromoglutaronitrile
+
+$$$$

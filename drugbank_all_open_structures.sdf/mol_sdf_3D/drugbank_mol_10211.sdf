@@ -1,0 +1,31 @@
+
+ OpenBabel10282417213D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.9346    0.0343    0.1069 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2960   -1.5987   -0.2415 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2960    1.1525   -1.1332 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.6954    0.0253    0.0792 N   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB14645
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DBSALT002344
+
+>  <COMMON_NAME>
+Nitrogen trichloride
+
+>  <CAS_NUMBER>
+10025-85-1
+
+>  <UNII>
+VA681HRW8W
+
+>  <SYNONYMS>
+Agene; Nitrogen chloride; Trichloramine
+
+$$$$

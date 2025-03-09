@@ -1,0 +1,39 @@
+
+ OpenBabel10282417072D
+
+  8  6  0  0  0  0  0  0  0  0999 V2000
+   -0.1395   -0.9899    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7004   -0.2461    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0406    0.1649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0406    0.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7004   -0.2461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9672    1.5249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8860    1.5249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0406    2.0599    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>
+DB09395
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DB09470
+
+>  <COMMON_NAME>
+Sodium acetate
+
+>  <CAS_NUMBER>
+127-09-3
+
+>  <UNII>
+NVG71ZZ7P0
+
+>  <SYNONYMS>
+Acetato de sodio; acetic acid, sodium salt; Acetic acid, sodium salt (1:1); anhydrous sodium acetate; Natriumazetat; Sodio acetato; Sodium acetate anhydrous; Sodium acetate, anhydrous; Sodium acetate,anhydrous
+
+$$$$

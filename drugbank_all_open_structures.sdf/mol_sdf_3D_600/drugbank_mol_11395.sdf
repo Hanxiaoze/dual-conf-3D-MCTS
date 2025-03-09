@@ -1,0 +1,38 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.8794    0.0191   -0.1260 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3043   -0.8164   -1.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9573   -1.5730   -1.7013 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1813   -0.8100   -0.9558 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7204   -1.2294    0.3699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4885   -0.5105    1.0034 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3516   -2.6326    0.9152 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6110   -3.4345    0.1406 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7575   -2.9932    2.0092 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  7  9  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16921
+
+>  <COMMON_NAME>  (1) 
+Oxaloacetic acid
+
+>  <CAS_NUMBER>  (1) 
+328-42-7
+
+>  <UNII>  (1) 
+2F399MM81J
+
+>  <SYNONYMS>  (1) 
+2-oxobutanedioic acid; Anhydrous enol-oxaloacetate; Bioepg; Ketosuccinic acid; Oxalacetic acid; Oxalacetic acid trans-(z)-enol form; Oxaloacetate; Oxosuccinic acid
+
+$$$$

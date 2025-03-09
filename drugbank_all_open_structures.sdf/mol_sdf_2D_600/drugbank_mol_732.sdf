@@ -1,0 +1,48 @@
+
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    1.4288    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4288   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  6  1  0
+  2  3  1  0
+  3  4  2  0
+  3  7  1  0
+  4  5  1  0
+  5  6  2  0
+  7  8  1  0
+  7 12  1  6
+  8  9  1  0
+  8 11  1  1
+  9 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00852
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00634
+
+>  <COMMON_NAME>  (1) 
+Pseudoephedrine
+
+>  <CAS_NUMBER>  (1) 
+90-82-4
+
+>  <UNII>  (1) 
+7CUC9DDI9F
+
+>  <SYNONYMS>  (1) 
+(+) threo-2-(methylamino)-1-phenyl-1-propanol; (+)-(1S,2S)-Pseudoephedrine; (+)-Pseudoephedrine; (+)-psi-Ephedrine; (+)-threo-Ephedrine; d-Isoephedrine; d-Pseudoephedrine; d-psi-2-Methylamino-1-phenyl-1-propanol; d-psi-Ephedrine; Isoephedrine; L-(+)-Pseudoephedrine; L(+)-psi-Ephedrine; Pseudoefedrina; Pseudoephedrine; pseudoéphédrine; Pseudoephedrine D-form; Pseudoephedrinum; Psi-ephedrin; Psi-ephedrine; trans-Ephedrine; ψ-ephedrine
+
+$$$$

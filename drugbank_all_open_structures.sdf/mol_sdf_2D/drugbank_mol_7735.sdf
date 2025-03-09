@@ -1,0 +1,34 @@
+
+ OpenBabel10282417072D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8400   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8400    1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB11309
+
+>  <COMMON_NAME>
+Sulfuric acid
+
+>  <CAS_NUMBER>
+7664-93-9
+
+>  <UNII>
+O40UQP6WCF
+
+>  <SYNONYMS>
+Acide sulfurique; Acido sulfurico; Acidum sulfuricum; Brimstone acid; Dihydrogen sulfate; Dihydrogen sulphate; Schwefelsaeureloesungen; Sulphuric acid; Tetraoxosulfuric acid
+
+$$$$

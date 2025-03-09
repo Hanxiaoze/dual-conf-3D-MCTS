@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    1.0200    0.0384    0.0785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5288    1.4530    0.3172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541    2.6100   -0.8938 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4638    1.9588   -2.2037 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5512    3.9044   -0.6631 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5792    2.4313   -1.0341 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  5  3  2  0
+  6  3  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03635
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01359
+
+>  <COMMON_NAME>  (1) 
+Ethanesulfonic acid
+
+>  <CAS_NUMBER>  (1) 
+594-45-6
+
+>  <UNII>  (1) 
+599310E3U2
+
+>  <SYNONYMS>  (1) 
+1-ethanesulfonic acid; 2-ethanesulfonic acid; Ethane sulphonic acid; Ethanesulphonic acid; Ethylsulfonic acid; Ethylsulphonic acid
+
+$$$$

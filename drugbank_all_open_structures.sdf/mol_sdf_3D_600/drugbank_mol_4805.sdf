@@ -1,0 +1,54 @@
+
+     RDKit          3D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+    2.3880   -0.0919    0.0902 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0100   -0.0975   -0.0393 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3421    1.1024    0.0769 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0318    1.1085    0.2492 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8232   -0.0027    0.0558 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1669   -1.2333   -0.0473 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2479   -1.2725   -0.0381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6036    0.1138   -0.0524 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9993   -0.5498   -1.2716 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0811   -0.4022    1.2264 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2454    1.6832   -0.1559 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4334    2.8372   -0.1869 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5030    3.0122   -1.0940 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7061    4.1009   -0.7601 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1325    4.8357    0.3253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5744    4.1227    0.9536 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  5  8  1  0
+  6  7  2  0
+  8  9  2  0
+  8 10  2  0
+  8 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 16  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06147
+
+>  <COMMON_NAME>  (1) 
+Sulfathiazole
+
+>  <CAS_NUMBER>  (1) 
+72-14-0
+
+>  <UNII>  (1) 
+Y7FKS2XWQH
+
+>  <SYNONYMS>  (1) 
+2-(p-Aminobenzenesulfonamido)thiazole; 2-(p-Aminobenzenesulphonamido)thiazole; 2-(Sulfanilylamino)thiazole; 2-Sulfanilamidothiazol; 2-Sulfanilamidothiazole; 2-Sulfonamidothiazole; 4-Amino-N-2-thiazolylbenzenesulfonamide; N(1)-2-Thiazolylsulfanilamide; N1-2-Thiazolylsulfanilamide; Sulfanilamidothiazole; Sulfathiazol; Sulfathiazole; Sulfathiazolum; Sulfatiazol; Sulphathiazole
+
+$$$$

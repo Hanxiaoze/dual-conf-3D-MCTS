@@ -1,0 +1,26 @@
+
+     RDKit          3D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0825    0.0390    0.0409 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4225    0.0390    0.0409 Hg  0  0  0  0  0  2  0  0  0  0  0  0
+    5.7625    0.0390    0.0409 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13765
+
+>  <COMMON_NAME>  (1) 
+Mercuric chloride
+
+>  <CAS_NUMBER>  (1) 
+7487-94-7
+
+>  <UNII>  (1) 
+53GH7MZT1R
+
+>  <SYNONYMS>  (1) 
+bichlorure de mercure; chlorure mercurique; corrosive mercury chloride; corrosive sublimate; dichloromercury; dichlorure de mercure; hydrargyrum bichloratum; mercuric bichloride; Mercuric chloride; mercury bichloride; mercury perchloride; Mercury(II) chloride; Quecksilber(II)-chlorid; Sublimat; sublimate; Sulema
+
+$$$$

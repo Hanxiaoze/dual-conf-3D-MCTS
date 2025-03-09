@@ -1,0 +1,31 @@
+
+     RDKit          2D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7969   -0.2135    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Al  0  0  0  0  0  4  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0
+  4  2  1  0
+  4  3  1  0
+  4  5  1  0
+M  CHG  1   4  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04444
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00497
+
+>  <COMMON_NAME>  (1) 
+Tetrafluoroaluminate Ion
+
+>  <CAS_NUMBER>  (1) 
+21340-02-3
+
+>  <SYNONYMS>  (1) 
+Tetrafluoroaluminate anion; tetrafluoroaluminate(1−)
+
+$$$$

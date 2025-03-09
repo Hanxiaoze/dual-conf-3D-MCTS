@@ -1,0 +1,43 @@
+142
+     RDKit          3D
+
+ 10  9  0  0  1  0  0  0  0  0999 V2000
+    0.9178    0.0425   -0.0826 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5320    4.3555    1.8062 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0507    2.0208   -1.0966 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4393    3.9796   -0.1101 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7000   -0.0654   -1.3964 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7239    1.0889    0.7990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1855    1.0982   -0.6419 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2712    2.3021    1.6222 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3475    1.1230   -0.6555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7385    3.6086    1.0165 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 10  1  0
+  3  9  2  0
+  4 10  2  0
+  6  7  1  0
+  6  8  1  0
+  7  5  1  6
+  7  9  1  0
+  8 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00142
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00027
+
+>  <COMMON_NAME>  (1) 
+Glutamic acid
+
+>  <CAS_NUMBER>  (1) 
+56-86-0
+
+>  <UNII>  (1) 
+3KX376GY7L
+
+>  <SYNONYMS>  (1) 
+(2S)-2-Aminopentanedioic acid; (S)-2-Aminopentanedioic acid; (S)-Glutamic acid; ácido glutámico; Glu; Glutamic acid; L-Glutamate; L-Glutamic acid; L-Glutaminic acid
+
+$$$$

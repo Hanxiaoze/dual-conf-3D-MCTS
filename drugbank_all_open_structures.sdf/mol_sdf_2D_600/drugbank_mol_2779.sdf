@@ -1,0 +1,34 @@
+
+     RDKit          2D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+   -0.0411    0.7698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3713   -0.7698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7558   -0.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0411   -0.0552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7557   -0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0
+  4  2  1  0
+  4  3  1  0
+  4  5  1  0
+M  CHG  1   4   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03095
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03069
+
+>  <COMMON_NAME>  (1) 
+Tetramethylammonium
+
+>  <CAS_NUMBER>  (1) 
+51-92-3
+
+>  <UNII>  (1) 
+H0W55235FC
+
+>  <SYNONYMS>  (1) 
+Trimethylaminomethane
+
+$$$$

@@ -1,0 +1,46 @@
+
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -0.3611    0.4121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0738    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7913    0.4217    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3611    1.2362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0641    0.4072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3515   -0.8289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0738   -0.8289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0738   -1.2362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7864   -0.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7913   -0.8289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  3  1  0
+  5  1  1  0
+  6  2  2  0
+  7  2  1  0
+  8  3  1  0
+  9  7  2  0
+ 10  6  1  0
+ 11 10  2  0
+ 11  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00397
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00457; DB09441
+
+>  <COMMON_NAME>  (1) 
+Phenylpropanolamine
+
+>  <CAS_NUMBER>  (1) 
+14838-15-4
+
+>  <UNII>  (1) 
+33RU150WUN
+
+>  <SYNONYMS>  (1) 
+(+-)-Norephedrine; (+-)-Phenylpropanolamine; Fenilpropanolamina; Norephedrine; Phenylpropanolamin; Phenylpropanolamina; Phenylpropanolamine; Phénylpropanolamine; Phenylpropanolaminum; PPA
+
+$$$$

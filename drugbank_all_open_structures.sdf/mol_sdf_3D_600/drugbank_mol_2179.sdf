@@ -1,0 +1,42 @@
+
+     RDKit          3D
+
+ 11 10  0  0  1  0  0  0  0  0999 V2000
+    0.8989   -0.2328    0.2296 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4275    0.0054    1.6317 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8618    1.4197    2.0473 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4291    2.5947    1.1352 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0634    2.8185    0.9838 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6625    3.5537    1.7708 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7533    2.1428    0.0161 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1108    1.2270   -0.8396 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1125   -0.2690    1.9360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4327   -1.4633    2.4769 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0204    0.4987    1.7487 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  9  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  9 10  1  0
+  9 11  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02446
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01737
+
+>  <COMMON_NAME>  (1) 
+Glutamine hydroxamate
+
+>  <CAS_NUMBER>  (1) 
+1955-67-5
+
+>  <SYNONYMS>  (1) 
+gamma-Glutamyl hydroxamate; Glutamate-gamma-hydroxamate; Glutamate-gamma-hydroxamic acid; Glutamic acid gamma-monohydroxamate; Glutamyl-gamma-hydroxamate; L-gamma-Glutamyl hydroxamate; L-glutamic acid γ-hydroxamic acid
+
+$$$$

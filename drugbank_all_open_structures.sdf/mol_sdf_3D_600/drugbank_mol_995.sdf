@@ -1,0 +1,60 @@
+1124
+     RDKit          3D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+    0.9100   -0.1646    0.3431 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6412   -0.7222   -0.9797 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2649   -0.7539    1.4967 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3213    4.0655    0.2519 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2369    3.1276   -0.4822 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3187    1.6689    0.2471 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0184    1.4948   -1.4451 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7709    1.8674   -0.6359 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4196    2.3351   -1.3644 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9127   -0.5097    0.7151 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5665    2.6030   -0.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9527    2.9881    0.0222 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8097    0.4281    1.2454 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5571   -1.6608    0.2207 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8547   -0.6382    0.3274 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1730    0.3710    0.9470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0179   -1.7288    0.1088 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3423   -0.5930    0.0196 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  6  1  0
+  1 10  1  0
+  4 12  2  0
+  5  8  1  0
+  5 12  1  0
+  6 12  1  0
+  7  8  1  0
+  7  9  1  0
+  9 11  1  0
+ 10 13  2  0
+ 10 14  1  0
+ 13 16  1  0
+ 14 17  2  0
+ 15 16  2  0
+ 15 17  1  0
+ 15 18  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01124
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00267
+
+>  <COMMON_NAME>  (1) 
+Tolbutamide
+
+>  <CAS_NUMBER>  (1) 
+64-77-7
+
+>  <UNII>  (1) 
+982XCM1FOI
+
+>  <SYNONYMS>  (1) 
+1-Butyl-3-(p-methylphenylsulfonyl)urea; 1-Butyl-3-(p-tolylsulfonyl)urea; 1-Butyl-3-tosylurea; 1-p-Toluenesulfonyl-3-butylurea; 3-(p-Tolyl-4-sulfonyl)-1-butylurea; N-(4-Methylbenzenesulfonyl)-N'-butylurea; N-(4-Methylphenylsulfonyl)-N'-butylurea; N-(p-Methylbenzenesulfonyl)-N'-butylurea; N-(Sulfonyl-p-methylbenzene)-N'-N-butylurea; N-Butyl-N'-(4-methylphenylsulfonyl)urea; N-Butyl-N'-(p-tolylsulfonyl)urea; N-Butyl-N'-p-toluenesulfonylurea; N-n-Butyl-N'-tosylurea; Tolbutamida; Tolbutamide; Tolbutamidum; Tolylsulfonylbutylurea
+
+$$$$

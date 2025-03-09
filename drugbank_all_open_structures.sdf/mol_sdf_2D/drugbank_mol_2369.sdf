@@ -1,0 +1,37 @@
+
+ OpenBabel10282417072D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    0.3573    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3573    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.2063    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.6188    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.2061    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -1.0313    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  1  0  0  0  0
+  5  2  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB02650
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT00949
+
+>  <COMMON_NAME>
+Trichloroacetaldehyde
+
+>  <CAS_NUMBER>
+75-87-6
+
+>  <UNII>
+FLI06WS32H
+
+>  <SYNONYMS>
+2,2,2-trichloroacetaldehyde; Anhydrous chloral; Chloral; Tri-chloro-acetaldehyde; Trichloroacetaldehyd; Trichloroethanal
+
+$$$$

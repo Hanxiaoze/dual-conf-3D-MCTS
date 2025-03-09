@@ -1,0 +1,46 @@
+583
+     RDKit          3D
+
+ 11 10  0  0  1  0  0  0  0  0999 V2000
+    0.9422   -0.0637   -0.0338 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3179    3.7743   -1.1838 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8050    1.9211   -1.9690 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6825    0.6724    2.2985 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1083    0.7263    2.2123 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5122    1.0077    0.8098 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3369    2.0047    1.9891 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0707    0.3153    3.7186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2483   -0.3981    1.3680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8598    2.3912    0.2858 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571    2.7083   -1.0989 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2 11  1  0
+  3 11  2  0
+  4  5  1  0
+  4  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5  6  1  0
+  6  1  1  6
+  6 10  1  0
+ 10 11  1  0
+M  CHG  2   2  -1   4   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00583
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01070
+
+>  <COMMON_NAME>  (1) 
+Levocarnitine
+
+>  <CAS_NUMBER>  (1) 
+541-15-1
+
+>  <UNII>  (1) 
+0G389FZZ9M
+
+>  <SYNONYMS>  (1) 
+(-)-Carnitine; (-)-L-Carnitine; (R)-Carnitine; 3-Carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium hydroxide, inner salt; Carnitina; Carnitine; L-Carnitine; Levocarnitin; Levocarnitina; Lévocarnitine; Levocarnitine; Levocarnitinum; Vitamin BT
+
+$$$$

@@ -1,0 +1,28 @@
+
+     RDKit          2D
+
+  4  2  0  0  0  0  0  0  0  0999 V2000
+    2.4750   -0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 As  0  0  0  0  0  3  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  2  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB18508
+
+>  <COMMON_NAME>  (1) 
+Sodium arsenite
+
+>  <CAS_NUMBER>  (1) 
+7784-46-5
+
+>  <UNII>  (1) 
+48OVY2OC72
+
+>  <SYNONYMS>  (1) 
+Arsenenous acid, sodium salt (1:1); Arsenious acid, monosodium salt; Arsenious acid, sodium salt; Sodium (meta)arsenite; Sodium arsenenite; Sodium dioxoarsenate; Sodium meta arsenite; Sodium meta-arsenite; Sodium metaarsenite
+
+$$$$

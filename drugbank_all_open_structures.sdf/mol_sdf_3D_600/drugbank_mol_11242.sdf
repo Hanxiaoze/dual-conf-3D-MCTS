@@ -1,0 +1,30 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0033    0.1265   -0.0475 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4386   -0.7743    0.5762 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3794   -0.0898   -0.0972 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0047    0.9232   -0.8831 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6968    0.7528   -2.3630 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  3  1  0
+  5  4  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16560
+
+>  <COMMON_NAME>  (1) 
+Ethyl nitrite
+
+>  <CAS_NUMBER>  (1) 
+109-95-5
+
+>  <UNII>  (1) 
+8C7CJ279RV
+
+>  <SYNONYMS>  (1) 
+Ethylester kyseliny dusite; Nitrous acid, ethyl ester; Nitrous ether spirit; Spirit of ethyl nitrite
+
+$$$$

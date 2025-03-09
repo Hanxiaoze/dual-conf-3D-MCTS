@@ -1,0 +1,41 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.6712   -0.5916    0.1802 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0245   -1.0708   -0.9889 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5381   -0.5324   -2.2075 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1606    0.9235   -2.4368 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524    2.0189   -1.5146 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2607    1.8792   -0.4030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2547    1.7446   -0.3883 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7594    0.8594   -1.3885 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6955    1.3734   -2.7100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02935
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02086
+
+>  <COMMON_NAME>  (1) 
+Diglyme
+
+>  <CAS_NUMBER>  (1) 
+111-96-6
+
+>  <UNII>  (1) 
+M4BH3X0MVZ
+
+>  <SYNONYMS>  (1) 
+2,2'-oxybis(1-methoxyethane); 2,2'-oxybis[1-(methyloxy)ethane]; 2,5,8-trioxanonane; bis(2-methoxyethyl) ether; di(2-methoxyethyl) ether; diethylene glycol dimethyl ether
+
+$$$$

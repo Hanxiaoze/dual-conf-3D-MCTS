@@ -1,0 +1,35 @@
+
+     RDKit          2D
+
+  7  7  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2376    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  4  2  0
+  6  5  1  0
+  7  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06728
+
+>  <COMMON_NAME>  (1) 
+Aniline
+
+>  <CAS_NUMBER>  (1) 
+62-53-3
+
+>  <UNII>  (1) 
+SIR7XX2F1K
+
+>  <SYNONYMS>  (1) 
+Aminobenzene; Aminophen; Anilin; Anilina; Aniline; Aniline oil; Anilinum; Benzenamine; Benzeneamine; Fentanyl impurity F; Huile d'aniline; Kyanol; Phenylamine; Trimethoprim specified impurity K
+
+$$$$

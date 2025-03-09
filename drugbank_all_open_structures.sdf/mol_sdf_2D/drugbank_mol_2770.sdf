@@ -1,0 +1,41 @@
+
+ OpenBabel10282417072D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3100    2.2690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3075    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7725   -0.2121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7690   -1.5260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB03085
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01629; DB11307
+
+>  <COMMON_NAME>
+Glycolic acid
+
+>  <CAS_NUMBER>
+79-14-1
+
+>  <UNII>
+0WT12SX38S
+
+>  <SYNONYMS>
+2-Hydroxyacetic acid; 2-Hydroxyethanoic acid; alpha-Hydroxyacetic acid; Glycollic acid; Hydroxyacetic acid; Hydroxyethanoic acid; α-hydroxyacetic acid
+
+$$$$

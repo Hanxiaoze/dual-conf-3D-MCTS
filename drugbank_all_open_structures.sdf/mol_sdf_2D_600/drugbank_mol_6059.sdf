@@ -1,0 +1,45 @@
+
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -0.7144    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  6  1  0
+  1  7  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  4  8  1  0
+  5  6  2  0
+  6  9  1  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB07726
+
+>  <COMMON_NAME>  (1) 
+t-Butylhydroquinone
+
+>  <CAS_NUMBER>  (1) 
+1948-33-0
+
+>  <UNII>  (1) 
+C12674942B
+
+>  <SYNONYMS>  (1) 
+2-(1,1-Dimethylethyl)-1,4-benzenediol; 2-t-Butyl-1,4-benzenediol; 2-t-Butylhydroquinone; 2-tert-Butyl-1,4-benzenediol; 2-tert-Butyl(1,4)hydroquinone; 2-tert-butylhydroquinone; 2-Tertiary-butylhydroquinone; Mono-tert-butylhydroquinone; Mono-tertiarybutylhydroquinone; MTBHQ; t-Butyl hydroquinone; t-Butylhydroquinone; TBHQ; tert-Butyl-1,4-benzenediol; tert-Butylhydroquinone; tertiary-Butylhydroquinone
+
+$$$$

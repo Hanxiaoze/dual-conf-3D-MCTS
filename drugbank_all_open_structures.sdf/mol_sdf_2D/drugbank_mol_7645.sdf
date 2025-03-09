@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 O   0  6  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cu  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -2   2   2
+M  END
+>  <DRUGBANK_ID>
+DB11134
+
+>  <COMMON_NAME>
+Cupric oxide
+
+>  <CAS_NUMBER>
+1317-38-0
+
+>  <UNII>
+V1XJQ704R4
+
+>  <SYNONYMS>
+Cuprous Oxide; Cuprum oxydatum nigrum
+
+$$$$

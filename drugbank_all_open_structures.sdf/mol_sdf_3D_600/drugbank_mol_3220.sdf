@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    1.0507    0.0855    0.1223 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5370    1.0559   -0.9336 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0131    0.7091   -2.3453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5596   -0.6649   -2.7956 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2421   -0.6744   -3.8794 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8912   -1.7076   -2.2463 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03568
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00774
+
+>  <COMMON_NAME>  (1) 
+Butyric Acid
+
+>  <CAS_NUMBER>  (1) 
+107-92-6
+
+>  <UNII>  (1) 
+40UIR9Q29H
+
+>  <SYNONYMS>  (1) 
+1-propanecarboxylic acid; Butanoic acid; Butyrate; Butyricum acidum; Ethylacetic acid; N-butanoic acid; N-butyric acid; Propylformic acid
+
+$$$$

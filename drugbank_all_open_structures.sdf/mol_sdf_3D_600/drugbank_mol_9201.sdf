@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+   -0.7830   -1.0090   -0.2000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0090    1.2780   -0.2000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2380    0.3860    0.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7340   -1.0680    0.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4328    0.7759    0.2628 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1980    0.4130    0.2510 Pt  0  0  0  0  0  4  0  0  0  0  0  0
+   -1.4544    0.5007    2.3032 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0019    1.0365   -0.5503 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  4  1  1  0
+  6  2  1  0
+  6  8  1  0
+  6  7  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13145
+
+>  <COMMON_NAME>  (1) 
+Nedaplatin
+
+>  <CAS_NUMBER>  (1) 
+95734-82-0
+
+>  <UNII>  (1) 
+8UQ3W6JXAN
+
+>  <SYNONYMS>  (1) 
+(glycolato-O,O')diammineplatinum(II); CDGP; cis-Diammine (glycolato)platinum; cis-diammine(glycolato)platinum; cis-Diammine(glycolato)platinum(II); Nedaplatin
+
+$$$$

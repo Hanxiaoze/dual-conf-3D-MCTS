@@ -1,0 +1,24 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cu  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  2   1  -2   2   2
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11134
+
+>  <COMMON_NAME>  (1) 
+Cupric oxide
+
+>  <CAS_NUMBER>  (1) 
+1317-38-0
+
+>  <UNII>  (1) 
+V1XJQ704R4
+
+>  <SYNONYMS>  (1) 
+Cuprous Oxide; Cuprum oxydatum nigrum
+
+$$$$

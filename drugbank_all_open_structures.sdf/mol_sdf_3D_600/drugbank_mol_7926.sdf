@@ -1,0 +1,49 @@
+
+     RDKit          3D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    1.3440   -0.2250    0.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5020   -1.2510   -0.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8920    1.0800   -0.0700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1159   -0.5377    0.2328 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8560   -1.0420    0.0030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0454   -2.6695   -0.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5090    1.2150    0.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4947   -2.8727    0.3781 Hg  0  0  0  0  0  2  0  0  0  0  0  0
+   -1.3730    0.2230   -0.0410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2447   -3.6557   -0.0965 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4477   -2.8928   -0.0655 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8271   -4.9220    0.5057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3982   -5.2585    1.8736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9963    0.0448   -0.0893 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  2  0
+  4  8  1  0
+  5  9  2  0
+  6 10  2  0
+  6 11  1  0
+  7  9  1  0
+  8 12  1  0
+ 12 13  1  0
+M  CHG  2  11  -1  14   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11590
+
+>  <COMMON_NAME>  (1) 
+Thimerosal
+
+>  <CAS_NUMBER>  (1) 
+54-64-8
+
+>  <UNII>  (1) 
+2225PI3MOV
+
+>  <SYNONYMS>  (1) 
+[(o-carboxyphenyl)thio]ethylmercury sodium salt; BTL-TML-COVID; BTL-TML-HSV; BTL-TML001; ethyl(2-mercaptobenzoato-S)mercury sodium salt; ethylmercurithiosalicylate sodium; ethylmercurithiosalicylic acid sodium salt; mercurothiolate; o-(ethylmercurithio)benzoic acid sodium salt; sodium ethylmercurithiosalicylate; sodium merthiolate; Thimerosal; Thiomersal; Thiomersalate; Thiomersalum; Tiomersal
+
+$$$$

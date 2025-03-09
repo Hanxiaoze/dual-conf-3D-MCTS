@@ -1,0 +1,54 @@
+1050
+     RDKit          2D
+
+ 15 15  0  0  1  0  0  0  0  0999 V2000
+    3.7934    2.7596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.5221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  2 15  2  0
+  3  4  1  0
+  3  8  1  0
+  3  9  1  0
+  4  5  1  0
+  5 10  2  0
+  5 11  1  0
+  6  7  1  0
+  6 12  2  0
+  6 13  1  0
+  7 14  1  0
+  7 15  1  0
+ 10 12  1  0
+ 11 13  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01050
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00372
+
+>  <COMMON_NAME>  (1) 
+Ibuprofen
+
+>  <CAS_NUMBER>  (1) 
+15687-27-1
+
+>  <UNII>  (1) 
+WK2XYI10QM
+
+>  <SYNONYMS>  (1) 
+(±)-2-(p-isobutylphenyl)propionic acid; (±)-ibuprofen; (±)-p-isobutylhydratropic acid; (±)-α-methyl-4-(2-methylpropyl)benzeneacetic acid; (4-isobutylphenyl)-α-methylacetic acid; (RS)-ibuprofen; 2-(4-isobutylphenyl)propanoic acid; 4-isobutylhydratropic acid; Ibuprofen; Ibuprofene; Ibuprofeno; Ibuprofenum; Ibuprophen; α-(4-isobutylphenyl)propionic acid; α-(p-isobutylphenyl)propionic acid
+
+$$$$

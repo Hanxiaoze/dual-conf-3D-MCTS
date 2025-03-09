@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  7  7  0  0  0  0  0  0  0  0999 V2000
+   -1.3773    1.6311    0.0096 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9370   -0.0890   -0.1278 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9884   -1.2563    0.1177 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1040    1.1678    0.0470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3870   -0.6569    0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2593    0.7170   -0.0313 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4292   -1.2942   -0.0084 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  2  1  0
+  5  3  1  0
+  6  1  1  0
+  6  4  1  0
+  6  5  1  0
+  7  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB12521
+
+>  <COMMON_NAME>  (1) 
+Methyl pyrrolidone
+
+>  <CAS_NUMBER>  (1) 
+872-50-4
+
+>  <UNII>  (1) 
+JR9CE63FPM
+
+>  <SYNONYMS>  (1) 
+1-methyl-2-pyrrolidinone; 1-methyl-2-pyrrolidone; 1-methyl-5-pyrrolidinone; 1-methylpyrrolidinone; Methylpyrrolidone; N-methyl-2-pyrrolidone; N-methyl-pyrrolidone; N-methylpyrrolidone; NMP
+
+$$$$

@@ -1,0 +1,34 @@
+
+     RDKit          2D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  0
+  7  2  1  0
+  7  3  1  0
+  7  4  1  0
+  7  5  1  0
+  7  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11104
+
+>  <COMMON_NAME>  (1) 
+Sulfur hexafluoride
+
+>  <CAS_NUMBER>  (1) 
+2551-62-4
+
+>  <UNII>  (1) 
+WS7LR3I1D6
+
+>  <SYNONYMS>  (1) 
+hexafluoridosulfur; Sulfur fluoride; Sulfur hexafluoride; sulfur(6+) fluoride; sulfur(VI) fluoride; Sulphur hexafluoride
+
+$$$$

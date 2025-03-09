@@ -1,0 +1,52 @@
+339
+ OpenBabel10282417103D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    1.1176    0.0027   -0.0209 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6315   -1.7713   -1.7043 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9068   -2.7917   -0.3492 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0739    0.9834    0.5223 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0905   -1.2217   -0.5484 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2001   -1.7277    0.1141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3423   -0.0553   -0.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3319   -2.8349   -2.1604 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4432   -3.3340   -1.4999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0749    1.0796    0.4228 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5474    1.8081    0.7882 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5518   -1.3099    1.0502 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9749   -3.2794   -3.0830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9922   -4.1880   -1.8818 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00339
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD01206
+
+>  <COMMON_NAME>
+Pyrazinamide
+
+>  <CAS_NUMBER>
+98-96-4
+
+>  <UNII>
+2KNI5N06TI
+
+>  <SYNONYMS>
+2-carbamylpyrazine; 2-pyrazinecarboxamide; Aldinamide; Pirazinamida; Pirazinamide; Pyrazinamid; Pyrazinamida; Pyrazinamide; Pyrazinamidum; Pyrazine carboxamide; pyrazine-2-carboxamide; Pyrazineamide; Pyrazinecarboxamide; Pyrazinoic acid amide; Pyrizinamide
+
+$$$$

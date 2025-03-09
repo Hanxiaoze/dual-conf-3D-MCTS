@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 I   0  0  0  0  0 15  0  0  0  0  0  0
+M  RAD  1   1   2
+M  ISO  1   1 125
+M  END
+>  <DRUGBANK_ID>
+DB14804
+
+>  <COMMON_NAME>
+Iodine I-125
+
+>  <CAS_NUMBER>
+14158-31-7
+
+>  <UNII>
+GVO776611R
+
+>  <SYNONYMS>
+125-IODINE
+
+$$$$

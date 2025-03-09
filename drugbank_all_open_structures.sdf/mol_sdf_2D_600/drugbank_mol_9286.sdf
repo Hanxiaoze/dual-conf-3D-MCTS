@@ -1,0 +1,26 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13259
+
+>  <COMMON_NAME>  (1) 
+Ethyl chloride
+
+>  <CAS_NUMBER>  (1) 
+75-00-3
+
+>  <UNII>  (1) 
+46U771ERWK
+
+>  <SYNONYMS>  (1) 
+chloroethane; Ethyl chloride; monochloroethane
+
+$$$$

@@ -1,0 +1,52 @@
+
+ OpenBabel10282417243D
+
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+    0.9346   -0.2252   -0.4071 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4196   -1.4923    0.1082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9228   -1.9372    1.4945 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3421   -0.9418    2.9139 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0488    1.0433    2.6801 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2968    0.4033    1.8359 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1043    1.2276    1.5330 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5649    2.4930    2.5093 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4615    0.5521    0.0807 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8908   -0.0930   -0.0554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6753   -1.4623    0.0994 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7207   -2.2566   -0.6147 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5650   -2.9577    1.6710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0167   -1.9953    1.5128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1294    0.8389    2.1084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8726    0.6516    1.7326 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB17640
+
+>  <COMMON_NAME>
+Phosphocysteamine
+
+>  <CAS_NUMBER>
+5746-40-7
+
+>  <UNII>
+WFH6A9S0V4
+
+>  <SYNONYMS>
+Cysteamine s-phosphate; Cysteamine-s-phosphate; Ethanethiol, 2-amino-, 1-(dihydrogen phosphate); Ethanethiol, 2-amino-, dihydrogen phosphate (ester); Ethanethiol, 2-amino-, s-ester with phosphorothioic acid; Phosphocysteamine; Phosphorothioic acid, s-(2-aminoethyl) ester; S-(2-aminoethyl) dihydrogen phosphorothioate; S-(2-aminoethyl) phosphorothioate
+
+$$$$

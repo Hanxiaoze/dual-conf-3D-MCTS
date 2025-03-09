@@ -1,0 +1,60 @@
+369
+     RDKit          3D
+
+ 18 18  0  0  1  0  0  0  0  0999 V2000
+    0.9385    0.0262    0.0743 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1704   -1.2738   -0.2941 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7750   -2.7155   -0.6573 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9876    1.2297    1.1861 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9908    0.9476   -1.2936 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6099    0.0262    0.0743 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9855    0.4000    1.7741 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1739   -0.6303    2.8251 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4735    1.7730    2.7739 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8943    3.1014    3.8069 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8064   -2.2607    0.6936 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3983   -1.9595    2.1379 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2964   -2.6162    0.6719 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7685    0.0262    0.0743 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1725   -0.4777    3.7647 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886    0.5202    2.5161 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9619    0.7090    4.3383 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4919    1.8871    3.6178 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  6  2  0
+  1 14  1  0
+  2 14  1  0
+  3 13  1  0
+  7 16  2  0
+  8 12  1  0
+  8 15  1  0
+  8 16  1  0
+  9 16  1  0
+  9 18  2  0
+ 10 18  1  0
+ 11  2  1  0
+ 11 12  1  1
+ 11 13  1  0
+ 15 17  2  0
+ 17 18  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00369
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00148
+
+>  <COMMON_NAME>  (1) 
+Cidofovir
+
+>  <CAS_NUMBER>  (1) 
+113852-37-2
+
+>  <UNII>  (1) 
+768M1V522C
+
+>  <SYNONYMS>  (1) 
+({[(S)-1-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid; (S)-(3-(4-amino-2-Oxopyrimidin-1(2H)-yl)-1-hydroxypropan-2-yloxy)methylphosphonic acid; (S)-1-(3-Hydroxy-2-phosphonomethoxypropyl)cytosine; (S)-1-[3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; (S)-1-[3-Hydroxy-2-(phosphonylmethoxy)propyl]cytosine; (S)-HPMPC; [(S)-2-(4-Amino-2-oxo-2H-pyrimidin-1-yl)-1-hydroxymethyl-ethoxymethyl]-phosphonic acid; [[(S)-2-(4-amino-2-oxo-1(2H)-pyrimidinyl)-1-(hydroxymethyl)ethoxy]methyl]phosphonic acid; 1-(S)-[3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; 1-[(S)-3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; CDV; Cidofovir; Cidofovir anhydrous; Cidofovirum
+
+$$$$

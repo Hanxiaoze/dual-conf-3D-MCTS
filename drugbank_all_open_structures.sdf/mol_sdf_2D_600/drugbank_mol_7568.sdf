@@ -1,0 +1,40 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2061    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2 10  1  6
+  2  4  1  0
+  4  3  1  0
+  4  9  1  6
+  5  3  1  0
+  6  1  1  0
+  7  3  2  0
+  8  1  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09459
+
+>  <COMMON_NAME>  (1) 
+L-tartaric acid
+
+>  <CAS_NUMBER>  (1) 
+87-69-4
+
+>  <UNII>  (1) 
+W4888I119H
+
+>  <SYNONYMS>  (1) 
+(+)-(R,R)-tartaric acid; (+)-L-tartaric acid; (+)-Tartaric acid; (+)-Weinsäure; (2R,3R)-2,3-Dihydroxybernsteinsäure; (2R,3R)-2,3-dihydroxysuccinic acid; (2R,3R)-Tartaric acid; (R,R)-(+)-tartaric acid; (R,R)-Tartaric acid; ácido tartárico; L-threaric acid; Rechtsweinsäure; Tartaric acid; Weinsteinsäure
+
+$$$$

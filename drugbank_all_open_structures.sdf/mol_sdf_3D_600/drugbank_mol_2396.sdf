@@ -1,0 +1,29 @@
+
+     RDKit          3D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0182    0.0759    0.1154 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3530    0.1978    1.2610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2247    0.3037    2.2561 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  3  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02679
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00971
+
+>  <COMMON_NAME>  (1) 
+Cyanamide
+
+>  <CAS_NUMBER>  (1) 
+420-04-2
+
+>  <UNII>  (1) 
+21CP7826LC
+
+>  <SYNONYMS>  (1) 
+Cyanamide
+
+$$$$

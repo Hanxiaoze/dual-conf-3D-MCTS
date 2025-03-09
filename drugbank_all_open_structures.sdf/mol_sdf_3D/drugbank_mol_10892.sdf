@@ -1,0 +1,29 @@
+
+ OpenBabel10282417223D
+
+  5  2  0  0  0  0  0  0  0  0999 V2000
+    1.9855    2.4816    1.0940 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2854    1.4361   -0.1512 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.4069   -2.0782    1.1900 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2868   -1.4682   -0.0851 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5397   -0.3156   -1.7443 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  CHG  3   2  -1   4  -1   5   2
+M  END
+>  <DRUGBANK_ID>
+DB15912
+
+>  <COMMON_NAME>
+Calcium hypochlorite
+
+>  <CAS_NUMBER>
+7778-54-3
+
+>  <UNII>
+11DXB629VZ
+
+>  <SYNONYMS>
+Chloride of lime; Chlorinated lime; Hipoclorito calcico; Hypochlorite de calcium; Hypochlorous acid, calcium salt
+
+$$$$

@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.7863   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7863    0.2061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  8  2  0
+  3  9  2  0
+  5  9  1  0
+  6  4  1  1
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00174
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00015
+
+>  <COMMON_NAME>  (1) 
+Asparagine
+
+>  <CAS_NUMBER>  (1) 
+70-47-3
+
+>  <UNII>  (1) 
+5Z33R5TKO7
+
+>  <SYNONYMS>  (1) 
+(2S)-2-amino-3-carbamoylpropanoic acid; (2S)-2,4-diamino-4-oxobutanoic acid; (S)-2-amino-3-carbamoylpropanoic acid; (S)-Asparagine; 2-Aminosuccinamic acid; alpha-aminosuccinamic acid; Asn; Asparagine; Aspartamic acid; L-2-aminosuccinamic acid; L-Asparagine; L-aspartic acid beta-amide; L-aspartic acid β-amide; α-aminosuccinamic acid
+
+$$$$

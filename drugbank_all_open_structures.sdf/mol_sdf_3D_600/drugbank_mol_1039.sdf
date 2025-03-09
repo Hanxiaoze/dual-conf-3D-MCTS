@@ -1,0 +1,56 @@
+1168
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    1.0175    0.0035   -0.1011 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9842    0.0170   -1.2305 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6607   -0.4004    4.6340 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3686   -0.3544    5.8998 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4379   -0.0327   -1.3950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4896    0.0305    3.5708 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9477    0.1392    1.2397 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2468    0.0647   -0.0654 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2800    0.0411    4.8533 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9038   -1.3144   -2.0622 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9273    1.2023   -2.1409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3404   -0.7637    3.4431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8540    0.8834    2.5246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5740   -0.7195    2.2757 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0297    1.0066    1.4141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7407   -0.7968    5.6667 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  5  1  0
+  2  8  1  0
+  3  4  1  0
+  3  9  1  0
+  4 16  1  0
+  5 10  1  0
+  5 11  1  0
+  6  9  1  0
+  6 12  2  0
+  6 13  1  0
+  7  8  1  0
+  7 14  2  0
+  7 15  1  0
+ 12 14  1  0
+ 13 15  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01168
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00695
+
+>  <COMMON_NAME>  (1) 
+Procarbazine
+
+>  <CAS_NUMBER>  (1) 
+671-16-9
+
+>  <UNII>  (1) 
+35S93Y190K
+
+>  <SYNONYMS>  (1) 
+1-Methyl-2-(p-(isopropylcarbamoyl)benzyl)hydrazine; 2-(p-Isopropylcarbamoylbenzyl)-1-methylhydrazine; 4-((2-Methylhydrazino)methyl)-N-isopropylbenzamide; N-(1-Methylethyl)-4-((2-methylhydrazino)methyl)benzamide; N-4-Isopropylcarbamoylbenzyl-N'-methylhydrazine; N-isopropyl-4-[(2-methylhydrazino)methyl]benzamide; N-Isopropyl-p-(2-methylhydrazinomethyl)-benzamide; N-Isopropyl-α-(2-methylhydrazino)-p-toluamide; p-(2-Methylhydrazinomethyl)-N-isopropylbenzamide; Procarbazin; Procarbazina; Procarbazine; Procarbazinum
+
+$$$$

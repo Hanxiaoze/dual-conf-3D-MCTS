@@ -1,0 +1,29 @@
+
+     RDKit          3D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.9608   -0.0726    0.0601 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -0.1084    0.1120 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3501    0.5266   -0.8116 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3434   -0.7499    1.0452 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  2  0
+  4  1  1  0
+M  ISO  1   1  13
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09510
+
+>  <COMMON_NAME>  (1) 
+Urea C-13
+
+>  <CAS_NUMBER>  (1) 
+58069-82-2
+
+>  <UNII>  (1) 
+W6KX9E6D8X
+
+>  <SYNONYMS>  (1) 
+(13C)urea; 13C-urea; Carbon 13 urea; Carbon-13 urea; Urea (13C); Urea 13 C; Urea C 13; Urea-13C; Urea, C-13
+
+$$$$

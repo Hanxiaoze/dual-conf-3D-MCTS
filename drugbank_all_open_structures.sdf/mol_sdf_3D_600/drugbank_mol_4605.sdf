@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9624   -0.0927    0.0351 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3140   -1.2636    0.2802 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0302   -1.2993    0.2038 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0067   -2.3289    0.5244 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3410    1.1518   -0.1307 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  2  3  1  0
+  2  4  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB05383
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00459; DB02533
+
+>  <COMMON_NAME>  (1) 
+Pimagedine
+
+>  <CAS_NUMBER>  (1) 
+79-17-4
+
+>  <UNII>  (1) 
+SCQ4EZQ113
+
+>  <SYNONYMS>  (1) 
+Aminate base; Aminoguanidine; Guanyl hydrazine; Hydrazinecarboximidamide; Monoaminoguanidine; Pimagedine
+
+$$$$

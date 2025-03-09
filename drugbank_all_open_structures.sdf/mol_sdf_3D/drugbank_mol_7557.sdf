@@ -1,0 +1,35 @@
+
+ OpenBabel10282417183D
+
+  8  5  0  0  0  0  0  0  0  0999 V2000
+    1.9307   -0.1111   -2.5461 K   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5824    0.5536    2.3524 K   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0762   -0.1287   -0.2901 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4687    0.0489    0.2849 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4958    1.2010    1.2496 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4439   -1.2544    1.2144 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5076   -0.1486   -0.7710 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.8109   -1.8259    0.7473 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  CHG  4   1   1   2   1   5  -1   7  -1
+M  END
+>  <DRUGBANK_ID>
+DB09414
+
+>  <COMMON_NAME>
+Dipotassium phosphate
+
+>  <CAS_NUMBER>
+7758-11-4
+
+>  <UNII>
+CI71S98N1Z
+
+>  <SYNONYMS>
+Di-potassium hydrogen phosphate; Dibasic potassium phosphate; Dipotassium acid phosphate; Dipotassium hydrogen monophosphate; Dipotassium hydrogen orthophosphate; Dipotassium hydrogen phosphate; Dipotassium monophosphate; Kali phosphoricum; Phosphoric acid, dipotassium salt; Phosphoric acid, potassium salt (1:2); Potassium phosphate dibasic; Potassium phosphate, dibasic; Potassium phosphate,dibasic; Secondary potassium phosphate
+
+$$$$

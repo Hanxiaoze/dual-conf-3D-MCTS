@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9922    0.0897   -0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2081    0.0897   -0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB15906
+
+>  <COMMON_NAME>  (1) 
+Acetylene
+
+>  <CAS_NUMBER>  (1) 
+74-86-2
+
+>  <UNII>  (1) 
+OC7TV75O83
+
+>  <SYNONYMS>  (1) 
+Ethine; Ethyne
+
+$$$$

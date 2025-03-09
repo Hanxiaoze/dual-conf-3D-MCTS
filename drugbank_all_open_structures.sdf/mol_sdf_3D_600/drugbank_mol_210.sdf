@@ -1,0 +1,46 @@
+316
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    2.3338   -0.1111    0.0102 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2984    1.1850   -0.0817 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2523    0.2249   -0.0366 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8385    0.1150   -0.0109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2253   -1.1476   -0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9929    1.2218    0.0063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1853   -1.2581    0.0091 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3870    1.1262    0.0167 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9754   -0.1115    0.0120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0685    1.3333   -0.0558 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4894    2.7199   -0.0460 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 10  2  0
+  3  4  1  0
+  3 10  1  0
+  4  5  2  0
+  4  6  1  0
+  5  7  1  0
+  6  8  2  0
+  7  9  2  0
+  8  9  1  0
+ 10 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00316
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00252
+
+>  <COMMON_NAME>  (1) 
+Acetaminophen
+
+>  <CAS_NUMBER>  (1) 
+103-90-2
+
+>  <UNII>  (1) 
+362O9ITL9D
+
+>  <SYNONYMS>  (1) 
+4-(Acetylamino)phenol; 4-acetamidophenol; 4'-hydroxyacetanilide; Acenol; Acetaminofén; Acetaminophen; Acétaminophène; APAP; N-acetyl-p-aminophenol; p-acetamidophenol; p-acetaminophenol; p-Acetylaminophenol; p-hydroxy-acetanilid; p-hydroxyacetanilide; p-hydroxyphenolacetamide; Paracétamol; Paracetamol; Paracetamolum
+
+$$$$

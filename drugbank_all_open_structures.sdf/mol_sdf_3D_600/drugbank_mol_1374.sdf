@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    0.9717    2.0933    1.3166 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7828    0.0221   -0.1952 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0242    0.4424   -1.4126 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4074    0.7205    1.1467 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7208    3.0892    0.2762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0410    1.4086   -1.3149 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2504   -0.0431   -2.6794 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.4745    1.5569 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7538    1.9102   -2.3865 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4530    0.4690   -3.7868 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4607    1.4326   -3.6282 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  1  1  0
+  4  2  1  0
+  5  1  1  0
+  6  3  2  0
+  7  3  1  0
+  4  8  1  6
+  9  6  1  0
+ 10  7  2  0
+ 11  9  2  0
+ 11 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01577
+
+>  <COMMON_NAME>  (1) 
+Metamfetamine
+
+>  <CAS_NUMBER>  (1) 
+537-46-2
+
+>  <UNII>  (1) 
+44RAL3456C
+
+>  <SYNONYMS>  (1) 
+(+)-(S)-N-α-dimethylphenethylamine; (S)-N,α-dimethylbenzeneethanamine; (αS)-N,α-dimethylbenzeneethanamine; d-1-phenyl-2-methylaminopropane; d-deoxyephedrine; d-desoxyephedrine; d-N-methylamphetamine; d-phenylisopropylmethylamine; Dextromethamphetamine; Métamfétamine; Metamfetamine; Metamfetaminum; Metanfetamina; Methamphetamine; Methamphetaminum; methyl-β-phenylisopropylamine
+
+$$$$

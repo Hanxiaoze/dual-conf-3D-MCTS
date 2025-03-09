@@ -1,0 +1,51 @@
+
+     RDKit          3D
+
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+   -1.6810   -1.1300   -0.4020 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5490    1.3610   -0.1900 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1880    1.1670    0.4460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3348    2.0727    1.1682 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3900   -1.3440    0.3930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1232   -2.3621    1.1053 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5260   -0.1380    0.1930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3060   -0.1650   -1.1260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8710   -0.2540    0.9170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5050    0.3820   -0.3330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4000    0.1210    0.1030 Pt  0  0  0  0  0  4  0  0  0  0  0  0
+   -2.7042   -0.0376    2.1444 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2232    0.2987   -0.8609 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  3  2  1  0
+  3  4  2  0
+  5  7  1  0
+  5  6  2  0
+  7  3  1  0
+  7  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 10  1  0
+ 11  1  1  0
+ 11  2  1  0
+ 11 13  1  0
+ 11 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00958
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00466
+
+>  <COMMON_NAME>  (1) 
+Carboplatin
+
+>  <CAS_NUMBER>  (1) 
+41575-94-4
+
+>  <UNII>  (1) 
+BG3F62OND5
+
+>  <SYNONYMS>  (1) 
+Carboplatin; Carboplatine; Carboplatino; CBDCA; cis-(1,1-cyclobutanedicarboxylato)diammineplatinum(II); cis-diammine(1,1-cyclobutanedicarboxylato)platinum; cis-diammine(1,1-cyclobutanedicarboxylato)platinum(II)
+
+$$$$

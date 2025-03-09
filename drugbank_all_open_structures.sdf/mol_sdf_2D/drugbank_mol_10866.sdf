@@ -1,0 +1,37 @@
+
+ OpenBabel10282417072D
+
+  9  6  0  0  0  0  0  0  0  0999 V2000
+    0.3487    0.0033    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4797    0.0033    0.0000 S   0  0  3  0  0  0  0  0  0  0  0  0
+    0.3382   -0.8216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3382    0.8216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1737    0.0033    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.3050    0.0033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4797    0.8216    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.0413    0.0172    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+   -3.0413    0.0517    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+M  CHG  4   5  -1   7  -1   8   1   9   1
+M  END
+>  <DRUGBANK_ID>
+DB15841
+
+>  <COMMON_NAME>
+Potassium metabisulfite
+
+>  <CAS_NUMBER>
+16731-55-8
+
+>  <UNII>
+65OE787Q7W
+
+>  <SYNONYMS>
+Potassium disulfite; Potassium metabisulfite; Potassium metabisulphite; Potassium pentaoxodisulfate; Potassium pyrosulfite
+
+$$$$

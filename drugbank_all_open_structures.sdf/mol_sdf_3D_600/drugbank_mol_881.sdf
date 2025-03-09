@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9488    0.0539   -0.0787 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0687   -3.1093    1.5492 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5990   -1.1512    0.5415 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7842   -1.8352    0.8935 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4591   -2.0746    1.0167 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  5  2  0
+  3  5  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01005
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00023
+
+>  <COMMON_NAME>  (1) 
+Hydroxyurea
+
+>  <CAS_NUMBER>  (1) 
+127-07-1
+
+>  <UNII>  (1) 
+X6Q56QN5QC
+
+>  <SYNONYMS>  (1) 
+Carbamohydroxamic acid; Carbamohydroximic acid; Carbamoyl oxime; Carbamyl hydroxamate; Hidroxicarbamida; Hydrea; Hydroxycarbamid; Hydroxycarbamide; Hydroxycarbamidum; Hydroxyharnstoff; Hydroxyurea; N-Carbamoylhydroxylamine; N-Hydroxyurea; Oxyurea
+
+$$$$

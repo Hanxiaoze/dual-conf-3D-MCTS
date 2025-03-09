@@ -1,0 +1,35 @@
+
+     RDKit          2D
+
+  6  5  0  0  1  0  0  0  0  0999 V2000
+   14.2499  -11.4198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8373  -12.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0123  -12.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5999  -11.4198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5999  -12.8487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2499  -12.8487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  6  1  0
+  3  4  2  0
+  3  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01786
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01109
+
+>  <COMMON_NAME>  (1) 
+D-Alanine
+
+>  <CAS_NUMBER>  (1) 
+338-69-2
+
+>  <UNII>  (1) 
+E3UDS4613U
+
+>  <SYNONYMS>  (1) 
+(2R)-2-aminopropanoic acid; (R)-2-aminopropanoic acid; (R)-alanine; D-2-Aminopropionic acid; D-Ala; D-Alanin; D-α-alanine; D-α-aminopropionic acid; DAL
+
+$$$$

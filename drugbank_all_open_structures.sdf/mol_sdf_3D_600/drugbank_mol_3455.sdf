@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    0.9992    0.0697    0.0717 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1541    1.2190   -2.9812 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0041    0.4938   -0.9403 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8898    1.3681   -3.9487 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9581    2.3886   -3.5644 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4226    0.6443   -1.4547 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9504    2.1096   -0.9811 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  4  5  1  0
+  6  3  2  0
+  6  7  1  0
+  6  2  1  0
+  6  1  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03822
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01327
+
+>  <COMMON_NAME>  (1) 
+Ethyl dihydrogen phosphate
+
+>  <CAS_NUMBER>  (1) 
+1623-14-9
+
+>  <UNII>  (1) 
+BMH1WT204A
+
+>  <SYNONYMS>  (1) 
+Monoethyl acid phosphate; Monoethyl phosphate; O-Ethyl dihydrogen phosphate; Phosphoric acid monoethyl ester
+
+$$$$

@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 O   0  6  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   2   2  -2
+M  END
+>  <DRUGBANK_ID>
+DB01377
+
+>  <COMMON_NAME>
+Magnesium oxide
+
+>  <CAS_NUMBER>
+1309-48-4
+
+>  <UNII>
+3A3U0GI71G
+
+>  <SYNONYMS>
+Magnesia; Magnesium oxide
+
+$$$$

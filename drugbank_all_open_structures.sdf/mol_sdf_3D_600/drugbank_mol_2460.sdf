@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.9448   -0.0221   -0.0279 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0484    2.1793    0.3521 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6249    0.7373   -1.2014 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6461    2.6404   -2.2169 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7778    1.1345   -3.4252 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1478    1.1579    0.1226 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3355    1.4825   -2.2054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3654    1.1743    0.1834 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  8  2  0
+  3  6  1  0
+  3  7  2  3
+  4  7  1  0
+  5  7  1  0
+  6  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02751
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02364
+
+>  <COMMON_NAME>  (1) 
+Glycocyamine
+
+>  <CAS_NUMBER>  (1) 
+352-97-6
+
+>  <UNII>  (1) 
+GO52O1A04E
+
+>  <SYNONYMS>  (1) 
+Amidinoglycine; Betacyamine; Guanidineacetic acid; Guanidoacetic acid; Guanyl glycine; N-(aminoiminomethyl)glycine; N-amidinoglycine
+
+$$$$

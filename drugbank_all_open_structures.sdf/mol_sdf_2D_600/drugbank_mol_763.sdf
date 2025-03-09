@@ -1,0 +1,58 @@
+
+     RDKit          2D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   -1.2074    0.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074   -0.3922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5399    0.8772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5399   -0.8772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9524    0.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9524   -0.3922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1274    0.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1274   -0.3922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5358   -0.9756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5358    0.9757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7733   -0.2611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3608   -0.9756    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9442   -1.5590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9442    1.5590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3608    0.9757    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7733    0.2612    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2  5  1  0
+  3  1  1  0
+  7  3  1  6
+  8  4  1  6
+  4  2  1  0
+  5  7  1  0
+  5 10  1  1
+  6  8  1  0
+  6  9  1  6
+  7  8  1  0
+  9 12  1  0
+ 10 15  1  0
+ 12 11  1  0
+ 12 13  2  0
+ 15 14  1  0
+ 15 16  2  0
+M  CHG  4  11  -1  12   1  14  -1  15   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00883
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00455
+
+>  <COMMON_NAME>  (1) 
+Isosorbide dinitrate
+
+>  <CAS_NUMBER>  (1) 
+87-33-2
+
+>  <UNII>  (1) 
+IA7306519N
+
+>  <SYNONYMS>  (1) 
+1,4:3,6-Dianhydrosorbitol 2,5-dinitrate; D-Isosorbide dinitrate; Dianhydrosorbitol 2,5-dinitrate; Dinitrate d'isosorbide; Dinitrato de isosorbida; Dinitroisosorbide; Dinitrosorbide; ISDN; Isosorbide 2,5-dinitrate; Isosorbide dinitrate; Isosorbidi dinitras; Sorbide nitrate; Sorbidnitrate
+
+$$$$

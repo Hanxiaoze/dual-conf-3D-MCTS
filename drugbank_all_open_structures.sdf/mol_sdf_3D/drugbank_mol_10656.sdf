@@ -1,0 +1,25 @@
+
+ OpenBabel10282417223D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0721   -0.0130    0.0680 Tl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8321   -0.0130    0.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  ISO  1   1 201
+M  END
+>  <DRUGBANK_ID>
+DB15361
+
+>  <COMMON_NAME>
+Thallium Tl-201
+
+>  <CAS_NUMBER>
+15064-65-0
+
+>  <UNII>
+H91Z8HBK1B
+
+>  <SYNONYMS>
+THALLIUM-201
+
+$$$$

@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0032    0.0000 Li  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.0032    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB16607
+
+>  <COMMON_NAME>
+Lithium chloride
+
+>  <CAS_NUMBER>
+7447-41-8
+
+>  <UNII>
+G4962QA067
+
+>  <SYNONYMS>
+Lithium muriaticum
+
+$$$$

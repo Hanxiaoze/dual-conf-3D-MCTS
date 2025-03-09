@@ -1,0 +1,24 @@
+
+ OpenBabel10282417183D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.9388   -0.0692   -0.0382 I   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0086    0.0022    0.0996 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <DRUGBANK_ID>
+DB11119
+
+>  <COMMON_NAME>
+Sodium iodide
+
+>  <CAS_NUMBER>
+7681-82-5
+
+>  <UNII>
+F5WR8N145C
+
+>  <SYNONYMS>
+Sodium iodide
+
+$$$$

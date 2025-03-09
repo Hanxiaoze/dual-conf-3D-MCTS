@@ -1,0 +1,54 @@
+
+ OpenBabel10282417072D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+   -0.8352   -0.4266    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0102   -0.4266    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4227    0.2878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4186    0.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7041   -0.0140    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7041    0.8109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9176   -0.8109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4186   -0.4266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4258    0.5620    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2872    0.6069    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1418    1.1903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4521   -0.1203    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1753    0.9132    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2317   -1.4968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4185   -1.3966    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 10  1  1  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00828
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00987
+
+>  <COMMON_NAME>
+Fosfomycin
+
+>  <CAS_NUMBER>
+23155-02-4
+
+>  <UNII>
+2N81MY12TE
+
+>  <SYNONYMS>
+(-)-(1R,2S)-(1,2-Epoxypropyl)phosphonic acid; (1R,2S)-epoxypropylphosphonic acid; (2R-cis)-(3-Methyloxiranyl)phosphonic acid; 1R-cis-(1,2-epoxypropyl)phosphonic acid; cis-(1R,2S)-epoxypropylphosphonic acid; FCM; Fosfocina; Fosfomicina; Fosfomycin; Fosfomycine; Fosfomycinum; L-cis-1,2-epoxypropylphosphonic acid; Phosphomycin; Phosphonemycin; Phosphonomycin
+
+$$$$

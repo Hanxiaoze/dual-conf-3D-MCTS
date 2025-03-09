@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+   -0.2728    3.5207   -1.3615 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1392    1.1319    0.1953 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9563   -0.1613    0.1365 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6175   -0.5528    1.4545 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6270   -0.6570    2.6159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3964   -1.6664    2.3526 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6913    3.6133   -0.4273 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3215    4.6633   -0.3012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9335    2.4098    0.5145 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6548    2.8265    1.9137 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  3  2  1  0
+  4  3  1  0
+  5  4  1  0
+  6  5  1  0
+  7  8  2  0
+  9 10  1  1
+  9  2  1  0
+  9  7  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00123
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00037; DB11101
+
+>  <COMMON_NAME>  (1) 
+Lysine
+
+>  <CAS_NUMBER>  (1) 
+56-87-1
+
+>  <UNII>  (1) 
+K3Z4F929H6
+
+>  <SYNONYMS>  (1) 
+(S)-2,6-diaminohexanoic acid; (S)-lysine; (S)-α,ε-diaminocaproic acid; 6-ammonio-L-norleucine; L-2,6-Diaminocaproic acid; L-lys; L-Lysin; L-Lysine; LYS; Lysina; Lysine; Lysine acid; Lysinum
+
+$$$$

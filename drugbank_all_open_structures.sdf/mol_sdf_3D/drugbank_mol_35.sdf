@@ -1,0 +1,51 @@
+139
+ OpenBabel10282417103D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    1.0420    0.2990    0.1028 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1157   -2.1840    0.8262 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0578    1.2515   -1.9204 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0199   -2.0878    0.1586 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0728    0.6598   -0.9095 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5971   -0.7647   -1.0615 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4270    0.7754   -0.9885 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1363   -1.7130    0.0261 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9792    0.1424   -0.1362 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0281   -1.9344    0.5952 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4153    1.1213    0.0220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4782    1.2713   -1.7273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6937   -0.7390   -1.0874 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2830   -1.1948   -2.0199 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00139
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+NUTR00054
+
+>  <COMMON_NAME>
+Succinic acid
+
+>  <CAS_NUMBER>
+110-15-6
+
+>  <UNII>
+AB6MNQ6J6L
+
+>  <SYNONYMS>
+1,2-ethanedicarboxylic acid; Acide butanedioïque; Acide succinique; Acidum succinicum; Amber acid; Asuccin; Bernsteinsäure; Butandisäure; Butanedioic acid; Butanedionic acid; Dihydrofumaric acid; Ethylenesuccinic acid; Spirit of amber; Succinic acid
+
+$$$$

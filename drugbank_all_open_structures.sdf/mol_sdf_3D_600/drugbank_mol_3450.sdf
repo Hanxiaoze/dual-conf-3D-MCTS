@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  1  0  0  0  0  0999 V2000
+   -1.3985   -2.2876    0.1469 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6658   -1.1586    1.0434 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0660   -1.3399    2.4444 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4759   -1.3001    2.5117 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0964   -1.8855    1.3066 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9418   -2.0480    3.7818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7066   -1.2982    4.6161 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6700   -3.2068    4.0459 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  4  6  1  0
+  4  5  1  6
+  4  3  1  0
+  6  7  1  0
+  6  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03817
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01102
+
+>  <COMMON_NAME>  (1) 
+L-2,4-diaminobutyric acid
+
+>  <CAS_NUMBER>  (1) 
+1758-80-1
+
+>  <UNII>  (1) 
+61HPH2F0W7
+
+>  <SYNONYMS>  (1) 
+(S)-2,4-Diaminobutanoic acid; alpha,gamma-Diaminobutyrate; Dbu; L-2,4-Diaminobutanoate; L-2,4-diaminobutanoic acid; L-2,4-Diaminobutyrate; L-Dbu; L-diaminobutyric acid
+
+$$$$

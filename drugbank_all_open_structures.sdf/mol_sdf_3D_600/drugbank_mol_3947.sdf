@@ -1,0 +1,45 @@
+
+     RDKit          3D
+
+ 11 10  0  0  1  0  0  0  0  0999 V2000
+    0.9213    0.2659    0.2308 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3738    1.2544   -0.7221 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9096    1.0447   -2.1518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3711   -0.4544   -3.0859 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0164   -1.8699   -2.1186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5262   -1.8551   -2.0706 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0721   -1.7619   -0.8352 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2366   -1.8939   -3.0703 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1672    1.2132   -0.6892 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7583    2.3182   -0.1849 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8299    0.2413   -1.0307 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  9  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  9 10  1  0
+  9 11  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04339
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00835; DB02476
+
+>  <COMMON_NAME>  (1) 
+Carbocisteine
+
+>  <CAS_NUMBER>  (1) 
+638-23-3
+
+>  <UNII>  (1) 
+740J2QX53R
+
+>  <SYNONYMS>  (1) 
+(L)-2-Amino-3-(carboxymethylthio)propionic acid; (R)-S-(carboxymethyl)cysteine; carbocisteína; Carbocisteine; L-3-((carboxymethyl)thio)alanine; L-carbocysteine; S-(carboxymethyl)-(R)-cysteine; S-carboxymethyl-L-cysteine; S-carboxymethylcysteine
+
+$$$$

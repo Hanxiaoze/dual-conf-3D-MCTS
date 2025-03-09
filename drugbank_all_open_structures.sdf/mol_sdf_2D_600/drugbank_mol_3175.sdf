@@ -1,0 +1,46 @@
+
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    1.0717    0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.4126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.4126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.4126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7825   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  2  0
+  4  1  1  0
+  5  4  2  0
+  6  3  1  0
+  7  5  1  0
+  7  6  2  0
+  8  3  1  0
+  8 10  1  0
+  9  7  1  0
+  9 11  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03514
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01375
+
+>  <COMMON_NAME>  (1) 
+4-Vinylguaiacol
+
+>  <CAS_NUMBER>  (1) 
+7786-61-0
+
+>  <UNII>  (1) 
+DA069CTH0O
+
+>  <SYNONYMS>  (1) 
+2-(4-hydroxy-3-methoxyphenyl)ethene; 2-methoxy-4-vinylphenol; 2M4VP; 4-ethenyl-2-methoxyphenol; 4-hydroxy-3-methoxyphenylethene; 4-hydroxy-3-methoxystyrene; 4-hydroxy-3-methoxyvinylbenzene; 4-vinyl-2-methoxyphenol; 4-vinylguaiacol; o-methoxy-p-vinylphenol; p-vinylguaiacol; para-vinylguaiacol
+
+$$$$

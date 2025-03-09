@@ -1,0 +1,64 @@
+
+ OpenBabel10282417072D
+
+ 20 20  0  0  0  0  0  0  0  0999 V2000
+   -0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.4445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5365   -1.3411    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -2.2694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6799    0.5160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3570    1.4445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.9370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3120   -0.7688    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716   -1.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  3  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  2  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  8 12  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9  7  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 11  6  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 12 20  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB04066
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01706
+
+>  <COMMON_NAME>
+p-Coumaric acid
+
+>  <CAS_NUMBER>
+501-98-4
+
+>  <UNII>
+IBS9D1EU3J
+
+>  <SYNONYMS>
+(2E)-3-(4-hydroxyphenyl)acrylic acid; (E)-3-(4-hydroxyphenyl)-2-propenoic acid; (E)-p-coumaric acid; (E)-p-hydroxycinnamic acid; 4-coumaric acid; 4-Hydroxycinnamic acid; 4'-hydroxycinnamic acid; naringeninic acid; p-Coumaric acid; para-Coumaric Acid; trans-4-coumaric acid; trans-4-hydroxycinnamic acid; trans-p-coumaric acid; trans-p-coumarinic acid; trans-p-Hydroxycinnamate; trans-p-hydroxycinnamic acid
+
+$$$$

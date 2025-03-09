@@ -1,0 +1,24 @@
+313
+ OpenBabel10282417203D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9242    0.0441    0.0180 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2300    0.0441    0.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB13366
+
+>  <COMMON_NAME>
+Hydrochloric acid
+
+>  <CAS_NUMBER>
+7647-01-0
+
+>  <UNII>
+QTT17582CB
+
+>  <SYNONYMS>
+Chlorowodor; Chlorure d'hydrogène; Chlorwasserstoff; Cloruro de hidrógeno; Hydrochloric acid; Hydrogenchlorid; Wasserstoffchlorid
+
+$$$$

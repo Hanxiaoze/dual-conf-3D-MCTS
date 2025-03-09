@@ -1,0 +1,43 @@
+
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    0.9926   -0.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1668   -0.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3335   -0.8294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2985    0.2364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3037   -0.6709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1644    0.7477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4703    0.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4752    0.5893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9854    0.8294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1246   -0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2985    0.5101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  2  0
+  4  7  1  0
+  5  2  2  0
+  6  2  1  0
+  7  9  1  0
+  8  1  1  0
+  9  6  2  0
+ 10  5  1  0
+ 10  7  2  0
+ 11  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14212
+
+>  <COMMON_NAME>  (1) 
+Methylparaben
+
+>  <CAS_NUMBER>  (1) 
+99-76-3
+
+>  <UNII>  (1) 
+A2I8C7HI9T
+
+>  <SYNONYMS>  (1) 
+Methyl 4-hydroxybenzoate; methyl p-hydroxybenzoate; Methyl paraben; Methylparaben; p-Hydroxybenzoic acid methyl ester; p-Methoxycarbonylphenol; p-Oxybenzoesauremethylester
+
+$$$$

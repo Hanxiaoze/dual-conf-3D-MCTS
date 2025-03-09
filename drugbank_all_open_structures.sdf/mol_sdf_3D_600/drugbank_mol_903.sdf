@@ -1,0 +1,39 @@
+1028
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.0281    0.0678   -0.1029 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4099    0.9959    1.3025 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9034   -2.1925   -1.0171 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -1.5009    0.0302 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8832   -2.1417    1.2396 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3186   -1.4744    0.0610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8161   -0.0270   -0.0431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3656   -3.4734    1.3014 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  7  1  0
+  3  6  1  0
+  4  6  1  0
+  5  6  1  0
+  5  8  1  0
+  6  7  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01028
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00744
+
+>  <COMMON_NAME>  (1) 
+Methoxyflurane
+
+>  <CAS_NUMBER>  (1) 
+76-38-0
+
+>  <UNII>  (1) 
+30905R8O7B
+
+>  <SYNONYMS>  (1) 
+Methoflurane; Methoxyfluoran; Methoxyfluran; Methoxyflurane; Methoxyfluranum; Methyl 1,1-difluoro-2,2-dichloroethyl ether; Metoxiflurano
+
+$$$$

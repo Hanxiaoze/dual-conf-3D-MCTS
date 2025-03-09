@@ -1,0 +1,73 @@
+
+ OpenBabel10282417103D
+
+ 25 24  0  0  0  0  0  0  0  0999 V2000
+    0.8041   -0.0899   -0.0705 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0232    0.0595   -1.6669 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1769   -1.5697    0.4146 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5239    0.3811    0.4576 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9578    0.7971    0.4727 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0446    1.4016   -2.1997 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4822   -1.9302    0.8460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1927    2.1985   -1.7915 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3058    2.1748   -1.7984 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2935   -2.1497   -0.4109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1535   -1.0139    1.8823 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0469    1.3161   -3.2942 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3703   -2.8974    1.3536 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2220    2.3532   -0.7095 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1953    3.1977   -2.2342 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1069    1.6703   -2.0780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2127    1.6324   -2.0800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3226    3.1700   -2.2532 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3575    2.3576   -0.7236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3438   -1.2318   -1.0033 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3034   -2.5000   -0.1945 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7826   -2.8941   -1.0342 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5506   -0.9464    2.7954 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1473   -1.3876    2.1461 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3302    0.0115    1.5604 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00677
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00763
+
+>  <COMMON_NAME>
+Isoflurophate
+
+>  <CAS_NUMBER>
+55-91-4
+
+>  <UNII>
+12UHW9R67N
+
+>  <SYNONYMS>
+DFP; Diisopropoxyphosphoryl fluoride; Diisopropyl fluorophosphate; Diisopropyl fluorophosphonate; Diisopropyl phosphofluoridate; Diisopropyl phosphorofluoridate; Diisopropylfluorophosphate; Diisopropylfluorophosphoric acid ester; Diisopropylphosphofluoridate; Diisopropylphosphorofluoridate; Fluorodiisopropyl phosphate; Fluorostigmine; Isofluorphate; Isoflurophate; Isoflurophosphate; Isopropyl fluophosphate; Isopropyl phosphorofluoridate; O,O'-diisopropyl phosphoryl fluoride
+
+$$$$

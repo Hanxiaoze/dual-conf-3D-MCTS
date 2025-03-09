@@ -1,0 +1,36 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.0356    0.0907    0.0689 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0051   -0.8970   -0.3500 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6373    2.4868    0.4655 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2486    1.2116    0.5135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4396    1.4595    2.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3747    0.1012   -0.0138 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1655    1.3901    0.3307 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6508    1.2365    0.4425 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  6  1  0
+  2  6  2  0
+  3  7  2  0
+  4  5  1  0
+  6  7  1  0
+  7  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB05869
+
+>  <COMMON_NAME>  (1) 
+Ethyl pyruvate
+
+>  <CAS_NUMBER>  (1) 
+617-35-6
+
+>  <UNII>  (1) 
+03O98E01OB
+
+>  <SYNONYMS>  (1) 
+2-oxopropanoic acid ethyl ester; 2-oxopropionic acid ethyl ester; Ethyl 2-oxopropanoate; Ethyl 2-oxopropionate; Ethyl methylglyoxylate; Pyruvic acid ethyl ester; Pyruvic acid, ethyl ester
+
+$$$$

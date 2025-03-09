@@ -1,0 +1,55 @@
+2733
+ OpenBabel10282417103D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    1.0724    0.0978   -0.0209 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.9162   -0.1132    0.0133 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0696   -2.1258    0.0227 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7669   -2.0953    0.0034 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8376   -1.0955   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5449    0.0891    0.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -1.1498   -0.0134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9013    1.3086   -0.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7945    0.0760   -0.0162 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0123   -1.5120    0.0139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5005    1.2962   -0.0129 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6163   -3.0908    0.0026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9265   -2.0895   -0.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4536    2.2417    0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9554    2.2381   -0.0176 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00356
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00308
+
+>  <COMMON_NAME>
+Chlorzoxazone
+
+>  <CAS_NUMBER>
+95-25-0
+
+>  <UNII>
+H0DE420U8G
+
+>  <SYNONYMS>
+2-hydroxy-5-chlorobenzoxazole; 5-chloro-2-benzoxazolinone; 5-chloro-2-benzoxazolol; 5-chloro-2-benzoxazolone; 5-chloro-2-hydroxybenzoxazole; 5-chloro-2(3H)-benzoxazolone; 5-chloro-3H-benzooxazol-2-one; 5-chlorobenzoxazolidone; 5-chlorobenzoxazolin-2-one; Chlorzoxane; Chlorzoxazon; Chlorzoxazona; Chlorzoxazone; Chlorzoxazonum; Clorzoxazona; Clorzoxazone
+
+$$$$

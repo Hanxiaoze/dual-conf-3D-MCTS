@@ -1,0 +1,49 @@
+
+ OpenBabel10282417123D
+
+ 13 12  0  0  1  0  0  0  0  0999 V2000
+    1.0768   -0.0276    0.1003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5237   -1.3006   -0.5295 C   0  0  3  0  0  0  0  0  0  0  0  0
+    0.9848   -2.4227    0.2196 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0093   -1.3059   -0.5527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5316   -0.2357   -1.3315 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7290    0.0738    1.1343 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7803    0.8645   -0.4586 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1706   -0.0587    0.1357 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9026   -1.3889   -1.5542 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9583   -2.4181    0.1837 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3734   -2.2458   -0.9820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4202   -1.2470    0.4618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3178    0.5954   -0.8721 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB01839
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT02572; DB11078
+
+>  <COMMON_NAME>
+Propylene glycol
+
+>  <CAS_NUMBER>
+57-55-6
+
+>  <UNII>
+6DC9Q167V3
+
+>  <SYNONYMS>
+1,2-dihydroxypropane; 1,2-Propanediol; 1,2-Propylenglykol; 2-hydroxypropanol; isopropylene glycol; methyl glycol; methylethyl glycol; methylethylene glycol; monopropylene glycol; Propane-1,2-diol; Propylene glycol; α-propyleneglycol
+
+$$$$

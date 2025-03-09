@@ -1,0 +1,52 @@
+
+     RDKit          2D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0001    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4291    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1435    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.2376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5445   -0.2626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0001   -1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435   -0.8252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2  1  1  0
+  3  2  1  0
+  4  3  1  0
+  5  4  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+ 11 10  1  0
+ 12 11  1  0
+ 13 12  1  0
+ 14  5  1  0
+ 14 13  1  0
+M  CHG  2   6   1   8  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02613
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01149
+
+>  <COMMON_NAME>  (1) 
+Capric dimethyl amine oxide
+
+>  <CAS_NUMBER>  (1) 
+2605-79-0
+
+>  <UNII>  (1) 
+G387VUT5EZ
+
+>  <SYNONYMS>  (1) 
+Capric dimethyl amine oxide; Decyl dimethyl amine oxide; Decylamine oxide; Decylamine-N,N-dimethyl-N-oxide; N,N-Dimethyl-1-decanamine-N-oxide; N,N-dimethyldecylamine N-oxide; N,N-Dimethyldecylamine oxide
+
+$$$$

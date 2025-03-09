@@ -1,0 +1,34 @@
+
+     RDKit          3D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+    1.0233    0.0967   -0.0105 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0733    0.0967   -0.0105 Cr  0  0  0  0  0  6  0  0  0  0  0  0
+    3.6849   -1.4197    0.8219 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6849    0.1341   -1.7399 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7566    1.7492    0.9919 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9590    0.0794   -0.0449 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    1.0591   -0.0622   -0.0513 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  2  0
+  2  5  1  0
+M  CHG  4   1  -1   5  -1   6   1   7   1
+M  ISO  1   2  51
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09380
+
+>  <COMMON_NAME>  (1) 
+Sodium chromate Cr-51
+
+>  <CAS_NUMBER>  (1) 
+10039-53-9
+
+>  <UNII>  (1) 
+XI776WYU0N
+
+>  <SYNONYMS>  (1) 
+Chromate (51 Cr) de sodium; Cromato sodico (51 Cr); Natrii chromas (51 Cr); Sodium chromate (51 Cr); Sodium chromate (51Cr); Sodium chromate Cr 51
+
+$$$$

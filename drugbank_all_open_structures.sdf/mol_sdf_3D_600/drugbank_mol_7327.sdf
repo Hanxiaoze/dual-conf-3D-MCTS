@@ -1,0 +1,34 @@
+
+     RDKit          3D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    0.9188   -0.0116    0.0024 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8503    0.3750   -2.9412 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4941    0.8814   -1.2773 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4799   -1.3647   -0.2269 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5294    0.7483    1.1716 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6974    0.0648   -0.1533 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2342   -0.5615   -1.4273 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  2  0
+  1  5  2  0
+  1  6  1  0
+  2  7  1  0
+  6  7  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09110
+
+>  <COMMON_NAME>  (1) 
+Coenzyme M
+
+>  <CAS_NUMBER>  (1) 
+3375-50-6
+
+>  <UNII>  (1) 
+VHD28S0H7F
+
+>  <SYNONYMS>  (1) 
+2-Mercaptoethane; 2-Mercaptoethanesulfonate; 2-mercaptoethanesulfonic acid; 2-mercaptoethanesulphonic acid; 2-mercaptoethylsulfonate; 2-sulfanylethylsulfonate; Coenzima M; Coenzym M; CoM; HS-CoM; reduced coenzyme M; reduced CoM; β-mercaptoethanesulfonic acid
+
+$$$$

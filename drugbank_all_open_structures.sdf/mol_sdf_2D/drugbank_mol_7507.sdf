@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 F   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <DRUGBANK_ID>
+DB09325
+
+>  <COMMON_NAME>
+Sodium fluoride
+
+>  <CAS_NUMBER>
+7681-49-4
+
+>  <UNII>
+8ZYQ1474W7
+
+>  <SYNONYMS>
+Sodium fluoride
+
+$$$$

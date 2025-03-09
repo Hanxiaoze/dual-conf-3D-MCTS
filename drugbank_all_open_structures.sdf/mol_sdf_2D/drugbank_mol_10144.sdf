@@ -1,0 +1,28 @@
+
+ OpenBabel10282417072D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    1.0312   -0.0062    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0312   -0.0062    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+   -0.1062    0.0062    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  3   1  -1   2  -1   3   2
+M  END
+>  <DRUGBANK_ID>
+DB14533
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DBSALT001307
+
+>  <COMMON_NAME>
+Zinc chloride
+
+>  <CAS_NUMBER>
+7646-85-7
+
+>  <UNII>
+86Q357L16B
+
+>  <SYNONYMS>
+Zinc chloride
+
+$$$$

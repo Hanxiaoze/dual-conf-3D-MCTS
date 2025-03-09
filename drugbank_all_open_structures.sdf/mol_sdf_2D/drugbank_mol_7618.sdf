@@ -1,0 +1,30 @@
+
+ OpenBabel10282417072D
+
+  5  3  0  0  0  0  0  0  0  0999 V2000
+   -1.0395   -0.2062    0.0000 Ag  0  3  0  0  0  0  0  0  0  0  0  0
+    0.3250    0.6187    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0395   -0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3250   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3894   -0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  1  0  0  0  0
+  4  3  2  0  0  0  0
+  4  5  2  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>
+DB11080
+
+>  <COMMON_NAME>
+Silver nitrate
+
+>  <CAS_NUMBER>
+7761-88-8
+
+>  <UNII>
+95IT3W8JZE
+
+>  <SYNONYMS>
+Nitrate d'argent; Nitrato de plata; Silver mononitrate; Silver nitrate; silver(1+) nitrate
+
+$$$$

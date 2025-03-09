@@ -1,0 +1,40 @@
+
+     RDKit          2D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+   -0.0013    0.1803    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7055   -0.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138   -0.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0013    1.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7055   -1.0658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138   -1.0658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138    1.4818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0013   -1.4818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  2  0
+  5  8  1  0
+  6  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04113
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01477
+
+>  <COMMON_NAME>  (1) 
+N-Formylpiperidine
+
+>  <CAS_NUMBER>  (1) 
+2591-86-8
+
+>  <UNII>  (1) 
+ZIQ29H6CZG
+
+>  <SYNONYMS>  (1) 
+1-Formylpiperidine; 1-Piperidinecarboxaldehyde; Formylpiperidine; Piperidinoformamide
+
+$$$$

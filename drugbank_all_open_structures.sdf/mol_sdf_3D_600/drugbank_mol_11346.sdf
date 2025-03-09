@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  7  7  0  0  0  0  0  0  0  0999 V2000
+   -0.1473    1.1468   -0.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1332    0.6349    0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0548    0.1225   -0.0085 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5909    2.5139   -0.0193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0116   -0.7710    0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3381   -1.0368   -0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1702    3.4827   -0.0262 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  2  0
+  5  6  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16856
+
+>  <COMMON_NAME>  (1) 
+Furfural
+
+>  <CAS_NUMBER>  (1) 
+98-01-1
+
+>  <UNII>  (1) 
+DJ1HGI319P
+
+>  <SYNONYMS>  (1) 
+2-Formylofuran; 2-Furankarbaldehyd; 2-Furil-metanale; Furaldehyde; Furancarboxaldehyde; Furfurale; Pyromucic aldehyde
+
+$$$$

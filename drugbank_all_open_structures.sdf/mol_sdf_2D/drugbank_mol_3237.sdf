@@ -1,0 +1,41 @@
+
+ OpenBabel10282417072D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5975   -1.6411    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5975    0.2121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1325   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3410    0.8937    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB03587
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT02707
+
+>  <COMMON_NAME>
+Pyruvaldehyde
+
+>  <CAS_NUMBER>
+78-98-8
+
+>  <UNII>
+722KLD7415
+
+>  <SYNONYMS>
+2-ketopropionaldehyde; 2-oxopropanal; Acetyl formaldehyde; Acetylformyl; alpha-ketopropionaldehyde; Methyl glyoxal; Methylglyoxal; Pyruvic aldehyde
+
+$$$$

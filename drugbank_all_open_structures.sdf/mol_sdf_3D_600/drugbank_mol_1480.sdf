@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.1055   -0.1041    0.0738 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5039    1.6174   -2.6458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6244    1.3589   -0.0150 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0085    2.1386   -1.2930 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7823    1.4509    0.2457 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5938    3.5081   -1.1597 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2949   -1.3277   -1.0202 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3120    1.5934   -2.8882 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  3  5  1  6
+  4  2  1  0
+  4  3  1  0
+  4  6  1  1
+  7  1  1  0
+  8  2  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01692
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01292
+
+>  <COMMON_NAME>  (1) 
+Dithioerythritol
+
+>  <CAS_NUMBER>  (1) 
+6892-68-8
+
+>  <UNII>  (1) 
+R4SVL81GQI
+
+>  <SYNONYMS>  (1) 
+(2R,3S)-1,4-dimercaptobutane-2,3-diol; (2R*,3S*)-1,4-dimercapto-2,3-butanediol; 1,4-dithioerythritol; DTE; erythro-1,4-Dimercapto-2,3-butanediol
+
+$$$$

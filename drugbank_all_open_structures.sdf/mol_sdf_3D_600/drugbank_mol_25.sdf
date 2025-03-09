@@ -1,0 +1,41 @@
+
+     RDKit          3D
+
+  9  8  0  0  1  0  0  0  0  0999 V2000
+    0.9087   -0.0497    0.1005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4474    1.3944   -0.1469 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8636    1.9888   -1.5024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3197    1.2526   -2.7339 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2251    1.1956   -2.7822 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9327    1.6196   -3.6762 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3635   -1.0757   -0.7793 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8644    1.8462   -3.9752 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7808    0.5687   -1.7204 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  3  1  0
+  4  8  1  6
+  5  4  1  0
+  6  5  2  0
+  7  1  1  0
+  9  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00129
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00043
+
+>  <COMMON_NAME>  (1) 
+Ornithine
+
+>  <CAS_NUMBER>  (1) 
+70-26-8
+
+>  <UNII>  (1) 
+E524N2IXA3
+
+>  <SYNONYMS>  (1) 
+(S)-2,5-Diaminopentanoate; (S)-2,5-Diaminopentanoic acid; (S)-2,5-diaminovaleric acid; (S)-ornithine; (S)-α,δ-diaminovaleric acid; L-Ornithine; levo-ornithine; Ornithine; Ornithinum; Ornitina
+
+$$$$

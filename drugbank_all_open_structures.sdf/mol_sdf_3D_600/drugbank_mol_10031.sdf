@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+   -1.4140   -0.0807   -0.0796 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7703    1.1552    0.0061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6284    1.2365   -0.0303 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4123    0.0855   -0.0797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7688   -1.1504    0.0084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6301   -1.2319   -0.0290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8066   -0.1645    0.0376 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8049    0.1714    0.0352 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  6  1  0
+  1  7  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  4  8  1  0
+  5  6  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14141
+
+>  <COMMON_NAME>  (1) 
+p-Phenylenediamine
+
+>  <CAS_NUMBER>  (1) 
+106-50-3
+
+>  <UNII>  (1) 
+U770QIT64J
+
+>  <SYNONYMS>  (1) 
+1,4-Benzenediamine; 1,4-diaminobenzene; 1,4-phenylenediamine; 4-Aminoaniline; 4-phenylenediamine; p-Diaminobenzene; para-phenylenediamine; paraphenylene-diamine; PPD; pPDA
+
+$$$$

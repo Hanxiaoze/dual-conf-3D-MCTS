@@ -1,0 +1,38 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -0.3578    0.1937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0769    0.6181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3540    0.6107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7906    0.1937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0733    0.2010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7906   -0.6181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5098    0.6107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7906    0.6107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5098    0.2066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  1  0
+  4  7  2  0
+  5  8  1  0
+  8  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB15927
+
+>  <COMMON_NAME>  (1) 
+Amyl acetate
+
+>  <CAS_NUMBER>  (1) 
+628-63-7
+
+>  <UNII>  (1) 
+92Q24NH7AS
+
+>  <SYNONYMS>  (1) 
+Acetate d'amyle; Acetic acid, amyl ester; Acetic acid, pentyl ester; Amylazetat; Amylester kyseliny octove; N-Amyl acetate; Octan amylu; Pentyl acetate
+
+$$$$

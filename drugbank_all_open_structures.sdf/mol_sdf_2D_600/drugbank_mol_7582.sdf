@@ -1,0 +1,29 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.6187    0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062    0.0000    0.0000 In  0  0  0  0  0  3  0  0  0  0  0  0
+    0.6187   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6187    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+M  ISO  1   2 111
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09490
+
+>  <COMMON_NAME>  (1) 
+Indium In-111 chloride
+
+>  <CAS_NUMBER>  (1) 
+50800-85-6
+
+>  <UNII>  (1) 
+58TD96H03I
+
+>  <SYNONYMS>  (1) 
+111indium trichloride; Indium (111In) chloride; Indium chloride (111InCl3); Indium chloride In-111; Indium In 111 chloride; Indium In 111m chloride; Indium In-111m chloride; Indium-111 chloride
+
+$$$$

@@ -1,0 +1,40 @@
+272
+     RDKit          2D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+    2.3174   -0.3790    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1672    0.1481    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1059    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695   -0.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9849    0.1059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3826    0.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7299    0.8905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049    0.8905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  5  1  0
+  2  6  1  0
+  3  8  2  0
+  4  5  1  0
+  4  6  1  0
+  5  7  2  0
+  7  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00272
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00714
+
+>  <COMMON_NAME>  (1) 
+Betazole
+
+>  <CAS_NUMBER>  (1) 
+105-20-4
+
+>  <UNII>  (1) 
+1C065P542O
+
+>  <SYNONYMS>  (1) 
+1H-pyrazole-3-ethanamine; 2-(1H-pyrazol-5-yl)ethanamine; 2-(3-pyrazolyl)ethylamine; 3-(2-aminoethyl)pyrazole; 3-(beta-aminoethyl)pyrazole; 3-(β-aminoethyl)pyrazole; Ametazole; Betazol; Betazole; Betazolum
+
+$$$$

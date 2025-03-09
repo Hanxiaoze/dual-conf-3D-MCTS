@@ -1,0 +1,37 @@
+
+     RDKit          2D
+
+  7  6  0  0  1  0  0  0  0  0999 V2000
+    0.6124    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8165    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3269   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6124    1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -1.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5310   -0.1768    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  6  1  6
+  3  2  1  0
+  4  1  1  0
+  5  1  2  0
+  7  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03201
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01139
+
+>  <COMMON_NAME>  (1) 
+D-Cysteine
+
+>  <CAS_NUMBER>  (1) 
+921-01-7
+
+>  <UNII>  (1) 
+IU8WN3PPI2
+
+>  <SYNONYMS>  (1) 
+(2S)-2-amino-3-mercaptopropanoic acid; (2S)-2-amino-3-sulfanylpropanoic acid; (S)-2-amino-3-mercaptopropanoic acid; D-Amino-3-mercaptopropionic acid; D-Cystein; D-Zystein
+
+$$$$

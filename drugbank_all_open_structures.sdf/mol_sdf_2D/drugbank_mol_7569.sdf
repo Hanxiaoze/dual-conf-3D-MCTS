@@ -1,0 +1,31 @@
+
+ OpenBabel10282417072D
+
+  6  3  0  0  0  0  0  0  0  0999 V2000
+   -0.9484    0.2471    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9484    1.0721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2884    1.4847    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.6909    1.4847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7834   -1.4847    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    1.6909   -1.4847    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+M  CHG  4   1  -1   3  -1   5   1   6   1
+M  END
+>  <DRUGBANK_ID>
+DB09460
+
+>  <COMMON_NAME>
+Sodium carbonate
+
+>  <CAS_NUMBER>
+497-19-8
+
+>  <UNII>
+45P3261C7T
+
+>  <SYNONYMS>
+Anhydrous sodium carbonate; Carbonic acid sodium salt (1:2); Carbonic acid, disodium salt; Disodium carbonate; Natriumkarbonat; Natrum carbonicum; Soda ash; Soda-ash; Sodium carbonate (anhydrous); Sodium carbonate anhydrous; Sodium carbonate, anhydrous; Sodium salt of carbonic acid
+
+$$$$

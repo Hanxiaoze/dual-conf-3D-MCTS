@@ -1,0 +1,31 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.2340   -0.0081    0.4880 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5397    0.0307   -0.2429 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8637   -0.0331    0.4478 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4670   -1.1298   -1.3457 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4445    1.3230   -1.1831 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  2  1  2  0
+  2  5  1  0
+  2  3  1  0
+M  CHG  1   3  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02831
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00124
+
+>  <COMMON_NAME>  (1) 
+Dihydrogenphosphate
+
+>  <CAS_NUMBER>  (1) 
+29505-79-1
+
+>  <SYNONYMS>  (1) 
+Dihydrogenphosphate ion
+
+$$$$

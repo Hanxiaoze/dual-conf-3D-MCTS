@@ -1,0 +1,35 @@
+
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+   -0.3576   -0.0020    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3575   -0.4203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0686    0.4204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7758   -0.7130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0648    0.7130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0686   -0.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  2  0
+  4  1  2  0
+  5  1  1  0
+  6  2  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04359
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03236
+
+>  <COMMON_NAME>  (1) 
+Vinylsulfonic acid
+
+>  <CAS_NUMBER>  (1) 
+1184-84-5
+
+>  <UNII>  (1) 
+GJ6489R1WE
+
+>  <SYNONYMS>  (1) 
+Ethylenesulfonic acid; Vinylsulphonic acid
+
+$$$$

@@ -1,0 +1,41 @@
+
+ OpenBabel10282417113D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.9488    0.0539   -0.0787 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0687   -3.1093    1.5492 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5990   -1.1512    0.5415 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7842   -1.8352    0.8935 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4591   -2.0746    1.0167 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9157    0.0562   -0.0799 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3945   -1.3353    0.6362 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2209   -1.0330    0.4806 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3978   -2.5506    1.2616 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB01005
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00023
+
+>  <COMMON_NAME>
+Hydroxyurea
+
+>  <CAS_NUMBER>
+127-07-1
+
+>  <UNII>
+X6Q56QN5QC
+
+>  <SYNONYMS>
+Carbamohydroxamic acid; Carbamohydroximic acid; Carbamoyl oxime; Carbamyl hydroxamate; Hidroxicarbamida; Hydrea; Hydroxycarbamid; Hydroxycarbamide; Hydroxycarbamidum; Hydroxyharnstoff; Hydroxyurea; N-Carbamoylhydroxylamine; N-Hydroxyurea; Oxyurea
+
+$$$$

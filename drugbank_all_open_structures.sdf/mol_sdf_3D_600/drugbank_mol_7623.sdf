@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9624    0.0987    0.1425 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5836   -0.3437   -1.1891 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11091
+
+>  <COMMON_NAME>  (1) 
+Hydrogen peroxide
+
+>  <CAS_NUMBER>  (1) 
+7722-84-1
+
+>  <UNII>  (1) 
+BBX060AN9V
+
+>  <SYNONYMS>  (1) 
+Hydrogen peroxide
+
+$$$$

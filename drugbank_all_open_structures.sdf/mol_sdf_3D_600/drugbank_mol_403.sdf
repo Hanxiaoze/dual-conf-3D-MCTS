@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0600    0.0736   -0.0313 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2334    0.9854    2.0190 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4400    0.0736   -0.0313 Pt  0  0  0  0  0  4  0  0  0  0  0  0
+    4.1300   -1.8672   -0.2361 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1300    1.2214   -1.6097 N   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  3  2  1  0
+  3  4  1  0
+  3  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00515
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00359
+
+>  <COMMON_NAME>  (1) 
+Cisplatin
+
+>  <CAS_NUMBER>  (1) 
+15663-27-1
+
+>  <UNII>  (1) 
+Q20Q21Q62J
+
+>  <SYNONYMS>  (1) 
+(SP-4-2)-DIAMMINEDICHLOROPLATINUM; CDDP; Cis-DDP; CIS-DIAMMINEDICHLOROPLATINUM; CIS-DIAMMINEDICHLOROPLATINUM II; cis-diamminedichloroplatinum(II); Cisplatin; cisplatino; INT-230-6 COMPONENT CISPLATIN; INT230-6 COMPONENT CISPLATIN; PLATINUM, DIAMMINEDICHLORO-, (SP-4-2)-
+
+$$$$

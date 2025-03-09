@@ -1,0 +1,24 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+    0.8839    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06715
+
+>  <COMMON_NAME>  (1) 
+Potassium Iodide
+
+>  <CAS_NUMBER>  (1) 
+7681-11-0
+
+>  <UNII>  (1) 
+1C4QK22F9J
+
+>  <SYNONYMS>  (1) 
+Kaliumiodid; KI; Potasio ioduro; Potassium Iodide
+
+$$$$

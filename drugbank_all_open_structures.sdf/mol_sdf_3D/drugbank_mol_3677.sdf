@@ -1,0 +1,30 @@
+
+ OpenBabel10282417133D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.1703    0.0266    0.0604 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.7333    0.1240   -0.1526 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1002   -0.5155    1.2452 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+M  CHG  1   1  -1
+M  END
+>  <DRUGBANK_ID>
+DB04053
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT02627
+
+>  <COMMON_NAME>
+Hypophosphite
+
+>  <CAS_NUMBER>
+15460-68-1
+
+>  <UNII>
+238U65NZ04
+
+>  <SYNONYMS>
+Hypophosphite ion
+
+$$$$

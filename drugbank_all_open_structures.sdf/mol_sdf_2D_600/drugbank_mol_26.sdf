@@ -1,0 +1,43 @@
+
+     RDKit          2D
+
+ 10  9  0  0  1  0  0  0  0  0999 V2000
+   -2.1434   -0.1768    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.0606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  8  2  0
+  4  3  1  0
+  5  3  1  0
+  5  9  1  1
+  6  5  1  0
+  7  2  1  0
+  7  6  1  0
+ 10  2  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00130
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00026
+
+>  <COMMON_NAME>  (1) 
+L-Glutamine
+
+>  <CAS_NUMBER>  (1) 
+56-85-9
+
+>  <UNII>  (1) 
+0RH81L854J
+
+>  <SYNONYMS>  (1) 
+(2S)-2-amino-4-carbamoylbutanoic acid; (2S)-2,5-diamino-5-oxopentanoic acid; (S)-2,5-diamino-5-oxopentanoic acid; Glutamic acid 5-amide; Glutamic acid amide; Glutamina; Glutamine; L-(+)-glutamine; L-2-aminoglutaramic acid; L-glutamic acid γ-amide; L-Glutamin; L-Glutamine; L-Glutaminsäure-5-amid; Levoglutamide; Q
+
+$$$$

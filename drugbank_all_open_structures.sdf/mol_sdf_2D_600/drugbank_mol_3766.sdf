@@ -1,0 +1,56 @@
+
+     RDKit          2D
+
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+   -1.0740    0.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0740   -0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7886    0.6454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7886   -1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5030    0.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5030   -0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3549    0.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3549   -0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3596    0.6454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3596   -1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0741    0.6355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7831    0.2135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0694   -1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5030    0.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7721   -0.6113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971    1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 10  1  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  4  1  0
+  6  5  1  0
+  7 11  1  0
+  8 13  1  0
+  9  7  1  0
+ 10  8  1  0
+ 11 12  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 12 16  1  0
+M  CHG  2  12   1  15  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04147
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02013
+
+>  <COMMON_NAME>  (1) 
+Dodecyldimethylamine N-oxide
+
+>  <CAS_NUMBER>  (1) 
+1643-20-5
+
+>  <UNII>  (1) 
+4F6FC4MI8W
+
+>  <SYNONYMS>  (1) 
+Dimethylaurylamine oxide; Dimethyldodecylamine N-oxide; Dimethyldodecylamine oxide; Dodecyl(dimethyl)amine oxide; Dodecyldimethylamine oxide; Lauramine oxide; Lauryl dimethylamine-N-oxide; lauryldimethylamine N-oxide; Lauryldimethylamine oxide; n-Dodecyldimethylamine oxide; N,N-Dimethyldodecylamine oxide
+
+$$$$

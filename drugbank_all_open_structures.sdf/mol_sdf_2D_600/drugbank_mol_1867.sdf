@@ -1,0 +1,39 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.2061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4291   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4291   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  3  1  0
+  5  2  2  0
+  6  4  2  0
+  7  2  1  0
+  8  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02109
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01711
+
+>  <COMMON_NAME>  (1) 
+Hadacidin
+
+>  <CAS_NUMBER>  (1) 
+689-13-4
+
+>  <UNII>  (1) 
+BFO5P1010A
+
+>  <SYNONYMS>  (1) 
+Hadacidine; N-formyl hydroxyaminoacetic acid; N-formyl-N- hydroxyaminoacetic acid; N-hydroxyformamidoacetic acid
+
+$$$$

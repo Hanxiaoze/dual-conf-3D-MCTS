@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+ 10 10  0  0  1  0  0  0  0  0999 V2000
+   25.3283  -11.8269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6138  -15.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6138  -13.0644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8993  -13.4769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8993  -14.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3283  -13.4769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6138  -12.2394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8993  -11.8269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6138  -14.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3283  -14.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  9  1  0
+  3  4  1  0
+  3  6  1  0
+  3  7  1  1
+  4  5  1  0
+  5  9  1  0
+  6 10  1  0
+  7  8  2  0
+  9 10  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB08921
+
+>  <COMMON_NAME>  (1) 
+(4R)-limonene
+
+>  <CAS_NUMBER>  (1) 
+5989-27-5
+
+>  <UNII>  (1) 
+GFD7C86Q1W
+
+>  <SYNONYMS>  (1) 
+(+)-(4R)-Limonene; (+)-(R)-Limonene; (+)-4-isopropenyl-1-methylcyclohexene; (+)-Limonene; (4R)-1-methyl-4-isopropenylcyclohex-1-ene; (4R)-4-isopropenyl-1-methylcyclohexene; (R)-(+)-limonene; (R)-(+)-p-mentha-1,8-diene; (R)-1-methyl-4-(1-methylethenyl)cyclohexene; (R)-4-isopropenyl-1-methyl-1-cyclohexene; (R)-p-mentha-1,8-diene; 4βH-p-mentha-1,8-diene; D-(+)-limonene; D-Limonen; D-limonene
+
+$$$$

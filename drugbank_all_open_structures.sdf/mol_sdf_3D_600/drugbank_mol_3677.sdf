@@ -1,0 +1,30 @@
+
+     RDKit          3D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.1703    0.0266    0.0604 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7333    0.1240   -0.1526 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1002   -0.5155    1.2452 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+M  CHG  1   1  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04053
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02627
+
+>  <COMMON_NAME>  (1) 
+Hypophosphite
+
+>  <CAS_NUMBER>  (1) 
+15460-68-1
+
+>  <UNII>  (1) 
+238U65NZ04
+
+>  <SYNONYMS>  (1) 
+Hypophosphite ion
+
+$$$$

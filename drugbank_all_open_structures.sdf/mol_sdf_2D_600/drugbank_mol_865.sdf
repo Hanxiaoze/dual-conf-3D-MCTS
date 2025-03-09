@@ -1,0 +1,46 @@
+988
+     RDKit          2D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    3.5220    1.9842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 11  1  0
+  3  6  1  0
+  4  5  1  0
+  4  6  1  0
+  5  7  2  0
+  5  8  1  0
+  7  9  1  0
+  8 10  2  0
+  9 11  2  0
+ 10 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00988
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00085
+
+>  <COMMON_NAME>  (1) 
+Dopamine
+
+>  <CAS_NUMBER>  (1) 
+51-61-6
+
+>  <UNII>  (1) 
+VTD58H1Z2X
+
+>  <SYNONYMS>  (1) 
+2-(3,4-dihydroxyphenyl)ethylamine; 3-Hydroxytyramine; 3,4-Dihydroxyphenethylamine; 4-(2-aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 4-(2-aminoethyl)catechol; 4-(2-aminoethyl)pyrocatechol; Dopamina; Dopamine; Dopaminum; Oxytyramine
+
+$$$$

@@ -1,0 +1,27 @@
+
+     RDKit          3D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.9841    0.0518    0.0841 I   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1  -1
+M  ISO  1   1 123
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09420
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB11240
+
+>  <COMMON_NAME>  (1) 
+Iodide I-123
+
+>  <CAS_NUMBER>  (1) 
+69239-56-1
+
+>  <UNII>  (1) 
+98QPV8670C
+
+>  <SYNONYMS>  (1) 
+123I−; I 123; I-123; Iodide ion i-123; Iodine 123; Iodine-123
+
+$$$$

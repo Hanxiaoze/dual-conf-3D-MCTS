@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+   -0.6080   -1.8988    0.5023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1992   -1.2424   -0.6228 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0686   -0.1125   -0.0496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7291   -1.2436    0.8808 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2570   -2.9347    1.0552 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6621   -0.8052   -1.7375 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4306   -0.5262    0.0618 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  1  6
+  2  3  1  0
+  2  1  1  0
+  4  1  1  0
+  5  1  2  0
+  7  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00133
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00053; DB03375
+
+>  <COMMON_NAME>  (1) 
+Serine
+
+>  <CAS_NUMBER>  (1) 
+56-45-1
+
+>  <UNII>  (1) 
+452VLY9402
+
+>  <SYNONYMS>  (1) 
+(S)-2-Amino-3-hydroxypropanoic acid; (S)-Serine; alpha-Amino-beta-hydroxypropionic acid; beta-Hydroxyalanine; L-Serine; Ser; Serina; Serine; Serinum
+
+$$$$

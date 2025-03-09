@@ -1,0 +1,30 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0601    0.0347   -0.0720 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3467   -0.7332    1.7937 Bi  0  0  0  0  0  3  0  0  0  0  0  0
+    3.2001    0.0347   -0.0720 Bi  0  0  0  0  0  3  0  0  0  0  0  0
+   -0.2917   -1.4206    3.4636 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1154    0.0347   -0.0720 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  2  0
+  3  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB15929
+
+>  <COMMON_NAME>  (1) 
+Bismuth oxide
+
+>  <CAS_NUMBER>  (1) 
+1304-76-3
+
+>  <UNII>  (1) 
+A6I4E79QF1
+
+>  <SYNONYMS>  (1) 
+Bismuth trioxide; Bismuth yellow; Bismuthous oxide; Bismuthum oxydatum; Dibismuth trioxide
+
+$$$$

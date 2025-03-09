@@ -1,0 +1,31 @@
+
+ OpenBabel10282417213D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.7982    0.0589    0.0507 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3733    1.0955   -1.6659 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6523    1.0208   -1.5422 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8238    0.1336   -0.0730 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB14647
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DBSALT002336
+
+>  <COMMON_NAME>
+Sulfur chloride
+
+>  <CAS_NUMBER>
+10025-67-9
+
+>  <UNII>
+NJ7YR2EV0D
+
+>  <SYNONYMS>
+Disulfur dichloride; Sulfur monochloride; Sulfur subchloride; Thiosulfurous dichloride
+
+$$$$

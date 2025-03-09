@@ -1,0 +1,31 @@
+
+     RDKit          3D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.0644    0.0020    0.0506 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2927   -0.0168    0.0689 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0946    0.8959   -0.8208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2798   -1.0401    1.0664 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  4  1  0
+  2  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14623
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DBSALT002299
+
+>  <COMMON_NAME>  (1) 
+Acetyl chloride
+
+>  <CAS_NUMBER>  (1) 
+75-36-5
+
+>  <UNII>  (1) 
+QD15RNO45K
+
+>  <SYNONYMS>  (1) 
+Acetic acid chloride; Acetic chloride; Ethanoyl chloride
+
+$$$$

@@ -1,0 +1,25 @@
+
+     RDKit          2D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7696    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 Hf  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  3   1  -2   2  -2   3   4
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB17508
+
+>  <COMMON_NAME>  (1) 
+Hafnium oxide
+
+>  <CAS_NUMBER>  (1) 
+12055-23-1
+
+>  <UNII>  (1) 
+3C4Z4KG52T
+
+>  <SYNONYMS>  (1) 
+Hafnium oxide-containing nanoparticles nbtxr3
+
+$$$$

@@ -1,0 +1,43 @@
+
+ OpenBabel10282417103D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    1.0454    0.0674    0.0717 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0815   -2.5694   -2.3209 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6692   -0.9314   -0.8346 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5169   -1.7172   -1.5477 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9948   -1.5101   -1.3598 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0162    0.0801    0.0832 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -1.0692   -0.9597 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2714   -0.4925   -1.6483 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2714   -1.6987   -0.3189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5453   -2.2103   -1.9950 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00551
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00774; EXPT01688
+
+>  <COMMON_NAME>
+Acetohydroxamic acid
+
+>  <CAS_NUMBER>
+546-88-3
+
+>  <UNII>
+4RZ82L2GY5
+
+>  <SYNONYMS>
+Acethydroxamsaeure; Acetic acid, oxime; Acetohydroxamate; Acetohydroxamic acid; Acetohydroximic acid; Acetyl hydroxyamino; Acetylhydroxamic acid; Acide acetohydroxamique; Acido acetohidroxamico; Acidum acetohydroxamicum; AHA; Cetohyroxamic acid; Methylhydroxamic acid; N-Acetyl hydroxyacetamide; N-Acetylhydroxylamine; N-Hydroxyacetamide
+
+$$$$

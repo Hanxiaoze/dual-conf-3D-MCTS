@@ -1,0 +1,24 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09153
+
+>  <COMMON_NAME>  (1) 
+Sodium chloride
+
+>  <CAS_NUMBER>  (1) 
+7647-14-5
+
+>  <UNII>  (1) 
+451W47IQ8X
+
+>  <SYNONYMS>  (1) 
+Cloruro sódico; Natriumchlorid; Natrum muriaticum; Sodium chloride
+
+$$$$

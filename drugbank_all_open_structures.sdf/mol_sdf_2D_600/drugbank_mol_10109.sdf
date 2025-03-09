@@ -1,0 +1,33 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+   -0.5009    0.4674    0.0000 Mo  0  0  0  0  0  6  0  0  0  0  0  0
+    1.2911   -1.2911    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    1.2911   -1.2911    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+   -0.5009   -0.3589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5009    0.4674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5009    1.2911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2911    0.4674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  6  2  0
+  1  7  2  0
+M  CHG  4   2   1   3   1   4  -1   5  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14496
+
+>  <COMMON_NAME>  (1) 
+Sodium molybdate
+
+>  <CAS_NUMBER>  (1) 
+7631-95-0
+
+>  <UNII>  (1) 
+948QAQ08I1
+
+>  <SYNONYMS>  (1) 
+Anhydric sodium molybdate; Molybdenum (as sodium); Sodium molybdate (anhydrous); Sodium molybdate(VI); Sodium molybdenum oxide
+
+$$$$

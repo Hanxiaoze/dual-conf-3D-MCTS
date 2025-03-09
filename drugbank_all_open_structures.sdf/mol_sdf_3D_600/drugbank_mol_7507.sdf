@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.8790   -0.8308   -0.5473 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2320    0.7574    0.6140 Na  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09325
+
+>  <COMMON_NAME>  (1) 
+Sodium fluoride
+
+>  <CAS_NUMBER>  (1) 
+7681-49-4
+
+>  <UNII>  (1) 
+8ZYQ1474W7
+
+>  <SYNONYMS>  (1) 
+Sodium fluoride
+
+$$$$

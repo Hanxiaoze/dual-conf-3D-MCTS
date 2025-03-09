@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.7798    0.7526    0.9301 Li  0  0  0  0  0 15  0  0  0  0  0  0
+    1.1192   -0.1703   -0.3895 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14506
+
+>  <COMMON_NAME>  (1) 
+Lithium hydroxide
+
+>  <CAS_NUMBER>  (1) 
+1310-65-2
+
+>  <UNII>  (1) 
+903YL31JAS
+
+>  <SYNONYMS>  (1) 
+Lithium hydrate; Lithium hydroxide anhydrous; Lithiumhydroxid
+
+$$$$

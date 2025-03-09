@@ -1,0 +1,41 @@
+1080
+     RDKit          3D
+
+  9  8  0  0  1  0  0  0  0  0999 V2000
+    0.8562   -0.0341    0.1647 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9376    1.8485    1.3532 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8595   -1.2790   -1.1657 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860    1.1416   -0.7040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3650    0.0062   -1.6504 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2439    0.9715    0.7194 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8322    0.2350   -3.0532 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2621    0.9998    0.7887 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9753    0.4002   -4.0720 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  8  2  0
+  3  5  1  0
+  4  5  1  0
+  4  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01080
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00282
+
+>  <COMMON_NAME>  (1) 
+Vigabatrin
+
+>  <CAS_NUMBER>  (1) 
+68506-86-5
+
+>  <UNII>  (1) 
+GR120KRT6K
+
+>  <SYNONYMS>  (1) 
+4-Amino-5-hexenoic acid; Gamma vinyl GABA; gamma-Vinyl GABA; gamma-Vinyl-gamma-aminobutyric acid; GVG; Vigabatrin; Vigabatrina; Vigabatrine; Vigabatrinum; Vinyl gamma-aminobutyric acid
+
+$$$$

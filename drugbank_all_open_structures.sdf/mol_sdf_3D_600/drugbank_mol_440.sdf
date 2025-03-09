@@ -1,0 +1,58 @@
+Xanthotoxin
+     RDKit          3D
+
+ 16 18  0  0  0  0  0  0  0  0999 V2000
+    0.9078    0.0656   -0.1033 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4341    1.0594   -1.0148 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8305    2.3464   -0.7540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1470    2.7388   -0.4674 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1331    1.7273   -0.4370 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4439    1.9495   -0.0736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2480    1.0411    0.0639 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8191    3.3556    0.1284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9322    4.3528    0.0419 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5321    4.0676   -0.2552 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5798    5.0918   -0.3497 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2521    4.7522   -0.6805 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0756    3.4094   -0.8762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4009    3.3050   -1.1966 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9175    4.5609   -1.2013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9488    5.4849   -0.8882 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3 13  1  0
+  4  5  1  0
+  4 10  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 16  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00553
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00157
+
+>  <COMMON_NAME>  (1) 
+Methoxsalen
+
+>  <CAS_NUMBER>  (1) 
+298-81-7
+
+>  <UNII>  (1) 
+U4VJ29L7BQ
+
+>  <SYNONYMS>  (1) 
+6-hydroxy-7-methoxy-5-benzofuranacrylic acid δ-lactone; 8-methoxy-[furano-3'.2':6.7-coumarin]; 8-methoxy-2',3',6,7-furocoumarin; 8-methoxy-4',5':6,7-furocoumarin; 8-Methoxyfuranocoumarin; 8-methoxypsoralen; 8-MOP; 8-MP; 9-methoxy-7H-furo[3,2-g][1]benzopyran-7-one; Ammoidin; Methoxsalen; Méthoxsalène; Metoxaleno; O-methylxanthotoxol; Xanthotoxin; Xanthotoxine
+
+$$$$

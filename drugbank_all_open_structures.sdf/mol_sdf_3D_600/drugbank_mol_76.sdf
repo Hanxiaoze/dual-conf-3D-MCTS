@@ -1,0 +1,52 @@
+181
+     RDKit          3D
+
+ 14 14  0  0  1  0  0  0  0  0999 V2000
+   -2.1526    0.0630    0.0167 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9537   -3.1373    1.3305 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8695   -2.5746    1.8974 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0748   -0.0090   -2.4369 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8886   -0.0768    0.0518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3676   -0.0048   -0.0218 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4078   -0.7772    1.3355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4851   -0.7159   -1.2226 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6849    1.2186    0.0235 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6154   -1.1781   -0.1751 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.2217    1.5458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2847    1.2417    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2289   -1.1660   -0.1104 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4348    0.0470   -0.0242 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2 11  1  0
+  3 11  2  0
+  4  8  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  6  9  2  0
+  6 10  1  0
+  7 11  1  0
+  9 12  1  0
+ 10 13  2  0
+ 12 14  2  0
+ 13 14  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00181
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00551
+
+>  <COMMON_NAME>  (1) 
+Baclofen
+
+>  <CAS_NUMBER>  (1) 
+1134-47-0
+
+>  <UNII>  (1) 
+H789N3FKE8
+
+>  <SYNONYMS>  (1) 
+(+-)-Baclofen; 4-Amino-3-(4-chlorophenyl)butyric acid; Baclofen; Baclofène; Baclofeno; Baclofenum; beta-(4-Chlorophenyl)gaba; beta-(Aminomethyl)-4-chlorobenzenepropanoic acid; beta-(Aminomethyl)-p-chlorohydrocinnamic acid; beta-(p-Chlorophenyl)-gamma-aminobutyric acid; DL-4-Amino-3-p-chlorophenylbutanoic acid; DL-Baclofen; gamma-Amino-beta-(p-chlorophenyl)butyric acid
+
+$$$$

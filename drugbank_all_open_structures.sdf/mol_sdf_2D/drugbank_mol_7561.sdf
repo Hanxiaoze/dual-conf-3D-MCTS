@@ -1,0 +1,27 @@
+
+ OpenBabel10282417072D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1 123
+M  CHG  1   1  -1
+M  END
+>  <DRUGBANK_ID>
+DB09420
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DB11240
+
+>  <COMMON_NAME>
+Iodide I-123
+
+>  <CAS_NUMBER>
+69239-56-1
+
+>  <UNII>
+98QPV8670C
+
+>  <SYNONYMS>
+123I−; I 123; I-123; Iodide ion i-123; Iodine 123; Iodine-123
+
+$$$$

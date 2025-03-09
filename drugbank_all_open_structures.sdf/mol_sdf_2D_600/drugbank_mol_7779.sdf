@@ -1,0 +1,28 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11387
+
+>  <COMMON_NAME>  (1) 
+Chloroform
+
+>  <CAS_NUMBER>  (1) 
+67-66-3
+
+>  <UNII>  (1) 
+7V31YC746X
+
+>  <SYNONYMS>  (1) 
+1,1,1-trichloromethane; CHCl3; Chloroforme; chloroformium pro narcosi; Trichlormethan; Trichloromethane; trichlorométhane
+
+$$$$

@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.9737    0.0438   -0.0860 Mg  0  0  0  0  0 15  0  0  0  0  0  0
+    0.9218    0.0622    0.0045 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   2   2  -2
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01377
+
+>  <COMMON_NAME>  (1) 
+Magnesium oxide
+
+>  <CAS_NUMBER>  (1) 
+1309-48-4
+
+>  <UNII>  (1) 
+3A3U0GI71G
+
+>  <SYNONYMS>  (1) 
+Magnesia; Magnesium oxide
+
+$$$$

@@ -1,0 +1,33 @@
+
+     RDKit          2D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    2.0930    0.0495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.3630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  4  2  0
+  3  4  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00551
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00774; EXPT01688
+
+>  <COMMON_NAME>  (1) 
+Acetohydroxamic acid
+
+>  <CAS_NUMBER>  (1) 
+546-88-3
+
+>  <UNII>  (1) 
+4RZ82L2GY5
+
+>  <SYNONYMS>  (1) 
+Acethydroxamsaeure; Acetic acid, oxime; Acetohydroxamate; Acetohydroxamic acid; Acetohydroximic acid; Acetyl hydroxyamino; Acetylhydroxamic acid; Acide acetohydroxamique; Acido acetohidroxamico; Acidum acetohydroxamicum; AHA; Cetohyroxamic acid; Methylhydroxamic acid; N-Acetyl hydroxyacetamide; N-Acetylhydroxylamine; N-Hydroxyacetamide
+
+$$$$

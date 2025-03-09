@@ -1,0 +1,53 @@
+
+     RDKit          3D
+
+ 16 12  0  0  0  0  0  0  0  0999 V2000
+    1.1984   -0.4538   -0.3744 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7477   -0.0258   -1.7476 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3398   -0.4282   -2.2054 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2267    1.1319   -2.0240 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5754   -1.6200    0.3728 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0755   -1.7021    1.8336 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7855   -0.5482    2.7541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0825   -0.6691    3.6472 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2773    0.5755    2.3806 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0177   -1.6296    0.2700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5402   -2.6448   -0.2063 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5576   -0.5384    0.7311 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1403   -2.7947   -0.2499 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9418    1.0892    1.1632 Na  0  0  0  0  0 15  0  0  0  0  0  0
+   -0.8256    1.7175   -1.4767 Na  0  0  0  0  0 15  0  0  0  0  0  0
+   -1.0887    0.8063    2.1175 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  2  3  2  0
+  2  4  1  0
+  5  6  1  0
+  5 10  1  0
+  5 13  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+ 10 11  2  0
+ 10 12  1  0
+M  CHG  6   4  -1   9  -1  12  -1  14   1  15   1  16   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09154
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09159
+
+>  <COMMON_NAME>  (1) 
+Sodium citrate
+
+>  <CAS_NUMBER>  (1) 
+68-04-2
+
+>  <UNII>  (1) 
+RS7A450LGA
+
+>  <SYNONYMS>  (1) 
+Anhydrous sodium citrate; Anhydrous trisodium citrate; Citric acid, trisodium salt; Natrii citras; Natrocitral; Sodium citrate anhydrous; Sodium citrate, anhydrous; Sodium citrate,anhydrous; trisodium citrate anhydrous; Trisodium citrate concentration; Trisodium citrate, anhydrous; Trisodium-citrate
+
+$$$$

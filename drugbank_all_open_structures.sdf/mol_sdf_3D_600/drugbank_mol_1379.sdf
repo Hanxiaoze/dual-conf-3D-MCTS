@@ -1,0 +1,60 @@
+1582
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    0.9926    0.1574    0.0385 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6106   -0.4810   -1.1987 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4912   -0.3919    1.2947 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3868    1.7165   -0.0631 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0872    2.9341   -1.0942 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9745    3.7869    0.8270 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9800   -0.0495    0.1305 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7704    0.0327    0.1670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5563    1.1381    0.4105 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4271   -1.1941    0.0271 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1498    2.8796   -0.1476 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6014   -0.0634    0.0727 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9320    1.1288    0.2396 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8416   -1.2360    0.0352 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0297    3.8990   -0.9632 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8630    4.8170    0.8574 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9543    4.8793    0.0072 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2677    3.7469   -1.8003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6309    5.9424    1.8303 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  4  1  0
+  1  8  1  0
+  4 11  1  0
+  5 11  2  0
+  5 15  1  0
+  6 11  1  0
+  6 16  2  0
+  7 12  1  0
+  8  9  2  0
+  8 10  1  0
+  9 13  1  0
+ 10 14  2  0
+ 12 13  2  0
+ 12 14  1  0
+ 15 17  2  0
+ 15 18  1  0
+ 16 17  1  0
+ 16 19  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01582
+
+>  <COMMON_NAME>  (1) 
+Sulfamethazine
+
+>  <CAS_NUMBER>  (1) 
+57-68-1
+
+>  <UNII>  (1) 
+48U51W007F
+
+>  <SYNONYMS>  (1) 
+(p-Aminobenzolsulfonyl)-2-amino-4,6-dimethylpyrimidin; 2-(4-Aminobenzenesulfonamido)-4,6-dimethylpyrimidine; 2-(p-Aminobenzenesulfonamido)-4,6-dimethylpyrimidine; 2-Sulfanilamido-4,6-dimethylpyrimidine; 4-Amino-N-(2,6-dimethyl-4-pyrimidinyl)benzenesulfonamide; 4-Amino-N-(4,6-dimethyl-pyrimidin-2-yl)-benzenesulfonamide; 4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide; 4,6-Dimethyl-2-sulfanilamidopyrimidine; 6-(4'-Aminobenzol-sulfonamido)-2,4-dimethylpyrimidin; N-(4,6-Dimethyl-2-pyrimidyl)sulfanilamide; N(1)-(4,6-Dimethyl-2-pyrimidinyl)sulfanilamide; N(1)-(4,6-Dimethyl-2-pyrimidyl)sulfanilamide; SMZ; Sulfadimethyldiazine; Sulfadimethylpyrimidine; Sulfadimidina; Sulfadimidine; Sulfadimidinum; Sulfametazina; Sulfametazyny; Sulfamethazine; Sulfamezathine; Sulphadimethylpyrimidine; Sulphamethazine
+
+$$$$

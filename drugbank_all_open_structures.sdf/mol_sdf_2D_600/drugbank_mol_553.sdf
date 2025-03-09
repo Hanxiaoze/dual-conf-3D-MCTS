@@ -1,0 +1,50 @@
+668
+     RDKit          2D
+
+ 13 13  0  0  1  0  0  0  0  0999 V2000
+    2.8075    1.3654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2 10  1  0
+  3 12  1  0
+  4  7  1  0
+  4 13  1  0
+  5  1  1  1
+  5  6  1  0
+  5  7  1  0
+  6  8  2  0
+  6  9  1  0
+  8 10  1  0
+  9 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00668
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00450; EXPT00496
+
+>  <COMMON_NAME>  (1) 
+Epinephrine
+
+>  <CAS_NUMBER>  (1) 
+51-43-4
+
+>  <UNII>  (1) 
+YKH834O4BH
+
+>  <SYNONYMS>  (1) 
+(−)-(R)-epinephrine; (−)-3,4-dihydroxy-α-((methylamino)methyl)benzyl alcohol; (−)-adrenaline; (R)-(-)-Adnephrine; (R)-(-)-Adrenaline; (R)-(-)-Epinephrine; (R)-(-)-Epirenamine; (R)-(−)-adrenaline; 4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol; Adrénaline; Adrenaline; Epinefrin; Epinefrina; Epinephrin; Epinephrine; Epinephrinum; L-Adrenaline; Levoepinephrine
+
+$$$$

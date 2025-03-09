@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  6  6  0  0  0  0  0  0  0  0999 V2000
+   -1.9003    0.1254    0.0251 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6814    0.0848    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2208    1.2745   -0.1174 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5817    0.6973    0.1787 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4268   -0.7642   -0.1516 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0476   -1.0664    0.0435 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  6  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04699
+
+>  <COMMON_NAME>  (1) 
+gamma-Butyrolactone
+
+>  <CAS_NUMBER>  (1) 
+96-48-0
+
+>  <UNII>  (1) 
+OL659KIY4X
+
+>  <SYNONYMS>  (1) 
+1,4-lactone; 4-butyrolactone; 4-hydroxybutyric acid lactone; butyrolactone; dihydrofuran-2(3h)-one; GBL; γ-butyrolactone
+
+$$$$

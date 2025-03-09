@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.8587    0.1010   -0.0354 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2836    1.3058    0.1025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9388    2.3265    0.2194 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1866    1.2584    0.0971 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8991    0.1315   -0.0319 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02579
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00484
+
+>  <COMMON_NAME>  (1) 
+Acrylic Acid
+
+>  <CAS_NUMBER>  (1) 
+79-10-7
+
+>  <UNII>  (1) 
+J94PBK7X8S
+
+>  <SYNONYMS>  (1) 
+2-Propenoic acid; acroleic acid; Acrylate; ethylenecarboxylic acid; Propenoate; Propenoic acid; Vinylformic acid
+
+$$$$

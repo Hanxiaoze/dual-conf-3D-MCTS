@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.7645    0.0782   -0.0063 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1799   -1.1212   -0.1499 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8345   -2.1423   -0.2721 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2876   -1.0678   -0.1435 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0032    0.0613   -0.0084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4753   -0.0295   -0.0192 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0889    1.1612    0.1233 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0917   -1.0754   -0.1444 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01677
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01460; EXPT01511
+
+>  <COMMON_NAME>  (1) 
+Fumaric acid
+
+>  <CAS_NUMBER>  (1) 
+110-17-8
+
+>  <UNII>  (1) 
+88XHZ13131
+
+>  <SYNONYMS>  (1) 
+(2E)-2-butenedioic acid; (E)-2-butenedioic acid; Fumaric acid; Fumaricum acidum; Fumarsäure; trans-1,2-ethylenedicarboxylic acid; trans-but-2-enedioic acid; trans-Butenedioic acid
+
+$$$$

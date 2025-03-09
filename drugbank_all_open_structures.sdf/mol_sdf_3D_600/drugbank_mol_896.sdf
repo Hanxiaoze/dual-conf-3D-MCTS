@@ -1,0 +1,52 @@
+1020
+     RDKit          3D
+
+ 13 14  0  0  1  0  0  0  0  0999 V2000
+    1.5125    0.8793   -0.3368 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5572   -0.8405   -0.3683 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1571   -1.5229    1.6837 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2021    2.6031    0.2953 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0001   -3.1964    0.6596 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4965   -2.5347    2.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8733   -2.5060    1.6770 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1617   -0.7268   -0.6579 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1293    0.7543   -0.6575 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7796   -1.3040    0.4150 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7858    1.2590    0.4549 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8287   -0.1797    0.5837 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9696    0.3136    0.3720 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9  1  1  1
+  1 12  1  0
+  8  2  1  1
+  2 13  1  0
+  3  7  1  0
+  5  7  1  0
+  6  7  2  0
+  8  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 10  3  1  1
+ 11 13  1  0
+ 11  4  1  6
+M  CHG  2   5  -1   7   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01020
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00528
+
+>  <COMMON_NAME>  (1) 
+Isosorbide mononitrate
+
+>  <CAS_NUMBER>  (1) 
+16051-77-7
+
+>  <UNII>  (1) 
+LX1OH63030
+
+>  <SYNONYMS>  (1) 
+IS 5-MN; IS-5-MN; IS-5MN; ISMN; Iso-5-mononitrate; Isosorbide 5-mononitrate; Isosorbide 5-nitrate; Isosorbide mononitrate; Isosorbide-5-mononitrate; Isosorbidi mononitras; Mononitrate d'isosorbide; Mononitrato de isosorbida; Monosorbitrate
+
+$$$$

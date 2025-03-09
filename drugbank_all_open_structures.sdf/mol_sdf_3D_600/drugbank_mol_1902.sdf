@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0592    0.0013   -0.0106 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5791   -0.9523    1.0729 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313   -0.5274    2.4736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5289    0.8505    2.8965 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8898    0.8906    2.9214 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02145
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00068
+
+>  <COMMON_NAME>  (1) 
+Butyl alcohol
+
+>  <CAS_NUMBER>  (1) 
+71-36-3
+
+>  <UNII>  (1) 
+8PJ61P6TS3
+
+>  <SYNONYMS>  (1) 
+1-butanol; Butan-1-ol; Butanol; N-butanol; N-butyl alcohol
+
+$$$$

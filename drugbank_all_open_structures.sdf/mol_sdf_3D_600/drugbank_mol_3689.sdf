@@ -1,0 +1,48 @@
+
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   -1.9120    0.0661   -0.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1396    1.2371    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2320   -1.1645   -0.0023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1733   -1.2165    0.0102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2546    1.1890    0.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9038   -0.0336    0.0115 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5890    1.2965   -0.0869 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3917    0.0994   -0.0404 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1943    0.1022   -0.0988 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2195    2.3416   -0.1000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2661   -0.0080    0.0088 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1235    1.2276   -0.0571 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  1  2  0
+  3  1  1  0
+  4  3  2  0
+  5  2  1  0
+  6  4  1  0
+  6  5  2  0
+  8 12  2  0
+  9  7  1  0
+ 10  7  2  0
+ 11  6  1  0
+ 12  7  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04066
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01706
+
+>  <COMMON_NAME>  (1) 
+p-Coumaric acid
+
+>  <CAS_NUMBER>  (1) 
+501-98-4
+
+>  <UNII>  (1) 
+IBS9D1EU3J
+
+>  <SYNONYMS>  (1) 
+(2E)-3-(4-hydroxyphenyl)acrylic acid; (E)-3-(4-hydroxyphenyl)-2-propenoic acid; (E)-p-coumaric acid; (E)-p-hydroxycinnamic acid; 4-coumaric acid; 4-Hydroxycinnamic acid; 4'-hydroxycinnamic acid; naringeninic acid; p-Coumaric acid; para-Coumaric Acid; trans-4-coumaric acid; trans-4-hydroxycinnamic acid; trans-p-coumaric acid; trans-p-coumarinic acid; trans-p-Hydroxycinnamate; trans-p-hydroxycinnamic acid
+
+$$$$

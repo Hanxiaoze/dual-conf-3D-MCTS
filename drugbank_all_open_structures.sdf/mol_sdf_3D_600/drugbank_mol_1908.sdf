@@ -1,0 +1,41 @@
+
+     RDKit          3D
+
+  9  8  0  0  1  0  0  0  0  0999 V2000
+    1.0499    0.0070   -0.0542 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5320   -1.3562    0.1951 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0304   -1.9609    1.5168 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4321   -1.0139    2.9757 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2692   -1.8967    4.0209 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0860    0.3326    2.9074 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0107   -1.3553    0.1608 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5652   -2.0859   -0.8317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7193   -0.7852    0.9835 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  7  1  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+  7  8  1  0
+  7  9  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02153
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01040; EXPT01032; DB01769
+
+>  <COMMON_NAME>  (1) 
+3-sulfino-L-alanine
+
+>  <CAS_NUMBER>  (1) 
+1115-65-7
+
+>  <UNII>  (1) 
+56X032NVQL
+
+>  <SYNONYMS>  (1) 
+(2R)-2-amino-3-sulfinopropanoic acid; 3-sulfinoalanine; 3-Sulphino-L-alanine; L-Cysteinesulfinic acid; S-Cysteinesulfinic acid; S-Sulfinocysteine
+
+$$$$

@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.1061    0.2126   -0.0881 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6748   -0.7994   -1.0463 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1499   -2.1943   -0.6331 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5848   -2.6501    0.7186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9476   -2.7089    0.7332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5150   -3.7271   -0.2649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0397   -5.1591   -0.0048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4648   -5.6129    1.3143 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03260
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00049
+
+>  <COMMON_NAME>  (1) 
+Hexamethylene diamine
+
+>  <CAS_NUMBER>  (1) 
+124-09-4
+
+>  <UNII>  (1) 
+ZRA5J5B2QW
+
+>  <SYNONYMS>  (1) 
+1,6-diamino-n-hexane; 1,6-diaminohexane; 1,6-hexamethylenediamine; 1,6-hexanediamine; 1,6-hexylenediamine; diaminohexane; HEX-NH2; hexamethylene diamine; hexamethylenediamine; hexylenediamine; HMDA
+
+$$$$

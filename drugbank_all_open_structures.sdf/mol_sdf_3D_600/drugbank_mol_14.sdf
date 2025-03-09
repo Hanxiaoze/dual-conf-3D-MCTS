@@ -1,0 +1,46 @@
+
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+   -0.3529   -1.0675    0.0728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8629   -2.4686   -0.0225 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3866   -3.2292   -1.2783 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9409   -0.6482    0.2982 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9893   -4.5967   -1.2795 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1772    0.0274   -0.0543 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3816    1.0735   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9257    0.6991    0.0995 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7772   -4.3997   -1.0735 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1449   -3.3847   -1.3466 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8039   -2.2795   -1.7393 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3 10  1  0
+  3  5  1  1
+  4  1  2  0
+  6  1  1  0
+  7  6  2  0
+  7  8  1  0
+  8  4  1  0
+ 10  9  2  0
+ 11 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00117
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00030
+
+>  <COMMON_NAME>  (1) 
+Histidine
+
+>  <CAS_NUMBER>  (1) 
+71-00-1
+
+>  <UNII>  (1) 
+4QD397987E
+
+>  <SYNONYMS>  (1) 
+(S)-4-(2-Amino-2-carboxyethyl)imidazole; (S)-a-Amino-1H-imidazole-4-propanoic acid; (S)-alpha-amino-1H-Imidazole-4-propanoic acid; (S)-alpha-Amino-1H-imidazole-4-propionic acid; (S)-α-amino-1H-Imidazole-4-propanoic acid; HIS; Histidina; Histidine; L-(−)-histidine; L-Histidin; L-Histidine
+
+$$$$

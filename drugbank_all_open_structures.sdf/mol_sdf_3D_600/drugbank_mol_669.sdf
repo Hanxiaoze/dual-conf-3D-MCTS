@@ -1,0 +1,59 @@
+
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    1.2260   -1.4004    0.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4445   -0.7170   -0.0246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4726    0.6758   -0.0179 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2659    1.3814    0.0175 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0307    0.7089    0.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0106   -0.7034    0.0177 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2206   -1.3815    0.0236 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1841    1.4084    0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3990    0.7247    0.0044 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4322   -0.6759    0.0152 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7594   -1.4131    0.0015 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.6095   -1.0695    1.2147 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7225   -0.5629    1.2093 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0186   -1.3873    2.3859 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5153   -1.0980   -1.2933 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6061    1.4442   -0.0484 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8430    0.7405   -0.1207 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  6  1  0
+  2  3  1  0
+  3  4  2  0
+  3 16  1  0
+  4  5  1  0
+  5  6  2  0
+  5  8  1  0
+  7  6  1  0
+  7 10  2  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 15  1  6
+ 12 13  2  0
+ 12 14  1  0
+ 16 17  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00788
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01135; DB08298
+
+>  <COMMON_NAME>  (1) 
+Naproxen
+
+>  <CAS_NUMBER>  (1) 
+22204-53-1
+
+>  <UNII>  (1) 
+57Y76R9ATQ
+
+>  <SYNONYMS>  (1) 
+(+)-(S)-6-Methoxy-α-methyl-2-naphthaleneacetic acid; (+)-(S)-Naproxen; (+)-2-(6-Methoxy-2-naphthyl)propionic acid; (+)-2-(Methoxy-2-naphthyl)-propionic acid; (+)-2-(Methoxy-2-naphthyl)-propionsäure; (+)-Naproxen; (S)-(+)-2-(6-Methoxy-2-naphthyl)propionic acid; (S)-(+)-Naproxen; (S)-2-(6-Methoxy-2-naphthyl)propanoic acid; (S)-2-(6-Methoxy-2-naphthyl)propionic acid; (S)-6-Methoxy-alpha-methyl-2-naphthaleneacetic acid; (S)-Naproxen; Naprolag; Naproxen; Naproxène; Naproxeno; Naproxenum
+
+$$$$

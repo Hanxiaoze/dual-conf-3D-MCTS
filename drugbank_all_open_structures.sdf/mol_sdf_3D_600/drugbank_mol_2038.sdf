@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.9348    0.1466    0.0101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8874   -1.0838   -2.2121 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4742   -2.4434   -1.6513 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9241   -2.6497   -1.7534 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4163    0.1589   -1.4276 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0980    0.3676   -1.4534 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2  5  1  0
+  3  2  1  0
+  4  3  1  0
+  5  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02296
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01910
+
+>  <COMMON_NAME>  (1) 
+Isoamyl alcohol
+
+>  <CAS_NUMBER>  (1) 
+123-51-3
+
+>  <UNII>  (1) 
+DEM9NIT1J4
+
+>  <SYNONYMS>  (1) 
+2-methyl-4-butanol; 3-methyl-1-butanol; 3-Methylbutanol; Isoamylol; Isobutylcarbinol; Isopentanol; Isopentyl alcohol
+
+$$$$

@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.8991    0.0133    0.0560 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4279   -0.2196    1.4813 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3047   -2.0233   -0.5297 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4484    1.2792   -0.4102 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4032   -1.0804   -0.8776 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  2  1  1
+  3  5  2  0
+  4  1  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03776
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00138
+
+>  <COMMON_NAME>  (1) 
+Lactaldehyde
+
+>  <CAS_NUMBER>  (1) 
+598-35-6
+
+>  <UNII>  (1) 
+BS76EN9C35
+
+>  <SYNONYMS>  (1) 
+(2s)-2-Hydroxypropanal; (S)-lactaldehyde; L-2-Hydroxypropionaldehyde; L-lactaldehyde
+
+$$$$

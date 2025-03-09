@@ -1,0 +1,37 @@
+
+     RDKit          2D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    0.7157   -0.2099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7157   -0.2099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4314   -0.6202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7157    0.6202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4314   -0.6202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7157    0.6202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  3  1  0
+  5  1  2  0
+  6  1  1  0
+  7  3  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01762
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00381; DB04025
+
+>  <COMMON_NAME>  (1) 
+Acetoacetic acid
+
+>  <CAS_NUMBER>  (1) 
+541-50-4
+
+>  <UNII>  (1) 
+4ZI204Y1MC
+
+>  <SYNONYMS>  (1) 
+3-ketobutanoic acid; 3-Ketobutyric acid; 3-Oxobutanoic acid; 3-Oxobutyric acid; beta-Ketobutyric acid
+
+$$$$

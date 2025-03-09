@@ -1,0 +1,24 @@
+
+ OpenBabel10282417223D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9930    0.0108   -0.0992 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9930    0.0108   -0.0992 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB15127
+
+>  <COMMON_NAME>
+Hydrogen
+
+>  <CAS_NUMBER>
+1333-74-0
+
+>  <UNII>
+7YNJ3PO35Z
+
+>  <SYNONYMS>
+Dihydrogen; Molecular hydrogen; Protium
+
+$$$$

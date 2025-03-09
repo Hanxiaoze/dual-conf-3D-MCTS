@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0520   -0.0099   -0.0920 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640   -0.0099   -0.0920 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11109
+
+>  <COMMON_NAME>  (1) 
+Chlorine
+
+>  <CAS_NUMBER>  (1) 
+7782-50-5
+
+>  <UNII>  (1) 
+4R7X1O2820
+
+>  <SYNONYMS>  (1) 
+Chlor; Chlore; Cloro; Dichlorine
+
+$$$$

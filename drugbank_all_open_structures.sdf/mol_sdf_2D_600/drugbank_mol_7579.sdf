@@ -1,0 +1,33 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+   -0.2247   -0.0072    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1858   -0.7171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1858    0.7075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9441    0.3984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9441   -0.4225    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9441   -0.7798    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    0.9441    0.7798    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  2  0
+  5  1  1  0
+M  CHG  4   2  -1   3  -1   6   1   7   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09484
+
+>  <COMMON_NAME>  (1) 
+Sodium fluorophosphate
+
+>  <CAS_NUMBER>  (1) 
+10163-15-2
+
+>  <UNII>  (1) 
+C810JCZ56Q
+
+>  <SYNONYMS>  (1) 
+Disodium phosphorofluoridate; Phosphorofluoridic acid, disodium salt; Sodium monofluorophosphate
+
+$$$$

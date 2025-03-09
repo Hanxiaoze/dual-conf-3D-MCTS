@@ -1,0 +1,41 @@
+
+ OpenBabel10282417113D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.9966    0.0315    0.0890 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5313    0.3601    1.3899 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0290   -0.6615    2.3913 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9687    0.0340    0.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8832    1.3640    1.6456 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5623    0.3730    1.3679 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1235   -0.6907    2.4035 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6718   -0.4267    3.3978 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6867   -1.6655    2.1196 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00898
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00738
+
+>  <COMMON_NAME>
+Ethanol
+
+>  <CAS_NUMBER>
+64-17-5
+
+>  <UNII>
+3K9958V90M
+
+>  <SYNONYMS>
+1-Hydroxyethane; Alcohol; Alcohol (ethyl); Alcohol anhydrous; Alcohol denatured; Alcohol etílico; Alcohol, denatured; Alcool éthylique; Alkohol; Äthanol; Äthylalkohol; Dehydrated alcohol; Dehydrated ethanol; etanol; éthanol; Ethyl Alcohol; Grain alcohol; Hydroxyethane; Methylcarbinol; Spiritus vini
+
+$$$$

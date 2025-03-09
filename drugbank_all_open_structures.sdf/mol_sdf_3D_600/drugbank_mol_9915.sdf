@@ -1,0 +1,25 @@
+
+     RDKit          3D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    0.9268   -0.0287   -0.0618 Sr  0  0  0  0  0 15  0  0  0  0  0  0
+    0.9571    0.0892   -0.0142 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0374   -0.0747   -0.0549 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13987
+
+>  <COMMON_NAME>  (1) 
+Strontium chloride
+
+>  <CAS_NUMBER>  (1) 
+10476-85-4
+
+>  <UNII>  (1) 
+EKE8PS9J6Z
+
+>  <SYNONYMS>  (1) 
+strontium dichloride
+
+$$$$

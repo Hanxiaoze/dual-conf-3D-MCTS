@@ -1,0 +1,24 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000  -68.9429    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    0.0000   68.9429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11151
+
+>  <COMMON_NAME>  (1) 
+Sodium hydroxide
+
+>  <CAS_NUMBER>  (1) 
+1310-73-2
+
+>  <UNII>  (1) 
+55X04QC32I
+
+>  <SYNONYMS>  (1) 
+caustic soda; lye; soda lye; sodio hidróxido; sodium hydrate; Sodium hydroxide; white caustic
+
+$$$$

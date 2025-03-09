@@ -1,0 +1,45 @@
+
+     RDKit          3D
+
+ 10 11  0  0  0  0  0  0  0  0999 V2000
+    1.1375   -0.0229    0.0017 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6248    0.2175   -1.3525 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4205   -0.2144   -2.5478 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323    1.2515   -2.1973 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6281    2.2486   -3.0882 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728    3.3380   -2.5450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5284    4.3941   -3.3454 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2824    4.3823   -4.7170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3999    3.3133   -5.2818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8256    2.2470   -4.4816 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5 10  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00752
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00645
+
+>  <COMMON_NAME>  (1) 
+Tranylcypromine
+
+>  <CAS_NUMBER>  (1) 
+155-09-9
+
+>  <UNII>  (1) 
+3E3V44J4Z9
+
+>  <SYNONYMS>  (1) 
+(±)-trans-2-phenylcyclopropylamine; (1R*,2S*)-2-phenylcyclopropan-1-amine; dl-tranylcypromine; Racemic Tranylcypromine; Tranilcipromina; trans-2-phenylcyclopropylamine; trans-DL-2-Phenylcyclopropylamine; Transamine; Tranylcypromin; Tranylcypromine; Tranylcyprominum
+
+$$$$

@@ -1,0 +1,25 @@
+
+     RDKit          2D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+   -0.0024   -0.5354    0.0000 Fe  0  0  0  0  0 15  0  0  0  0  0  0
+   -1.8568    0.5354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8569    0.5354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  3   1   3   2  -1   3  -2
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14695
+
+>  <COMMON_NAME>  (1) 
+Ferric oxyhydroxide
+
+>  <CAS_NUMBER>  (1) 
+20344-49-4
+
+>  <UNII>  (1) 
+87PZU03K0K
+
+>  <SYNONYMS>  (1) 
+Hydrated ferric oxide; Iron hydroxide oxide
+
+$$$$

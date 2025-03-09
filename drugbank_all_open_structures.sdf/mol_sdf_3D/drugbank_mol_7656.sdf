@@ -1,0 +1,26 @@
+
+ OpenBabel10282417183D
+
+  3  1  0  0  0  0  0  0  0  0999 V2000
+    0.6515    1.6851    0.2226 K   0  3  0  0  0  0  0  0  0  0  0  0
+    1.3815   -0.4890   -0.1481 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9438   -1.2365   -0.2756 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>
+DB11153
+
+>  <COMMON_NAME>
+Potassium hydroxide
+
+>  <CAS_NUMBER>
+1310-58-3
+
+>  <UNII>
+WZH3C48M4T
+
+>  <SYNONYMS>
+Ätzkali; hydroxyde de potassium; Kaliumhydroxid; potash lye; potasio hidróxido; potasse caustique; Potassium hydroxide
+
+$$$$

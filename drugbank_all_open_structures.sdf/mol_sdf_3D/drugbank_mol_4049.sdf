@@ -1,0 +1,37 @@
+
+ OpenBabel10282417143D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    1.0617   -0.0420   -0.0665 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4450   -1.1321   -1.4281 As  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0617   -2.8563   -1.1649 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4050   -1.1321   -1.4281 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0617   -0.0420   -0.0665 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0617   -2.8563   -1.1649 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7383   -1.7214   -2.1641 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB04456
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT03008
+
+>  <COMMON_NAME>
+Arsenous acid
+
+>  <CAS_NUMBER>
+13464-58-9
+
+>  <UNII>
+935XD1L5K2
+
+>  <SYNONYMS>
+arsenic trihydroxide; arsenous acid; arsorous acid; trihydroxyarsenite(III)
+
+$$$$

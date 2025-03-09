@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.9235    0.1045    0.0346 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3962    0.6967   -1.2697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9235   -0.1115   -2.4524 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1214    0.6544   -1.2660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7235    1.8587   -1.3706 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7707   -0.3797   -1.1762 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02531
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01932; DB04305
+
+>  <COMMON_NAME>  (1) 
+Isobutyric acid
+
+>  <CAS_NUMBER>  (1) 
+79-31-2
+
+>  <UNII>  (1) 
+8LL210O1U0
+
+>  <SYNONYMS>  (1) 
+2-methyl-propionic acid; 2-Methylpropanoate; 2-Methylpropanoic acid; 2-Methylpropionsäure; 2,2-dimethylacetic acid; Dimethylacetic acid; iso-butyric acid; Isobutanoate; Isobuttersäure; Isobutyrate; Isopropylformic acid; α-isobutyric acid; α-methylpropanoic acid; α-methylpropionic acid
+
+$$$$

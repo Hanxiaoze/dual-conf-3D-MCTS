@@ -1,0 +1,30 @@
+
+     RDKit          2D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+  2  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11309
+
+>  <COMMON_NAME>  (1) 
+Sulfuric acid
+
+>  <CAS_NUMBER>  (1) 
+7664-93-9
+
+>  <UNII>  (1) 
+O40UQP6WCF
+
+>  <SYNONYMS>  (1) 
+Acide sulfurique; Acido sulfurico; Acidum sulfuricum; Brimstone acid; Dihydrogen sulfate; Dihydrogen sulphate; Schwefelsaeureloesungen; Sulphuric acid; Tetraoxosulfuric acid
+
+$$$$

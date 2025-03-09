@@ -1,0 +1,27 @@
+
+ OpenBabel10282417072D
+
+  4  1  0  0  0  0  0  0  0  0999 V2000
+   -0.0024   -0.5354    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+   -1.8568    0.5354    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.8569    0.5354    0.0000 O   0  6  0  0  0  0  0  0  0  0  0  0
+   -0.8868    0.5354    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+M  CHG  3   1   3   2  -1   3  -2
+M  END
+>  <DRUGBANK_ID>
+DB14695
+
+>  <COMMON_NAME>
+Ferric oxyhydroxide
+
+>  <CAS_NUMBER>
+20344-49-4
+
+>  <UNII>
+87PZU03K0K
+
+>  <SYNONYMS>
+Hydrated ferric oxide; Iron hydroxide oxide
+
+$$$$

@@ -1,0 +1,31 @@
+
+     RDKit          3D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.8228   -0.0483    0.1082 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1136   -1.1376    0.4842 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9151   -2.1918    0.8482 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2215   -1.1731    0.4965 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  2  4  1  0
+  3  4  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00536
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01008; EXPT01546
+
+>  <COMMON_NAME>  (1) 
+Guanidine
+
+>  <CAS_NUMBER>  (1) 
+113-00-8
+
+>  <UNII>  (1) 
+JU58VJ6Y3B
+
+>  <SYNONYMS>  (1) 
+Aminomethanamidine; Gu; Guanidin; Guanidine; Imidourea; Iminourea
+
+$$$$

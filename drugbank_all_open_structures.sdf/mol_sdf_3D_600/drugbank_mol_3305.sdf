@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9437    0.0026   -0.1688 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4662   -1.2718    0.5111 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9018   -1.3562    1.9782 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3901   -0.2121    2.8591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0675   -0.1652    2.8882 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03659
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02080
+
+>  <COMMON_NAME>  (1) 
+Butylamine
+
+>  <CAS_NUMBER>  (1) 
+109-73-9
+
+>  <UNII>  (1) 
+N2QV60B4WR
+
+>  <SYNONYMS>  (1) 
+1-aminobutane; 1-butanamine; n-butylamine
+
+$$$$

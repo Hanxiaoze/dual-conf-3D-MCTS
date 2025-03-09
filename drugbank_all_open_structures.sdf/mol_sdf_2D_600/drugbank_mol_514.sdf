@@ -1,0 +1,42 @@
+627
+     RDKit          2D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    3.0790    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  3  6  2  0
+  3  8  1  0
+  4  5  2  0
+  4  6  1  0
+  4  9  1  0
+  5  7  1  0
+  7  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00627
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00042; APRD00536
+
+>  <COMMON_NAME>  (1) 
+Niacin
+
+>  <CAS_NUMBER>  (1) 
+59-67-6
+
+>  <UNII>  (1) 
+2679MF687A
+
+>  <SYNONYMS>  (1) 
+3-carboxypyridine; 3-Pyridinecarboxylic acid; 3-Pyridylcarboxylic acid; Acide nicotinique; ácido nicotínico; Acidum Nicotinicum; anti-pellagra vitamin; m-pyridinecarboxylic acid; Niacin; Niacina; Nicotinic acid; Nikotinsäure; pyridine-β-carboxylic acid; β-pyridinecarboxylic acid
+
+$$$$

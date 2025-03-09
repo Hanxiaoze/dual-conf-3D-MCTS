@@ -1,0 +1,24 @@
+977
+     RDKit          3D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9625    0.0742    0.0659 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2445    0.0742    0.0659 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09140
+
+>  <COMMON_NAME>  (1) 
+Oxygen
+
+>  <CAS_NUMBER>  (1) 
+7782-44-7
+
+>  <UNII>  (1) 
+S88TT14065
+
+>  <SYNONYMS>  (1) 
+Dioxygen; Molecular oxygen; Oxigeno gaseoso; Oxygen; Oxygen USP; Pure oxygen
+
+$$$$

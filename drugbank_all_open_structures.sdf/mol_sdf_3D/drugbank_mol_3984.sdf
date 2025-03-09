@@ -1,0 +1,45 @@
+
+ OpenBabel10282417143D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+    1.0331   -0.0578    0.0329 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3115    1.1067   -0.5156 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9592    2.1683   -1.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2403    3.3550   -1.5744 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4263   -1.0213    0.4866 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1337   -0.0123    0.0114 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7703    1.0451   -0.4866 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0463    2.2059   -1.0333 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5121    4.2568   -1.0176 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5121    3.5001   -2.6243 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8470    3.2373   -1.5190 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  1  2  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB04381
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01020
+
+>  <COMMON_NAME>
+Crotonaldehyde
+
+>  <CAS_NUMBER>
+123-73-9
+
+>  <UNII>
+6PUW625907
+
+>  <SYNONYMS>
+(E)-crotonaldehyde; 1-formylpropene; 2-Butenal; Aldehyde crotonique; crotonal; crotonic aldehyde; crotylaldehyde; methylpropenal; propylene aldehyde; trans-2-butenal; trans-2-butenaldehyde; trans-but-2-enal; trans-crotonaldehyde; β-methylacrolein
+
+$$$$

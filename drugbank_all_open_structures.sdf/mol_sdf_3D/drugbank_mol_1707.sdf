@@ -1,0 +1,33 @@
+
+ OpenBabel10282417123D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0815   -0.0854    0.0609 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1737    0.0542    0.0682 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8202   -1.1250    0.0070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7293    1.1366    0.1244 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2098   -1.8858   -0.0325 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  2  2  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB01942
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01461
+
+>  <COMMON_NAME>
+Formic acid
+
+>  <CAS_NUMBER>
+64-18-6
+
+>  <UNII>
+0YIW783RG1
+
+>  <SYNONYMS>
+Acide formique; Ameisensäure; Aminic acid; Bilorin; Formic acid; Formylic acid; Hydrogen carboxylic acid; Methanoic acid
+
+$$$$

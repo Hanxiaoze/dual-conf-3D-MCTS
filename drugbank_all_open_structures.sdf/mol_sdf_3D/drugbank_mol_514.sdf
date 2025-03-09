@@ -1,0 +1,52 @@
+627
+ OpenBabel10282417103D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    0.9024   -0.0828   -0.1095 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0348   -2.0530    0.9579 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1668   -1.6204    1.6184 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1102   -1.1300    0.4402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8348   -0.7146   -0.6770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8118   -1.5740    1.5516 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2284   -0.7655   -0.6390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8431   -1.2212    0.5184 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3578   -1.1733    0.4572 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8712   -0.1951    0.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3251   -0.3800   -1.5758 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2984   -1.9106    2.4485 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8241   -0.4668   -1.4948 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9261   -1.2844    0.5905 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00627
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+NUTR00042; APRD00536
+
+>  <COMMON_NAME>
+Niacin
+
+>  <CAS_NUMBER>
+59-67-6
+
+>  <UNII>
+2679MF687A
+
+>  <SYNONYMS>
+3-carboxypyridine; 3-Pyridinecarboxylic acid; 3-Pyridylcarboxylic acid; Acide nicotinique; ácido nicotínico; Acidum Nicotinicum; anti-pellagra vitamin; m-pyridinecarboxylic acid; Niacin; Niacina; Nicotinic acid; Nikotinsäure; pyridine-β-carboxylic acid; β-pyridinecarboxylic acid
+
+$$$$

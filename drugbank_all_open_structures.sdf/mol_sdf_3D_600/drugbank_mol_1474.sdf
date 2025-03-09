@@ -1,0 +1,51 @@
+
+     RDKit          3D
+
+ 14 13  0  0  1  0  0  0  0  0999 V2000
+    5.9853    6.1907    2.6807 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2621    5.3347    3.8230 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4777    5.5589    4.5783 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5141    4.2446    4.1490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7547    3.8531    3.1002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5473    3.6877    5.3055 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7062    2.5589    5.7006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2858    3.0297    6.0671 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4596    3.6276    4.9184 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1082    2.6595    3.7351 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6517    2.5267    3.6043 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7114    1.2312    3.8530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6663    0.8980    2.9576 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3937    0.4524    4.7548 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+ 10 12  1  0
+ 10 11  1  1
+ 10  9  1  0
+ 12 13  1  0
+ 12 14  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01686
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01101
+
+>  <COMMON_NAME>  (1) 
+N,N-dimethylarginine
+
+>  <CAS_NUMBER>  (1) 
+30315-93-6
+
+>  <UNII>  (1) 
+63CV1GEK3Y
+
+>  <SYNONYMS>  (1) 
+ADMA; Asymmetric dimethylarginine; dimethyl-L-arginine; guanidino-N,N-dimethylarginine; L-NG,NG-dimethylarginine; N(5)-((Dimethylamino)iminomethyl)-L-ornithine; N(G)-Dimethylarginine; N(G),N(G)-Dimethylarginine; N(G1),N(G1)-Dimethylarginine; NG,NG-Dimethyl-L-arginine
+
+$$$$

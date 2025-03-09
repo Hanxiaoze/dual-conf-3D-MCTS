@@ -1,0 +1,41 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.9946    0.0342   -0.0123 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5353   -0.4803    1.2729 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3387    0.4241    2.0339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7031   -0.1893    2.2958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1426   -0.4837    3.4007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4225   -0.4285    1.1807 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8915   -1.7253    1.7152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6199   -2.5761    1.0751 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4763   -2.1138    2.9314 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  7  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  7  8  2  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00148
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00022
+
+>  <COMMON_NAME>  (1) 
+Creatine
+
+>  <CAS_NUMBER>  (1) 
+57-00-1
+
+>  <UNII>  (1) 
+MU72812GK0
+
+>  <SYNONYMS>  (1) 
+((amino(Imino)methyl)(methyl)amino)acetic acid; (alpha-Methylguanido)acetic acid; (N-methylcarbamimidamido)acetic acid; (α-methylguanido)acetic acid; alpha-Methylguanidino acetic acid; Creatin; Creatine; Kreatin; Methylglycocyamine; N-(aminoiminomethyl)-N-methylglycine; N-amidinosarcosine; N-carbamimidoyl-N-methylglycine; N-methyl-N-guanylglycine
+
+$$$$

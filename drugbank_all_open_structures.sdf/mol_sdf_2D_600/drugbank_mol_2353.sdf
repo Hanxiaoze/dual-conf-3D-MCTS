@@ -1,0 +1,65 @@
+
+     RDKit          2D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   -0.7496    0.8283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7496    0.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4746   -0.4091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8246   -0.4023    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4746    1.2408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1913    0.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1913    0.8283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0371    1.2408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1092    0.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5371    0.0101    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8276   -1.2255    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0371   -0.4091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3874   -0.4035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1062    0.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4746   -1.2425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6783    0.8300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9038   -0.4091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6812    0.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3908    1.2425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9038    1.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5371    0.7158    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  1
+  2  1  1  0
+  2 12  1  6
+  3  2  1  0
+  3 15  1  1
+  4  9  1  0
+  5  1  1  0
+  6  7  1  0
+  6 17  1  1
+  6  3  1  0
+  7  5  1  0
+  7 20  1  1
+  9 14  2  0
+  9 13  1  0
+ 10  4  1  0
+ 11  4  2  0
+ 13 18  2  0
+ 14 19  1  0
+ 16  8  1  0
+ 18 16  1  0
+ 19 16  2  0
+ 21 20  1  0
+M  CHG  2   4   1  10  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02632
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00033
+
+>  <COMMON_NAME>  (1) 
+4-nitrophenyl-beta-D-galactoside
+
+>  <CAS_NUMBER>  (1) 
+3150-24-1
+
+>  <SYNONYMS>  (1) 
+1-O-(4-nitrophenyl)-β-D-galactopyranose; 1-O-(4-nitrophenyl)-β-D-galactose; 1-O-(p-nitrophenyl)-β-D-galactopyranose; 1-O-(p-nitrophenyl)-β-D-galactose; 1-O-[p-nitrophenyl]-beta-D-galactopyranose; 4-Nitrophenyl-beta-D-galactopyranoside; 4-nitrophenyl-β-D-galactopyranoside; 4-nitrophenyl-β-D-galactoside; 4-Nitrophenylgalactoside; p-Nitrophenyl beta-D-galactopyranoside; p-Nitrophenyl-beta-D-galactoside
+
+$$$$

@@ -1,0 +1,30 @@
+
+     RDKit          2D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+   -0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+  2  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14090
+
+>  <COMMON_NAME>  (1) 
+Dimethyl sulfone
+
+>  <CAS_NUMBER>  (1) 
+67-71-0
+
+>  <UNII>  (1) 
+9H4PO4Z4FT
+
+>  <SYNONYMS>  (1) 
+Dimethyl sulphone; Methyl sulfone; Methylsulfonyl methane; Methylsulfonylmethane; MSM; Sulfonylbismethane
+
+$$$$

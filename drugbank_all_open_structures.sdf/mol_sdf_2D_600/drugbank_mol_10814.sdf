@@ -1,0 +1,26 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   -0.0021    0.2087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7116   -0.2087    0.0000 Ag  0  0  0  0  0  1  0  0  0  0  0  0
+    0.7116   -0.2087    0.0000 Ag  0  0  0  0  0  1  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB15668
+
+>  <COMMON_NAME>  (1) 
+Silver oxide
+
+>  <CAS_NUMBER>  (1) 
+20667-12-3
+
+>  <UNII>  (1) 
+897WUN6G6T
+
+>  <SYNONYMS>  (1) 
+Argentous oxide; Argentum oxydatum; Disilver oxide; Silver rust; Silver(I) oxide
+
+$$$$

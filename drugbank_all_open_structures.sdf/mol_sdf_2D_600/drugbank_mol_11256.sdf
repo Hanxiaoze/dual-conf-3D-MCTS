@@ -1,0 +1,25 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.0033    0.0000 Tl  0  0  0  0  0  3  0  0  0  0  0  0
+    0.4125    0.0033    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+M  ISO  1   1 201
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16624
+
+>  <COMMON_NAME>  (1) 
+Thallous chloride Tl-201
+
+>  <CAS_NUMBER>  (1) 
+55172-29-7
+
+>  <UNII>  (1) 
+3I8Y076A0E
+
+>  <SYNONYMS>  (1) 
+Thallium (201Tl) chloride; Thallous chloride Tl 201
+
+$$$$

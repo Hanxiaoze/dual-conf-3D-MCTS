@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.6515    1.6851    0.2226 K   0  0  0  0  0 15  0  0  0  0  0  0
+    1.3815   -0.4890   -0.1481 O   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11153
+
+>  <COMMON_NAME>  (1) 
+Potassium hydroxide
+
+>  <CAS_NUMBER>  (1) 
+1310-58-3
+
+>  <UNII>  (1) 
+WZH3C48M4T
+
+>  <SYNONYMS>  (1) 
+Ätzkali; hydroxyde de potassium; Kaliumhydroxid; potash lye; potasio hidróxido; potasse caustique; Potassium hydroxide
+
+$$$$

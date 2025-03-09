@@ -1,0 +1,44 @@
+
+     RDKit          3D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    2.3253    0.0037   -0.0437 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9453   -0.0035    0.0065 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2214    1.1875   -0.0056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1798    1.1719    0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8866   -0.0418    0.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1576   -1.2353   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2437   -1.2090   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3799    0.0235    0.0108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0435   -1.1502    0.0081 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9797    1.0905    0.0186 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  5  8  1  0
+  6  7  2  0
+  8  9  1  0
+  8 10  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02362
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02486
+
+>  <COMMON_NAME>  (1) 
+Aminobenzoic acid
+
+>  <CAS_NUMBER>  (1) 
+150-13-0
+
+>  <UNII>  (1) 
+TL2TJE8QTX
+
+>  <SYNONYMS>  (1) 
+1-Amino-4-carboxybenzene; 4-aminobenzoic acid; 4-Carboxyaniline; Aminobenzoic acid; p-Aminobenzoic acid; p-Carboxyaniline; p-Carboxyphenylamine; para-Aminobenzoic acid
+
+$$$$

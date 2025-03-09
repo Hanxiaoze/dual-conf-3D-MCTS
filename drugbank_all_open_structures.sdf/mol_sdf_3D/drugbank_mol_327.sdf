@@ -1,0 +1,53 @@
+
+ OpenBabel10282417103D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+    2.0442   -0.5981   -0.1122 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1721   -0.6242    0.0523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2371    0.7516    0.0606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4662   -1.0538    0.1592 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6028    1.0532    0.1706 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3677   -0.0449    0.2103 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9407   -1.3757   -0.0295 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1259    0.7542   -0.1144 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9669    1.4232   -0.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0397    2.7857   -0.0218 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9889   -1.1320   -0.1866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7949   -2.0079    0.2172 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0604    2.0320    0.2273 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954    2.9419   -0.1062 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  3  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  1  2  0  0  0  0
+  9  3  1  0  0  0  0
+  9  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00437
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00435; DB03027
+
+>  <COMMON_NAME>
+Allopurinol
+
+>  <CAS_NUMBER>
+315-30-0
+
+>  <UNII>
+63CZ7GJN5I
+
+>  <SYNONYMS>
+1,5-Dihydro-4H-pyrazolo(3,4-d)pyrimidin-4-one; 1,5-Dihydro-4H-pyrazolo(3,4-d)pyrimidine-4-one; 1H-Pyrazolo(3,4-d)pyrimidin-4-ol; 4-HPP; 4-Hydroxy-1H-pyrazolo(3,4-d)pyrimidine; 4-Hydroxy-3,4-pyrazolopyrimidine; 4-Hydroxypyrazolo(3,4-d)pyrimidine; 4-Hydroxypyrazolopyrimidine; 4-Hydroxypyrazolyl(3,4-d)pyrimidine; 4'-Hydroxypyrazolol(3,4-d)pyrimidine; 4H-Pyrazolo(3,4-d)pyrimidin-4-one; Allopurinol; Allopurinolum; Alopurinol
+
+$$$$

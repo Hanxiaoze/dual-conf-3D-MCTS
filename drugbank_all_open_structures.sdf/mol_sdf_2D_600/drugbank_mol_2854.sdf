@@ -1,0 +1,31 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03175
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02630
+
+>  <COMMON_NAME>  (1) 
+Propyl alcohol
+
+>  <CAS_NUMBER>  (1) 
+71-23-8
+
+>  <UNII>  (1) 
+96F264O9SV
+
+>  <SYNONYMS>  (1) 
+1-propanol; 1-proponol; N-propanol; N-propyl alcohol; Propanol
+
+$$$$

@@ -1,0 +1,43 @@
+1189
+     RDKit          3D
+
+ 10  9  0  0  1  0  0  0  0  0999 V2000
+    1.0551   -0.0107    0.0396 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5151    1.8185    1.5425 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2894    1.4249    0.3447 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5211    2.3025   -0.5879 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8785   -2.5678   -0.5313 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0727   -1.8398   -1.5292 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8291   -0.4485   -1.2766 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4166   -0.0157    0.0185 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9335    1.3939    0.3257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4192   -1.7735   -1.5259 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  9  1  0
+  3  9  1  0
+  4  9  1  0
+  5 10  1  0
+  6 10  1  0
+  7  8  1  0
+  7 10  1  0
+  8  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01189
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00907
+
+>  <COMMON_NAME>  (1) 
+Desflurane
+
+>  <CAS_NUMBER>  (1) 
+57041-67-5
+
+>  <UNII>  (1) 
+CRS35BZ94Q
+
+>  <SYNONYMS>  (1) 
+(±)-2-difluoromethyl 1,2,2,2-tetrafluoroethyl ether; 1,1,1,2-tetrafluoro-2-(difluoromethoxy)ethane; Desflurane; Desflurano; Desfluranum; Difluoromethyl 1,2,2,2-tetrafluoroethyl ether
+
+$$$$

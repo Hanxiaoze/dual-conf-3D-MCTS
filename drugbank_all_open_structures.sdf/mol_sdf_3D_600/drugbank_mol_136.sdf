@@ -1,0 +1,56 @@
+241
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   -2.4165   -1.0770   -0.1235 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3778   -1.2080    0.1309 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0472    2.6436   -0.0066 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1330    0.7279    0.0273 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1758    0.6855   -0.0146 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0174   -1.4661   -0.1093 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0538   -2.5156    1.0422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2678   -3.4750    1.0819 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0539   -2.0942   -1.5143 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2777   -0.6203   -0.0426 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2723   -0.6753    0.0381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3778   -4.4056   -0.1213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2302   -4.3503    2.3275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1791   -1.1352   -2.6547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0326    1.4124   -0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1714   -1.2071   -3.5422 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2 11  2  0
+  3 15  2  0
+  4 10  1  0
+  4 15  1  0
+  5 11  1  0
+  5 15  1  0
+  6  7  1  0
+  6  9  1  0
+  6 10  1  0
+  6 11  1  0
+  7  8  1  0
+  8 12  1  0
+  8 13  1  0
+  9 14  1  0
+ 14 16  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00241
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00266
+
+>  <COMMON_NAME>  (1) 
+Butalbital
+
+>  <CAS_NUMBER>  (1) 
+77-26-9
+
+>  <UNII>  (1) 
+KHS0AZ4JVK
+
+>  <SYNONYMS>  (1) 
+5-(2-methylpropyl)-5-prop-2-enyl-1,3-diazinane-2,4,6-trione; 5-allyl-5-(2-methylpropyl)barbituric acid; 5-allyl-5-(2'-methyl-n-propyl) barbituric acid; 5-allyl-5-isobutyl-2,4,6(1H,3H,5H)-pyrimidinetrione; 5-Allyl-5-isobutyl-pyrimidine-2,4,6-trione; 5-allyl-5-isobutylbarbituric acid; 5-isobutyl-5-allylbarbituric acid; Allylbarbital; Allylbarbitone; Allylbarbituric acid; Butalbarbital; Butalbital; Butalbitalum; iso-butylallylbarbituric acid; Itobarbital; Tetrallobarbital
+
+$$$$

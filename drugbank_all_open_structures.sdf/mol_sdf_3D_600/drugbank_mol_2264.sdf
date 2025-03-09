@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  1  0  0  0  0  0999 V2000
+    0.9358    0.0433   -0.0606 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4804    1.3718    0.2063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    1.8315    1.5627 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4269    1.8635    1.5180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4718    3.2153    1.8757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2709    3.4638    2.8252 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  6
+  3  5  1  0
+  5  6  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02536
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00170
+
+>  <COMMON_NAME>  (1) 
+D-glyceraldehyde
+
+>  <CAS_NUMBER>  (1) 
+453-17-8
+
+>  <UNII>  (1) 
+41A680M0WB
+
+>  <SYNONYMS>  (1) 
+D-(+)-glyceraldehyde; D-2,3-dihydroxypropanal; D-2,3-dihydroxypropionaldehyde; D-aldotriose; D-glycerose; Triose
+
+$$$$

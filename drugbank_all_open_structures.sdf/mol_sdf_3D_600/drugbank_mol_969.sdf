@@ -1,0 +1,63 @@
+1097
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    1.0638   -0.0594   -0.0525 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7909   -1.3467   -0.3966 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8069    0.7142   -1.0887 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8349    5.2609    3.2543 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4406    3.5823    6.5558 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2915    2.0345    4.9145 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8235    6.1970    3.4984 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0771    1.4888    3.6240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0205    0.3827    1.2483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2763    4.2860    4.6657 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0983    0.1050    3.4243 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7392    2.2806    2.5360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6011   -0.4432    2.2211 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0590    1.7519    1.4503 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0246    3.3033    5.4242 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0733    4.1387    3.9907 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4248   -0.0870   -0.0510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6470    5.6219    4.3785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543    3.0038    3.7351 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2 17  1  0
+  3 17  1  0
+  4  7  1  0
+  4 16  1  0
+  5 15  2  0
+  6  8  1  0
+  6 15  1  0
+  7 18  2  0
+  8 11  2  0
+  8 12  1  0
+  9 13  2  0
+  9 14  1  0
+  9 17  1  0
+ 10 15  1  0
+ 10 16  2  0
+ 10 18  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 16 19  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01097
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00205
+
+>  <COMMON_NAME>  (1) 
+Leflunomide
+
+>  <CAS_NUMBER>  (1) 
+75706-12-6
+
+>  <UNII>  (1) 
+G162GK9U4W
+
+>  <SYNONYMS>  (1) 
+4-ISOXAZOLECARBOXAMIDE, 5-METHYL-N-(4-(TRIFLUOROMETHYL)PHENYL)-; 5-Methyl-N-(4-(trifluoromethyl)phenyl)-4-isoxazolecarboxamide; 5-Methylisoxazole-4-carboxylic acid (4-trifluoromethyl)anilide; alpha,alpha,alpha-Trifluoro-5-methyl-4-isoxazolecarboxy-p-toluidide; Leflunomida; Leflunomide; Léflunomide; Leflunomidum; N-(4-(TRIFLUOROMETHYL)PHENYL) 5 METHYLISOXAZOLE-4-CARBOXAMIDE; N-[4-(trifluoromethyl)phenyl] 5 methylisoxazole-4-carboxamide
+
+$$$$

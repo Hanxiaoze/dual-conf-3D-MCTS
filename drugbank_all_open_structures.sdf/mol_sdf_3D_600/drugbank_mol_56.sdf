@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+   -0.6000   -0.2282    1.8721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2883   -0.8967    0.8008 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6001    1.1203    1.9207 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3089   -0.8815    2.6329 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5380   -1.7411   -0.0859 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0964    0.0638   -0.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  1  0
+  2  6  1  6
+  2  1  1  0
+  3  1  1  0
+  4  1  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00160
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00013
+
+>  <COMMON_NAME>  (1) 
+Alanine
+
+>  <CAS_NUMBER>  (1) 
+56-41-7
+
+>  <UNII>  (1) 
+OF5P57N2ZX
+
+>  <SYNONYMS>  (1) 
+(2S)-2-aminopropanoic acid; (S)-2-aminopropanoic acid; (S)-alanine; Alanina; Alanine; Alaninum; L-2-Aminopropionic acid; L-Alanin; L-alanine; L-alpha-Alanine; L-α-alanine
+
+$$$$

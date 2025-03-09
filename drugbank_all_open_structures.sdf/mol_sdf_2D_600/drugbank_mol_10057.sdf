@@ -1,0 +1,28 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+   -0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0718    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  2  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14189
+
+>  <COMMON_NAME>  (1) 
+Ethylenediamine
+
+>  <CAS_NUMBER>  (1) 
+107-15-3
+
+>  <UNII>  (1) 
+60V9STC53F
+
+>  <SYNONYMS>  (1) 
+1,2-diaminoethane; Aethaldiamin; edamine; ethane-1,2-diamine; Ethyleendiamine; Ethylendiamine; Ethylene-diamine; Ethylenediamine
+
+$$$$

@@ -1,0 +1,49 @@
+
+     RDKit          3D
+
+ 12 13  0  0  1  0  0  0  0  0999 V2000
+   -0.7130    0.0197   -0.2907 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0006   -1.1639    0.2440 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2400   -1.4763    1.7189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5628   -1.6781    4.0112 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7526   -1.4169    2.6928 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0321    1.1852    0.1718 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1356    0.1252   -0.0273 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4434   -0.7637   -0.1244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4774    0.7644   -0.0414 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5103   -1.8628    2.1726 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6883   -1.9862    4.3953 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7555   -2.0707    3.5277 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  3  1  1
+  5  3  1  0
+  5  4  2  0
+  6  1  1  0
+  7  1  1  0
+  8  2  1  0
+  9  6  1  0
+  9  8  1  0
+ 10  3  2  0
+ 11  4  1  0
+ 12 10  1  0
+ 12 11  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00184
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00200; EXPT02315; DB09463; DB11303
+
+>  <COMMON_NAME>  (1) 
+Nicotine
+
+>  <CAS_NUMBER>  (1) 
+54-11-5
+
+>  <UNII>  (1) 
+6M3C89ZY6R
+
+>  <SYNONYMS>  (1) 
+(−)-nicotine; (S)-(−)-nicotine; (S)-3-(1-methylpyrrolidin-2-yl)pyridine; (S)-3-(N-methylpyrrolidin-2-yl)pyridine; (S)-Nicotine; 3-(2-(N-methylpyrrolidinyl))pyridine; 3-(N-methylpyrollidino)pyridine; L(−)-nicotine; Nicotina; Nicotine; Nicotine betadex; Nicotine polacrilex; Nikotin; Nikotyna
+
+$$$$

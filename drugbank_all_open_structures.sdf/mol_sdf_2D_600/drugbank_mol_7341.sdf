@@ -1,0 +1,26 @@
+
+     RDKit          2D
+
+  4  0  0  0  0  0  0  0  0  0999 V2000
+   18.1330  -17.0817    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   17.5541  -18.1990    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   18.6436  -18.2070    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   17.9800  -17.7117    0.0000 Cr  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  4   1  -1   2  -1   3  -1   4   3
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09129
+
+>  <COMMON_NAME>  (1) 
+Chromic chloride
+
+>  <CAS_NUMBER>  (1) 
+10025-73-7
+
+>  <UNII>  (1) 
+Z310X5O5RP
+
+>  <SYNONYMS>  (1) 
+anhydrous chromium(III) chloride; Chromium chloride; Chromium trichloride; chromium(3+) trichloride; Chromium(III) chloride; Puratronic chromium chloride; Trichlorochromium
+
+$$$$

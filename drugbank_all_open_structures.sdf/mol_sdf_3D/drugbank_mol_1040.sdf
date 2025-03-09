@@ -1,0 +1,33 @@
+
+ OpenBabel10282417113D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0029    0.0825   -0.0564 As  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4637   -1.2302    1.0921 As  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8471    0.0825   -0.0564 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587    0.0825   -0.0564 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0156   -2.4050    2.1200 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB01169
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00171
+
+>  <COMMON_NAME>
+Arsenic trioxide
+
+>  <CAS_NUMBER>
+1327-53-3
+
+>  <UNII>
+S7V92P67HO
+
+>  <SYNONYMS>
+Acide Arsenieux; Anhydride Arsenieux; Arsenic Blanc; Arsenic oxide; Arsenic trioxide; Arsenic(III) oxide; arsénico trióxido; Arsenigen Saure; Arsenolite; Arsenous oxide; Arsenous oxide anhydride; Diarsenic oxide; Diarsenic trioxide; White arsenic
+
+$$$$

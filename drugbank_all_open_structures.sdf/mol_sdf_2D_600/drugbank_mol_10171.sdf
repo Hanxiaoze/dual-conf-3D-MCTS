@@ -1,0 +1,21 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Ra  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  1   1   2
+M  ISO  1   1 223
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14571
+
+>  <COMMON_NAME>  (1) 
+Radium Ra-223 cation
+
+>  <UNII>  (1) 
+9H414A99MD
+
+>  <SYNONYMS>  (1) 
+Radium-223 ion(2+); Radium, isotope of mass 223 (223Ra2+)
+
+$$$$

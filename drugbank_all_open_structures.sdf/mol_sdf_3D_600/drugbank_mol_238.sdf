@@ -1,0 +1,52 @@
+2148
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    1.0513    0.0220    0.1845 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7133   -1.0901    3.1800 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6084    0.8545    2.9041 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0157   -0.7823    0.9397 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6913    3.2267   -3.9071 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9400    0.8367   -0.9411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2766    0.0083    0.0936 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5051    2.1504   -1.1287 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9396    0.3168   -1.7691 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1083    2.4382   -2.9350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0867    2.9417   -2.1251 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5389    1.1254   -2.7378 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4588   -0.8002    1.1331 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9115   -0.2547    2.4799 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2 14  1  0
+  3 14  2  0
+  4  7  1  0
+  4 13  1  0
+  5 10  1  0
+  6  7  1  0
+  6  8  2  0
+  6  9  1  0
+  8 11  1  0
+  9 12  2  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 14  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00345
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00792
+
+>  <COMMON_NAME>  (1) 
+Aminohippuric acid
+
+>  <CAS_NUMBER>  (1) 
+61-78-9
+
+>  <UNII>  (1) 
+Y79XT83BJ9
+
+>  <SYNONYMS>  (1) 
+4-aminohippuric acid; Aminohippurate; Aminohippuric acid; N-(p-Aminobenzoyl)aminoacetic acid; N-(p-Aminobenzoyl)glycine; N-(para-aminobenzoyl)glycine; p-aminohippurate; p-aminohippuric acid; PAH; PAHA; para-aminohippurate; para-aminohippuric acid ; paraaminohippuric acid
+
+$$$$

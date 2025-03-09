@@ -1,0 +1,26 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   -0.0249   -0.0045    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.0027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.0045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16426
+
+>  <COMMON_NAME>  (1) 
+Sulfur dioxide
+
+>  <CAS_NUMBER>  (1) 
+7446-09-5
+
+>  <UNII>  (1) 
+0UZA3422Q4
+
+>  <SYNONYMS>  (1) 
+Schwefeldioxyd; Siarki dwutlenek; Sulfurous oxide; Sulfuroxide
+
+$$$$

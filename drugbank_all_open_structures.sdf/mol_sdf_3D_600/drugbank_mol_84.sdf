@@ -1,0 +1,41 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.9554   -0.0288    0.0848 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3484   -0.0288    0.0848 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4754   -0.0288    0.0848 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9807    0.2345    1.4786 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7746   -0.5917    2.1758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3360   -0.2454    3.7534 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9220   -1.3120   -0.3491 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9819    1.0284   -0.9084 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5073    0.7540   -2.3352 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  3  0
+  3  1  1  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  3  1  0
+  8  3  1  0
+  9  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00189
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00958
+
+>  <COMMON_NAME>  (1) 
+Ethchlorvynol
+
+>  <CAS_NUMBER>  (1) 
+113-18-8
+
+>  <UNII>  (1) 
+6EIM3851UZ
+
+>  <SYNONYMS>  (1) 
+1-chloro-3-ethyl-1-penten-4-yn-3-ol; 1-Chloro-3-ethyl-pent-1-en-4-yn-3-ol; 3-(beta-chlorovinyl)-1-pentyn-3-ol; 3-(β-chlorovinyl)-1-pentyn-3-ol; etclorvinol; Ethchlorvynol; ethyl β-chlorovinyl ethynyl carbinol; β-chlorovinyl ethyl ethynyl carbinol
+
+$$$$

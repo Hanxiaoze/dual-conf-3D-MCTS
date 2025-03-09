@@ -1,0 +1,48 @@
+4021
+     RDKit          3D
+
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+    2.3137   -0.5285   -0.0992 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5961    1.0924    0.1299 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7854    1.1208    0.1388 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310   -1.1016    0.1289 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1617   -0.1197    0.0502 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -0.1838    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2985    2.3075    0.1393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5837   -0.5575   -0.0775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2352    2.6085   -0.8541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0550    3.2361    1.1575 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8859    3.8467   -0.8535 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7048    4.4725    1.1566 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6265    4.7742    0.1556 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  2  3  1  0
+  2  6  1  0
+  2  7  1  0
+  3  5  2  0
+  4  5  1  0
+  4  6  1  0
+  5  8  1  0
+  7  9  2  0
+  7 10  1  0
+  9 11  1  0
+ 10 12  2  0
+ 11 13  2  0
+ 12 13  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB12243
+
+>  <COMMON_NAME>  (1) 
+Edaravone
+
+>  <CAS_NUMBER>  (1) 
+89-25-8
+
+>  <UNII>  (1) 
+S798V6YJRP
+
+>  <SYNONYMS>  (1) 
+1-phenyl-3-methyl-5-oxo-2-pyrazoline; 2,4-dihydro-5-methyl-2-phenyl-3H-pyrazol-3-one; 3-methyl-1-phenyl-2-pyrazolin-5-one; 3-methyl-1-phenyl-5-pyrazolone; 3-methyl-1-phenylpyrazol-5-one; Edaravone; Methylphenylpyrazolone; Norphenazone; Phenyl methyl pyrazolone; Phenylmethylpyrazolone
+
+$$$$

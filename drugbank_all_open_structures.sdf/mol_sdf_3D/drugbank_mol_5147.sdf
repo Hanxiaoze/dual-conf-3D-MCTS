@@ -1,0 +1,32 @@
+
+ OpenBabel10282417163D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    0.3912   -0.6677   -0.2051 Cu  0  2  0  0  0  0  0  0  0  0  0  0
+    1.4733    0.6553    0.0215 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9163    0.2785   -0.0525 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6843    1.4027   -0.4649 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2093   -0.2854    1.2646 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8168   -0.8336   -1.0169 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+M  CHG  3   1   2   2  -1   4  -1
+M  END
+>  <DRUGBANK_ID>
+DB06778
+
+>  <COMMON_NAME>
+Cupric sulfate
+
+>  <CAS_NUMBER>
+7758-98-7
+
+>  <UNII>
+KUW2Q3U1VV
+
+>  <SYNONYMS>
+Copper monosulfate; Copper monosulphate; Copper sulfate; Copper sulfate (1:1); Copper sulphate; Copper(2+) sulfate; Copper(II) sulphate; Cupric sulfate anhydrous; Cupric sulfate, anhydrous; Cupric sulphate anhydrous; Cupric sulphate, anhydrous
+
+$$$$

@@ -1,0 +1,38 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.7223   -0.2888    0.2430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7911   -1.7943   -0.6330 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8465   -1.3007   -2.1672 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9095   -2.7233   -0.2964 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4517    0.6279    1.7193 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9251    0.8172    2.3291 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1779    1.9586    1.3864 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2782    0.0084    2.9801 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5787   -2.5853   -0.8448 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  2  3  1  0
+  2  4  2  0
+  2  9  1  0
+  5  6  1  0
+  5  7  2  0
+  5  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14078
+
+>  <COMMON_NAME>  (1) 
+Medronic acid
+
+>  <CAS_NUMBER>  (1) 
+1984-15-2
+
+>  <UNII>  (1) 
+73OS0QIN3O
+
+>  <SYNONYMS>  (1) 
+Acide medronique; Acido medronico; Acidum medronicum; Medronate; Medronic acid; methanebisphosphonic acid; methanediphosphonic acid; methanediylbis(phosphonic acid); Methylene-1,1-bisphosphonic acid; Methylenediphosphonic acid
+
+$$$$

@@ -1,0 +1,47 @@
+2723601
+     RDKit          3D
+
+ 11 12  0  0  0  0  0  0  0  0999 V2000
+    0.8770    0.0501    0.0856 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3587    0.0156    0.0715 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9329   -2.4183    0.0839 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1631   -2.3855    0.0751 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3142    1.2650    0.0787 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3393    2.3061    0.0749 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2972   -1.0995    0.0810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6630   -1.1237    0.0758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5477    0.1169    0.0818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6149    1.1647    0.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0906   -3.1550    0.0798 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2  8  1  0
+  2 10  1  0
+  3  7  1  0
+  3 11  1  0
+  4  8  1  0
+  4 11  2  0
+  5  9  1  0
+  5 10  2  0
+  6 10  1  0
+  7  8  2  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00352
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00290
+
+>  <COMMON_NAME>  (1) 
+Tioguanine
+
+>  <CAS_NUMBER>  (1) 
+154-42-7
+
+>  <UNII>  (1) 
+WIX31ZPX66
+
+>  <SYNONYMS>  (1) 
+2-Amino 6MP; 2-Amino-1,7-dihydro-6H-purine-6-thione; 2-amino-1,9-dihydropurine-6-thione; 2-Amino-6-mercaptopurine; 2-Amino-6-merkaptopurin; 2-Amino-6-purinethiol; 2-Aminopurin-6-thiol; 2-Aminopurine-6-thiol; 2-Aminopurine-6(1H)-thione; 6-Mercapto-2-aminopurine; 6-Mercaptoguanine; 6-TG; 6-Thioguanine; TG; ThG; Thioguanine; Thioguanine anhydrous; Thioguanine, anhydrous; Tioguanin; Tioguanina; Tioguanine; Tioguaninum
+
+$$$$

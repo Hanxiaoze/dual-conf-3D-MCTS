@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    0.8606   -0.1373    0.0099 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3683    4.5722    1.1192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5263    3.9340    1.5633 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5077    3.9209    0.2282 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8507    2.6664    1.0862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8236    2.6375   -0.2512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0327    2.0566    0.1378 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9206    2.0035   -1.2431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4919    0.9268   -0.4755 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4473    2.7006   -2.1417 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5866    0.6906   -1.1333 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  2  1  0
+  5  3  1  0
+  6  4  2  0
+  7  5  2  0
+  7  6  1  0
+  8  6  1  0
+  9  7  1  0
+ 10  8  2  0
+ 11  1  1  0
+ 11  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09543
+
+>  <COMMON_NAME>  (1) 
+Methyl salicylate
+
+>  <CAS_NUMBER>  (1) 
+119-36-8
+
+>  <UNII>  (1) 
+LAV5U5022Y
+
+>  <SYNONYMS>  (1) 
+2-(Methoxycarbonyl)phenol; 2-Carbomethoxyphenol; 2-Hydroxybenzoic acid methyl ester; Betula oil; Gaultheria oil; Methyl 2-hydroxybenzoate; Methyl o-hydroxybenzoate; Methyl salicylate; Natural wintergreen oil; Oil of wintergreen; Spicewood Oil; Sweet birch oil; Teaberry oil
+
+$$$$

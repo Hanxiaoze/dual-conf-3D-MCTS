@@ -1,0 +1,77 @@
+433
+     RDKit          2D
+
+ 25 28  0  0  0  0  0  0  0  0999 V2000
+    7.8100   -0.9572    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.0139   -2.5606    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6420    1.3999    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2701    2.1919    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0139   -0.9764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9561    1.0038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6420    2.1919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3280    1.0038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2701    1.3999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9561    2.5879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3280    0.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0139   -0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841    2.5879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6999   -1.3725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3280   -1.3725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6999   -2.1645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3280   -2.1645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4080   -0.9489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6199   -0.9489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4080   -2.5879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6199   -2.5879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1257   -1.3560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9022   -1.3560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1257   -2.1810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9022   -2.1810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0
+  2 16  1  0
+  2 17  1  0
+  3  6  1  0
+  3  7  1  0
+  3  8  1  0
+  4  9  1  0
+  4 10  1  0
+  4 13  1  0
+  5 12  1  0
+  5 14  1  0
+  5 15  1  0
+  6  9  1  0
+  7 10  1  0
+  8 11  1  0
+ 11 12  1  0
+ 14 16  2  0
+ 14 18  1  0
+ 15 17  2  0
+ 15 19  1  0
+ 16 20  1  0
+ 17 21  1  0
+ 18 22  2  0
+ 19 23  2  0
+ 20 24  2  0
+ 21 25  2  0
+ 22 24  1  0
+ 23 25  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00433
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00624
+
+>  <COMMON_NAME>  (1) 
+Prochlorperazine
+
+>  <CAS_NUMBER>  (1) 
+58-38-8
+
+>  <UNII>  (1) 
+YHP6YLT61T
+
+>  <SYNONYMS>  (1) 
+2-Chloro-10-(3-(1-methyl-4-piperazinyl)propyl)-phenothiazine; 2-Chloro-10-(3-(4-methyl-1-piperazinyl)propyl)phenothiazine; 3-Chloro-10-(3-(1-methyl-4-piperazinyl)propyl)phenothiazine; 3-Chloro-10-(3-(4-methyl-1-piperazinyl)propyl)phenothiazine; Capazine; Chlormeprazine; Chloro-3 (N-methylpiperazinyl-3 propyl)-10 phenothiazine; Chloropernazine; N-(gamma-(4'-Methylpiperazinyl-1')propyl)-3-chlorophenothiazine; Prochlorperazin; Prochlorpérazine; Prochlorperazine; Prochlorperazinum; Prochlorpermazine; Prochlorpromazine; Procloperazine; Proclorperazina
+
+$$$$

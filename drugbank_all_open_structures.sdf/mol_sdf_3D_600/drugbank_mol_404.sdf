@@ -1,0 +1,67 @@
+
+     RDKit          3D
+
+ 21 21  0  0  1  0  0  0  0  0999 V2000
+    1.3355   -0.0960    0.3191 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6946   -0.0170    0.1231 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2437    0.9004   -0.4893 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3892    0.8590    1.5196 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0471   -0.4074    0.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2530    1.0404    2.8363 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3419   -0.9297    2.5539 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2031   -1.0925    0.8970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3738    1.6079    2.2581 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1533    1.1686   -2.3654 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1060    1.2353    4.2388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8553    0.6231    3.2986 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5842    1.0923    2.8628 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1928    3.0914    2.1262 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5581   -1.1011    0.7538 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4375   -1.1907    2.2570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1755   -2.4038    0.1003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1311   -1.8200    2.5911 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4063   -3.1149    2.1825 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4521   -2.5248   -1.3531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9167   -2.3131   -1.5248 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  3  2  0
+  2 15  1  0
+  4  9  1  0
+  4 12  1  1
+  5  4  1  0
+  6  9  1  0
+  6 11  1  1
+  7  6  1  0
+  7  8  1  0
+  8  1  1  0
+  8  5  1  0
+  9 13  1  0
+  9 14  1  0
+ 12 11  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 16 18  1  0
+ 17 20  1  0
+ 18 19  1  0
+ 20 21  1  0
+M  CHG  2   9   1  10  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00517
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00800
+
+>  <COMMON_NAME>  (1) 
+Anisotropine methylbromide
+
+>  <CAS_NUMBER>  (1) 
+80-50-2
+
+>  <UNII>  (1) 
+62M960DHIL
+
+>  <SYNONYMS>  (1) 
+8-Methyl-3-(2-propylpentanoyloxy)tropinium bromide; 8-Methyltropinium bromide 2-propylpentanoate; 8-Methyltropinium bromide 2-propylvalerate; Anisotropine methobromide; Anisotropine methylbromide; endo-8,8-Dimethyl-3-((1-oxo-2-propylpentyl)oxy)-8-azoniabicyclo(3.2.1)octane bromide; Méthylbromure d'octatropine; Methyloctatropine bromide; Metilbromuro de octatropina; Octatropine methylbromide; Octatropini methylbromidum
+
+$$$$

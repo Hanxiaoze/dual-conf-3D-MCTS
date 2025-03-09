@@ -1,0 +1,35 @@
+
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    2.4750   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09462
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01027; DB04077
+
+>  <COMMON_NAME>  (1) 
+Glycerin
+
+>  <CAS_NUMBER>  (1) 
+56-81-5
+
+>  <UNII>  (1) 
+PDC6A3C0OX
+
+>  <SYNONYMS>  (1) 
+1,2,3-propanetriol; 1,2,3-trihydroxypropane; Glycerin; Glycerin, anhydrous; Glycerin,anhydrous; Glycerine; glycérine; Glycerinum; Glycerol; glycérol; Glyzerin; Monoctanoin component D; Ölsüß; Propanetriol; Trihydroxypropane
+
+$$$$

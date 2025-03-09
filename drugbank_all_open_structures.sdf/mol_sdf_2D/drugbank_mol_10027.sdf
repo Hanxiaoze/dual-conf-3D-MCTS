@@ -1,0 +1,26 @@
+
+ OpenBabel10282417072D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.8975   -0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB14135
+
+>  <COMMON_NAME>
+Hypochlorous acid
+
+>  <CAS_NUMBER>
+7790-92-3
+
+>  <UNII>
+712K4CDC10
+
+>  <SYNONYMS>
+Chlor(I)-säure; Chloranol; Hydroxidochlorine; Hypochlorige Säure
+
+$$$$

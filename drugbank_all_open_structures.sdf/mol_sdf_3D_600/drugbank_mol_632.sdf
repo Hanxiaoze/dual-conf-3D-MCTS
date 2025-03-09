@@ -1,0 +1,56 @@
+750
+     RDKit          3D
+
+ 16 16  0  0  1  0  0  0  0  0999 V2000
+    1.0383    0.2020   -0.2163 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6057   -0.2503    2.4172 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0922    0.7773   -0.9604 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8908   -0.7637    1.0550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4476   -0.9441    3.4175 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9678   -0.8049    3.2085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2665    0.0842   -0.0828 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4880   -2.2450    0.9684 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5059    0.7588   -1.0881 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2805   -0.4164   -1.0294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3988    0.6513    3.2538 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1669    1.9764   -1.2940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6772   -0.3463   -0.9749 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6924   -1.7888   -1.0368 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5691    2.0310   -1.2837 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3214    0.8738   -1.0969 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  2  4  1  0
+  2  5  1  0
+  3  7  1  0
+  3  9  1  0
+  4  7  1  0
+  4  8  1  0
+  5  6  1  0
+  6 11  1  0
+  9 10  2  0
+  9 12  1  0
+ 10 13  1  0
+ 10 14  1  0
+ 12 15  2  0
+ 13 16  2  0
+ 15 16  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00750
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00180
+
+>  <COMMON_NAME>  (1) 
+Prilocaine
+
+>  <CAS_NUMBER>  (1) 
+721-50-6
+
+>  <UNII>  (1) 
+046O35D44R
+
+>  <SYNONYMS>  (1) 
+2-(Propylamino)-o-propionotoluidide; 2-Methyl-alpha-propylaminopropionanilide; alpha-n-Propylamino-2-methylpropionanilide; N-(2-Methylphenyl)-2-(propylamino)propanamide; o-Methyl-2-propylaminopropionanilide; o-Methyl-alpha-propylaminopropionanilide; Prilocain; Prilocaina; Prilocaïne; Prilocaine; Prilocaine base; Prilocainum; Propitocaine
+
+$$$$

@@ -1,0 +1,46 @@
+
+     RDKit          3D
+
+ 13 12  0  0  1  0  0  0  0  0999 V2000
+    0.1572   -3.7965    0.8888 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4797   -5.0420    0.5528 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1598   -5.4962   -0.5182 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6596   -6.6898   -0.5600 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3476   -4.7804   -1.6256 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1502   -3.4050   -1.8955 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1206   -3.2300   -3.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8113   -3.2473   -4.3489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4815   -1.8785   -4.5707 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2886   -1.3854   -3.4464 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3457   -1.9256   -5.8299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9054   -1.0609   -6.7819 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3390   -2.6002   -5.9671 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  9 11  1  0
+  9 10  1  1
+  9  8  1  0
+ 11 12  1  0
+ 11 13  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11815
+
+>  <COMMON_NAME>  (1) 
+Tilarginine
+
+>  <CAS_NUMBER>  (1) 
+17035-90-4
+
+>  <UNII>  (1) 
+27JT06E6GR
+
+>  <SYNONYMS>  (1) 
+L-Monomethylarginine; L-Ng-monomethyl Arginine; L-NMMA; N-Methylarginine; N-Monomethyl-L-arginine; N(G)-Methylarginine; N(G)-Monomethyl-L-arginine; N5-(Methylamidino)-L-ornithine; NG-Monomethyl-L-arginine; omega-N-Methylarginine; omega-N-Monomethylarginine; Targinine; Tilarginine
+
+$$$$

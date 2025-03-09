@@ -1,0 +1,39 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  6  1  0
+  4  5  1  0
+  6  7  1  0
+  6  8  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02520
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01132
+
+>  <COMMON_NAME>  (1) 
+Ditiocarb
+
+>  <CAS_NUMBER>  (1) 
+147-84-2
+
+>  <UNII>  (1) 
+99Z2744345
+
+>  <SYNONYMS>  (1) 
+diethyl dithiocarbamate; diethyl-dithiocarbamate; diethylcarbamodithioic acid; diethyldithiocarbamate; diethyldithiocarbamic acid
+
+$$$$

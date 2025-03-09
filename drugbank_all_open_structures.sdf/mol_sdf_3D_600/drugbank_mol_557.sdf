@@ -1,0 +1,58 @@
+672
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+   -2.4646   -0.4871   -0.0062 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1810   -0.1553   -0.2513 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3876   -0.7315    1.0755 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8480   -0.7727   -1.3792 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8485    4.0057   -0.0839 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8202    1.6258   -0.1324 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9089    3.0694    0.5793 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3977    1.8022    0.7584 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0843   -0.3819   -0.7074 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2680    1.3304    1.6742 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2005    2.9386    0.0963 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0863    0.7015   -1.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5079   -1.5706   -0.2620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0559    2.0641    1.7343 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3046    0.6655   -0.9908 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0662   -1.5980   -0.1975 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8056   -0.4958   -0.4817 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  3  2  0
+  2  4  2  0
+  2  6  1  0
+  2  9  1  0
+  5 11  2  0
+  6 11  1  0
+  7  8  1  0
+  7 11  1  0
+  8 10  1  0
+  9 12  2  0
+  9 13  1  0
+ 10 14  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00672
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00029
+
+>  <COMMON_NAME>  (1) 
+Chlorpropamide
+
+>  <CAS_NUMBER>  (1) 
+94-20-2
+
+>  <UNII>  (1) 
+WTM2C3IL2X
+
+>  <SYNONYMS>  (1) 
+1-(p-chlorobenzenesulfonyl)-3-propylurea; 1-(p-chlorophenylsulfonyl)-3-propylurea; 1-propyl-3-(p-chlorobenzenesulfonyl)urea; 4-chloro-N-((propylamino)carbonyl)benzenesulfonamide; 4-chloro-N-[(propylamino)carbonyl]benzenesulfonamide; Chlorpropamid; Chlorpropamide; Chlorpropamidum; Clorpropamida; N-(4-chlorophenylsulfonyl)-N'-propylurea; N-(p-chlorobenzenesulfonyl)-N'-propylurea; n-propyl-N'-(p-chlorobenzenesulfonyl)urea; n-propyl-N'-p-chlorophenylsulfonylcarbamide
+
+$$$$

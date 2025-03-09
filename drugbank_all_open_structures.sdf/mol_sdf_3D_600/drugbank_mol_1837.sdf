@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    1.0023    0.0416   -0.0146 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5549   -1.0904    0.7913 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9475   -2.2982    0.1541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3792   -2.4818   -1.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3153   -2.6086   -2.2211 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8202   -2.5420   -1.4986 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02079
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00528
+
+>  <COMMON_NAME>  (1) 
+Aminooxyacetic acid
+
+>  <CAS_NUMBER>  (1) 
+645-88-5
+
+>  <UNII>  (1) 
+14I68GI3OQ
+
+>  <SYNONYMS>  (1) 
+(aminooxy)acetic acid; aminoxyacetic acid; AOAA; carboxymethoxyamine; Carboxymethoxylamine
+
+$$$$

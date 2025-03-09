@@ -1,0 +1,26 @@
+
+ OpenBabel10282417072D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   -0.7149   -0.2069    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2069    0.0000 Zn  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7149   -0.2028    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB15961
+
+>  <COMMON_NAME>
+Zinc iodide
+
+>  <CAS_NUMBER>
+10139-47-6
+
+>  <UNII>
+762R7A0O0B
+
+>  <SYNONYMS>
+Diiodozinc; Zinc diiodide
+
+$$$$

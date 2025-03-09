@@ -1,0 +1,36 @@
+
+ OpenBabel10282417183D
+
+  8  6  0  0  0  0  0  0  0  0999 V2000
+    0.8407    2.5557    1.2847 K   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0236   -0.0941   -0.0244 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4469    0.8995   -1.3179 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7770    1.3205   -0.3026 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6024    1.7939   -0.8263 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1297    1.8930   -2.6114 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9695    0.1681   -0.0596 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5811    0.9377   -0.6827 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  CHG  2   1   1   6  -1
+M  END
+>  <DRUGBANK_ID>
+DB09413
+
+>  <COMMON_NAME>
+Monopotassium phosphate
+
+>  <CAS_NUMBER>
+7778-77-0
+
+>  <UNII>
+4J9FJ0HL51
+
+>  <SYNONYMS>
+Monobasic potassium phosphate; Monopotassium dihydrogen monophosphate; Monopotassium dihydrogen orthophosphate; Monopotassium dihydrogen phosphate; Monopotassium monophosphate; Monopotassium orthophosphate; Phosphoric acid, monopotassium salt; Potassium acid phosphate; Potassium biphosphate; Potassium dihydrogen orthophosphate; Potassium dihydrogen phosphate; Potassium phosphate; Potassium phosphate monobasic; Potassium phosphate monobasic (anhydrous); Potassium phosphate, monobasic; Potassium phosphate,monobasic
+
+$$$$

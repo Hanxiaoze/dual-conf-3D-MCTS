@@ -1,0 +1,90 @@
+
+ OpenBabel10282417072D
+
+ 34 35  0  0  0  0  0  0  0  0999 V2000
+   -0.1767    0.7455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2567   -0.0390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0537   -0.2527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0018    0.7455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4142    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5891   -0.5240    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5891   -1.3490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5891   -2.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1252   -2.5866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1252   -1.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3037   -1.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3037   -2.5866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0782   -0.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8751   -0.2527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2359    1.4599    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0610    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1767    2.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8104    0.5038    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3305   -1.2863    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0872   -0.5298    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8791    2.3865    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4842    1.4600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9491    2.3866    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5890   -4.0311    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0190   -3.1026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0190   -1.2457    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1974   -1.2456    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1974   -3.1026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5960    0.5333    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5960    2.3865    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1310    1.4599    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3583    3.1012    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2467    2.1745    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7117    3.1011    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6  2  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13  1  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB01424
+
+>  <COMMON_NAME>
+Aminophenazone
+
+>  <CAS_NUMBER>
+58-15-1
+
+>  <UNII>
+01704YP3MO
+
+>  <SYNONYMS>
+(Dimethylamino)phenazone; 1-Phenyl-2,3-dimethyl-4-(dimethylamino)-5-pyrazolone; 1-Phenyl-2,3-dimethyl-4-dimethylaminopyrazol-5-one; 1,5-Dimethyl-4-dimethylamino-2-phenyl-3-pyrazolone; 2,3-Dimethyl-4-dimethylamino-1-phenyl-5-pyrazolone; 3-Keto-1,5-dimethyl-4-dimethylamino-2-phenyl-2,3-dihydropyrazole; 4-(Dimethylamino)-1,2-dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one; 4-(Dimethylamino)-1,5-dimethyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-one; 4-(Dimethylamino)antipyrine; 4-Dimethylamino-1-phenyl-2,3-dimethylpyrazolone; 4-Dimethylamino-2,3-dimethyl-1-phenyl-3-pyrazolin-5-one; 4-Dimethylamino-2,3-dimethyl-1-phenyl-5-pyrazolone; 4-Dimethylaminoantipyrine; 4-Dimethylaminophenazone; Aminofenazona; Aminofenazone; Aminophenazon; Aminophenazone; Aminophenazonum; Aminopyrine; Dimethylaminoantipyrine; Dimethylaminoazophene; Dimethylaminophenazon; Dimethylaminophenazone; Dimethylaminophenyldimethylpyrazolone; Dipyrine
+
+$$$$

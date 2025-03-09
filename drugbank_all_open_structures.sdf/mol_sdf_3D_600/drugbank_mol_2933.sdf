@@ -1,0 +1,38 @@
+
+     RDKit          3D
+
+  7  7  0  0  0  0  0  0  0  0999 V2000
+    2.2666    0.0065    0.0122 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9029   -0.0188    0.0119 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1948   -1.2178    0.0092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2016   -1.1879   -0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8768    0.0337   -0.0099 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1571    1.2291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2371    1.2014    0.0120 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03255
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01917
+
+>  <COMMON_NAME>  (1) 
+Phenol
+
+>  <CAS_NUMBER>  (1) 
+108-95-2
+
+>  <UNII>  (1) 
+339NCG44TV
+
+>  <SYNONYMS>  (1) 
+Acide carbolique; Acide phénique; Benzenol; Carbolic acid; Carbolsäure; Fenol; Hydroxybenzene; Karbolsäure; Monohydroxybenzene; Oxybenzene; Phenic Acid; Phenol; Phenyl alcohol; Phenyl hydroxide; Phenylic acid; Phenylic alcohol; PHOH
+
+$$$$

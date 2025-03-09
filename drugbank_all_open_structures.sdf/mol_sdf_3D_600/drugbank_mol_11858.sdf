@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    0.9067    0.0113    0.0863 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3374   -0.9432   -0.6636 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0029   -1.7607   -1.2800 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1306   -0.9125   -0.6612 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8663   -0.0127    0.0103 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3361   -0.0384    0.0368 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0353   -1.2393    0.2195 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4262   -1.2442    0.3444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1323   -0.0448    0.3157 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4472    1.1586    0.1594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0590    1.1600   -0.0151 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  6 11  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB18313
+
+>  <COMMON_NAME>  (1) 
+Cinnamic acid
+
+>  <CAS_NUMBER>  (1) 
+140-10-3
+
+>  <UNII>  (1) 
+U14A832J8D
+
+>  <SYNONYMS>  (1) 
+2-propenoic acid, 3-phenyl-; 2-propenoic acid, 3-phenyl-, (2e)-; 2-propenoic acid, 3-phenyl-, (e)-; 3-phenyl-2-propenoic acid; 3-phenylacrylic acid; 3-phenylpropenoic acid; Cinnamic acid (constituent of cinnamomum verum bark); Cinnamic acid, (e)-; Cinnamic acid, trans-; Cinnamic acidum; E-cinnamic acid; Trans-cinnamic acid; Trans-cinnamic acid (constituent of cinnamomum cassia bark)
+
+$$$$

@@ -1,0 +1,49 @@
+916
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    2.3876   -1.5382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1674    1.3064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7258   -0.0526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022    0.5244    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6897    1.7939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5542    0.7543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022   -0.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.7132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5147    1.7939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2  6  1  0
+  3  6  2  0
+  4  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5  8  2  0
+  5 11  1  0
+  6  9  1  0
+  7 10  1  0
+  8 12  1  0
+  9 11  2  0
+M  CHG  2   2  -1   6   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00916
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00631
+
+>  <COMMON_NAME>  (1) 
+Metronidazole
+
+>  <CAS_NUMBER>  (1) 
+443-48-1
+
+>  <UNII>  (1) 
+140QMO216E
+
+>  <SYNONYMS>  (1) 
+1-(2-hydroxy-1-ethyl)-2-methyl-5-nitroimidazole; 1-(2-hydroxyethyl)-2-methyl-5-nitroimidazole; 1-(β-ethylol)-2-methyl-5-nitro-3-azapyrrole; 1-(β-hydroxyethyl)-2-methyl-5-nitroimidazole; 1-(β-oxyethyl)-2-methyl-5-nitroimidazole; 2-methyl-1-(2-hydroxyethyl)-5-nitroimidazole; 2-methyl-3-(2-hydroxyethyl)-4-nitroimidazole; 2-methyl-5-nitroimidazole-1-ethanol; Metronidazol; Métronidazole; Metronidazole; Metronidazolum
+
+$$$$

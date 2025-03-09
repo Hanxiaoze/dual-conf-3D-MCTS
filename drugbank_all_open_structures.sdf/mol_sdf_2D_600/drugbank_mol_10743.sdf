@@ -1,0 +1,28 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+   -0.0326    0.1924    0.0000 Fe  0  0  0  0  0  3  0  0  0  0  0  0
+    0.3799    0.9069    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3799   -0.5221    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8577    0.1924    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB15536
+
+>  <COMMON_NAME>  (1) 
+Ferric chloride
+
+>  <CAS_NUMBER>  (1) 
+7705-08-0
+
+>  <UNII>  (1) 
+U38V3ZVV3V
+
+>  <SYNONYMS>  (1) 
+Ferric chloride, anhydrous; Iron (III) chloride; Iron chloride; Iron perchloride
+
+$$$$

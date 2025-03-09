@@ -1,0 +1,50 @@
+
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   -1.1816   -1.2068   -0.0072 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0715    1.1782   -0.2861 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2195   -1.2538    0.0159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3082    1.1505   -0.1348 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3501    0.1392   -0.0378 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8433    0.0225   -0.1187 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9490   -0.0679   -0.0105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8874    0.8604    1.2263 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.4622    2.3388    1.3345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3779    0.8121    1.1887 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3095   -0.0426    0.0517 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1360    3.3069    0.9998 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2172    2.5177    1.8128 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  4  2  1  0
+  6  1  1  0
+  6  2  2  0
+  6  5  1  0
+  7  3  1  0
+  7  4  2  0
+  8  5  1  0
+  8  9  1  0
+  8 10  1  6
+ 11  7  1  0
+ 12  9  2  0
+ 13  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00135
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00059
+
+>  <COMMON_NAME>  (1) 
+Tyrosine
+
+>  <CAS_NUMBER>  (1) 
+60-18-4
+
+>  <UNII>  (1) 
+42HK56048U
+
+>  <SYNONYMS>  (1) 
+(−)-α-amino-p-hydroxyhydrocinnamic acid; (2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid; (S)-(-)-Tyrosine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; (S)-3-(p-Hydroxyphenyl)alanine; (S)-alpha-amino-4-Hydroxybenzenepropanoic acid; (S)-Tyrosine; (S)-α-amino-4-hydroxybenzenepropanoic acid; 4-hydroxy-L-phenylalanine; L-Tyrosin; L-tyrosine; Tirosina; Tyr; Tyrosine; Tyrosinum; Y
+
+$$$$

@@ -1,0 +1,50 @@
+
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   -0.3571    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1 12  1  0
+  2 11  1  0
+  3 11  2  0
+  4 12  2  0
+  5  6  2  0
+  5  7  1  0
+  6  8  1  0
+  6 11  1  0
+  7  9  2  0
+  8 10  2  0
+  9 10  1  0
+ 12 13  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00945
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00264; EXPT00475
+
+>  <COMMON_NAME>  (1) 
+Acetylsalicylic acid
+
+>  <CAS_NUMBER>  (1) 
+50-78-2
+
+>  <UNII>  (1) 
+R16CO5Y76E
+
+>  <SYNONYMS>  (1) 
+2-Acetoxybenzenecarboxylic acid; 2-Acetoxybenzoic acid; Acetylsalicylate; Acetylsalicylsäure; acide 2-(acétyloxy)benzoïque; Acide acétylsalicylique; ácido acetilsalicílico; Acidum acetylsalicylicum; ASA; Aspirin; Aspirina; Azetylsalizylsäure; o-acetoxybenzoic acid; O-acetylsalicylic acid; o-carboxyphenyl acetate; Polopiryna; Salicylic acid acetate
+
+$$$$

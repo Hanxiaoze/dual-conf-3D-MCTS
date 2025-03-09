@@ -1,0 +1,63 @@
+
+     RDKit          3D
+
+ 20 18  0  0  0  0  0  0  0  0999 V2000
+    0.7564    0.1175    0.0447 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4367   -0.4973    1.3538 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2820    1.5538   -0.2031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9079    2.1189   -1.4801 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5090    1.4730   -2.8151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0497    1.2098   -2.7990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7639    2.5073   -3.0413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4002    3.0221   -4.4144 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7162    1.9931   -5.4988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1269    1.4349   -4.2453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6204    1.5389   -4.3073 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2750   -0.8592   -0.9965 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8121   -0.9552   -2.4051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3691   -0.8445   -2.3419 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3903   -1.5783   -3.7253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8810   -2.0888    1.8290 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4433   -2.9884    0.7951 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3341   -2.0041    1.8650 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2873   -2.3566    3.1600 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7116   -1.3722    0.0974 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1 12  1  0
+  2 16  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5 10  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+ 10 11  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 16 19  2  0
+M  CHG  2  18  -1  20   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00464
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00575
+
+>  <COMMON_NAME>  (1) 
+Sodium tetradecyl sulfate
+
+>  <CAS_NUMBER>  (1) 
+139-88-8
+
+>  <UNII>  (1) 
+Q1SUG5KBD6
+
+>  <SYNONYMS>  (1) 
+7-Ethyl-2-methyl-4-undecanol sulfate sodium salt; 7-ethyl-2-methyl-4-undecanolsulfate, sodium salt; Natrii tetradecylis sulfa; Sodium 2-methyl-7-ethylundecanol-4-sulfate; Sodium 7-ethyl-2-methyl-4-undecanol sulfate; Sodium tetradecyl sulfate; Sodium tetradecyl sulphate; Sodium tetradecylsulfate; STS; Tetradecilsulfato sodico; Tetradecyl sodium sulfate; Tetradecyl sulfate de sodium
+
+$$$$

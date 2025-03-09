@@ -1,0 +1,27 @@
+
+ OpenBabel10282417183D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    0.9704    0.0931   -0.0213 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9304    0.0931   -0.0213 Sn  0  0  0  0  0  2  0  0  0  0  0  0
+    3.5837    1.2618   -1.4527 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  RAD  1   2   1
+M  END
+>  <DRUGBANK_ID>
+DB11092
+
+>  <COMMON_NAME>
+Stannous fluoride
+
+>  <CAS_NUMBER>
+7783-47-3
+
+>  <UNII>
+3FTR44B32Q
+
+>  <SYNONYMS>
+difluorostannylene; fluoristan; Stannous fluoride; tin difluoride; Tin(II) fluoride
+
+$$$$

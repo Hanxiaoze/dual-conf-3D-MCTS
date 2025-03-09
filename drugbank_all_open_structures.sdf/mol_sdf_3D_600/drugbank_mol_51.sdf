@@ -1,0 +1,47 @@
+
+     RDKit          3D
+
+ 12 11  0  0  1  0  0  0  0  0999 V2000
+    1.0675   -0.0603   -0.0980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5748   -0.2197    1.3491 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0713    0.8508    2.3635 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5070    2.3043    2.2261 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5032    2.7272    2.7636 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2100    3.1060    1.4020 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6360    0.3660    3.6976 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5695    1.2479   -0.6520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8823    1.5321   -2.0106 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0463    1.9942   -2.9651 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4710    2.3967   -4.0293 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2745    1.9653   -2.6890 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  8  1  0
+  2  3  1  0
+  3  4  1  0
+  3  7  1  1
+  4  5  2  0
+  4  6  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00155
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00021
+
+>  <COMMON_NAME>  (1) 
+Citrulline
+
+>  <CAS_NUMBER>  (1) 
+372-75-8
+
+>  <UNII>  (1) 
+29VT07BGDA
+
+>  <SYNONYMS>  (1) 
+(S)-2-Amino-5-ureidopentanoic acid; 2-Amino-5-ureidovaleric acid; alpha-amino-delta-Ureidovaleric acid; Cit; Citrulina; Citrulline; delta-Ureidonorvaline; L-2-Amino-5-ureidovaleric acid; L-Citrulline; N(5)-(Aminocarbonyl)-L-ornithine; N(delta)-Carbamylornithine; N5-(Aminocarbonyl)ornithine; N5-Carbamoyl-L-ornithine; N5-carbamoylornithine; α-amino-δ-ureidovaleric acid; δ-ureidonorvaline
+
+$$$$

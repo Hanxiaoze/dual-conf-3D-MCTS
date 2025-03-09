@@ -1,0 +1,59 @@
+
+ OpenBabel10282417103D
+
+ 18 17  0  0  0  0  0  0  0  0999 V2000
+    0.9946    0.0342   -0.0123 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5353   -0.4803    1.2729 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3387    0.4241    2.0339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7031   -0.1893    2.2958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1426   -0.4837    3.4007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4225   -0.4285    1.1807 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8915   -1.7253    1.7152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6199   -2.5761    1.0751 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4763   -2.1138    2.9314 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6438    1.0520   -0.2133 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6366   -0.6002   -0.8300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0897    0.0630   -0.0411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1316    0.6599    2.9959 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5016    1.3847    1.5322 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2128   -0.9171    1.4925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9024   -2.1861    0.1786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1637   -1.6194    3.5321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7019   -3.0654    3.1896 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00148
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+NUTR00022
+
+>  <COMMON_NAME>
+Creatine
+
+>  <CAS_NUMBER>
+57-00-1
+
+>  <UNII>
+MU72812GK0
+
+>  <SYNONYMS>
+((amino(Imino)methyl)(methyl)amino)acetic acid; (alpha-Methylguanido)acetic acid; (N-methylcarbamimidamido)acetic acid; (α-methylguanido)acetic acid; alpha-Methylguanidino acetic acid; Creatin; Creatine; Kreatin; Methylglycocyamine; N-(aminoiminomethyl)-N-methylglycine; N-amidinosarcosine; N-carbamimidoyl-N-methylglycine; N-methyl-N-guanylglycine
+
+$$$$

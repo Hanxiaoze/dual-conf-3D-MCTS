@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9100   -0.0616   -0.0799 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1904    0.3782    1.1992 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2624   -0.0407    0.0019 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3422   -0.4043   -1.1094 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6703    1.5363    0.9460 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  5  1  0
+  3  1  1  0
+  4  1  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00145
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00028
+
+>  <COMMON_NAME>  (1) 
+Glycine
+
+>  <CAS_NUMBER>  (1) 
+56-40-6
+
+>  <UNII>  (1) 
+TE7660XO1C
+
+>  <SYNONYMS>  (1) 
+Aminoacetic acid; Aminoessigsäure; Aminoethanoic acid; Glicina; Gly; Glycin; Glycine; Glycocoll; Glykokoll; Glyzin; Leimzucker
+
+$$$$

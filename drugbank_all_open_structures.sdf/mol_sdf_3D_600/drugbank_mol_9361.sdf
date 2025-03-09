@@ -1,0 +1,25 @@
+
+     RDKit          3D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    0.9853   -0.0241   -0.0959 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9293    0.0016   -0.0707 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.9805   -0.0822    0.0535 Hg  0  0  0  0  0 15  0  0  0  0  0  0
+M  CHG  3   1  -1   2  -1   3   2
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13344
+
+>  <COMMON_NAME>  (1) 
+Mercuric amidochloride
+
+>  <CAS_NUMBER>  (1) 
+10124-48-8
+
+>  <UNII>  (1) 
+JD546Z56F0
+
+>  <SYNONYMS>  (1) 
+Mercuric chloride, ammoniated
+
+$$$$

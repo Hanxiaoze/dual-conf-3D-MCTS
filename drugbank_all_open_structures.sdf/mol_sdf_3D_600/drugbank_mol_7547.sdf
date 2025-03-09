@@ -1,0 +1,36 @@
+
+     RDKit          3D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -1.3500    0.0010    0.7980 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3710    1.2500   -0.0850 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0130    1.4630   -0.7000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0860    1.2480    0.3700 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9010   -0.0010    0.0310 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0840   -1.2500    0.3700 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0110   -1.4630   -0.7000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3730   -1.2480   -0.0850 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9109    0.0343    0.0297 Tc  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  1  8  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+M  ISO  1   9  99
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09397
+
+>  <COMMON_NAME>  (1) 
+Technetium Tc-99m sulfur colloid
+
+>  <UNII>  (1) 
+556Q0P6PB1
+
+>  <SYNONYMS>  (1) 
+Technetium (99mTc) sulfur colloid; Technetium 99m sulfur colloid; Technetium Tc 99m sulfur colloid; Technetium Tc-99m Sulfur Colloid
+
+$$$$

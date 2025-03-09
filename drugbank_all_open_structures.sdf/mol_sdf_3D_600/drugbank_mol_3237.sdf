@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9173    0.0500   -0.0289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4048    1.4401    0.1942 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3018    2.0552   -0.5942 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7947    2.1176    1.4857 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4968    1.5564    2.3113 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03587
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02707
+
+>  <COMMON_NAME>  (1) 
+Pyruvaldehyde
+
+>  <CAS_NUMBER>  (1) 
+78-98-8
+
+>  <UNII>  (1) 
+722KLD7415
+
+>  <SYNONYMS>  (1) 
+2-ketopropionaldehyde; 2-oxopropanal; Acetyl formaldehyde; Acetylformyl; alpha-ketopropionaldehyde; Methyl glyoxal; Methylglyoxal; Pyruvic aldehyde
+
+$$$$

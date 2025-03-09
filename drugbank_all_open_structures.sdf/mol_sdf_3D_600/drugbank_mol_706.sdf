@@ -1,0 +1,46 @@
+menthol
+     RDKit          3D
+
+ 11 11  0  0  1  0  0  0  0  0999 V2000
+    1.1726    0.1238    0.0259 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5463    0.4707   -1.3302 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0862   -0.4724   -2.4103 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0128    0.4761   -1.2879 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5290    1.8200   -0.7307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0506    1.8529   -0.5824 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5645    0.6739    0.2496 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -5.0829    0.6982    0.3705 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1140   -0.6484   -0.3668 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5993   -0.7041   -0.4805 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2422   -1.9561   -1.0487 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  4  2  1  1
+  4  5  1  0
+  4 10  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  6
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  6
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00825
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01604
+
+>  <COMMON_NAME>  (1) 
+Levomenthol
+
+>  <CAS_NUMBER>  (1) 
+2216-51-5
+
+>  <UNII>  (1) 
+BZ1R15MTK7
+
+>  <SYNONYMS>  (1) 
+(-)-Menthol; (−)-(1R,3R,4S)-menthol; (−)-menthol; (1alpha,2beta,5alpha)-5-methyl-2(1-methylethyl)cyclohexanol; (1R-(1-α,2-β,5-α))-5-methyl-2-(1-methylethyl)cyclohexanol; (1R,3R,4S)-(−)-menthol; L-menthol; Levomenthol; Lévomenthol; Levomentholum; Levomentol; Mentol
+
+$$$$

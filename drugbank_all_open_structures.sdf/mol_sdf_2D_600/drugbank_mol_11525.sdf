@@ -1,0 +1,39 @@
+
+     RDKit          2D
+
+  9  8  0  0  1  0  0  0  0  0999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  5  4  1  0
+  5  6  1  6
+  5  7  1  0
+  7  8  1  0
+  7  9  2  0
+M  ISO  1   1  11
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB17147
+
+>  <COMMON_NAME>  (1) 
+Methionine C-11
+
+>  <CAS_NUMBER>  (1) 
+60305-58-0
+
+>  <UNII>  (1) 
+ED857BWP29
+
+>  <SYNONYMS>  (1) 
+11c-methionine; 2-Amino-4-[11C]methylsulfanyl-butanoic acid, l-[S methyl[11C]methionine; L-(s-methyl-11c)methionine; L-11c-methylmethionine; L-methionine ((11c)methyl); Methionine (11c)
+
+$$$$

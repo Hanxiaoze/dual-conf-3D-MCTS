@@ -1,0 +1,53 @@
+
+ OpenBabel10282417163D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    0.8552    0.0575   -0.0520 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9337   -2.2592    0.6927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4208   -0.8627    0.9388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2904   -2.5078    0.4425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0622   -3.3541    0.8134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7650   -3.8140    0.3076 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5458   -4.6612    0.7176 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8926   -4.8906    0.4543 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8242    0.0340   -0.0678 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7672   -0.5181    1.9193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6735   -0.8394    0.9442 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0018   -1.6903    0.3608 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9982   -3.1970    0.9959 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8173   -3.9899    0.1056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1305   -5.5013    0.8593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2665   -5.9072    0.3668 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB06770
+
+>  <COMMON_NAME>
+Benzyl alcohol
+
+>  <CAS_NUMBER>
+100-51-6
+
+>  <UNII>
+LKG8494WBH
+
+>  <SYNONYMS>
+(hydroxymethyl)benzene; Alcoholum benzylicum; Alcool benzylique; Alcoolbenzylique; alpha-Hydroxytoluene; Aromatic alcohol; Bentalol; Benzalalcohol; Benzalcohol; Benzenecarbinol; Benzenemethanol; Benzoyl alcohol; Benzyl alcohol; Benzylalkohol; Benzylic alcohol; Hydroxymethylbenzene; Phenylcarbinol; Phenylmethanol; Phenylmethyl alcohol; α-toluenol
+
+$$$$

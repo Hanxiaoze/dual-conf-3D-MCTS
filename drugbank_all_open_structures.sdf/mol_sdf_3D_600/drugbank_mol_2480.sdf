@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.8921    0.0670   -0.0068 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4749    1.0530    0.9261 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0342    0.7728    2.3163 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5575    0.7877    2.3756 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0758    2.0601    2.0167 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02774
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02534
+
+>  <COMMON_NAME>  (1) 
+1,3-Propanediol
+
+>  <CAS_NUMBER>  (1) 
+504-63-2
+
+>  <UNII>  (1) 
+5965N8W85T
+
+>  <SYNONYMS>  (1) 
+1,3-Dihydroxypropane; 1,3-propylene glycol; 2-(hydroxymethyl)ethanol; beta-Propylene glycol; Propane-1,3-diol; Trimethylene glycol; β-propylene glycol
+
+$$$$

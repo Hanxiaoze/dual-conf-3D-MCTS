@@ -1,0 +1,24 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14135
+
+>  <COMMON_NAME>  (1) 
+Hypochlorous acid
+
+>  <CAS_NUMBER>  (1) 
+7790-92-3
+
+>  <UNII>  (1) 
+712K4CDC10
+
+>  <SYNONYMS>  (1) 
+Chlor(I)-säure; Chloranol; Hydroxidochlorine; Hypochlorige Säure
+
+$$$$

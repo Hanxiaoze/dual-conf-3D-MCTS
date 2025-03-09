@@ -1,0 +1,46 @@
+1275
+     RDKit          3D
+
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+    0.9630   -0.0139    0.1577 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7775   -1.6514   -0.3398 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4254   -2.8325   -0.0585 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2710    1.0431   -0.4407 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7238   -2.0124    1.5006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0415   -3.2099    1.8053 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2831   -1.2513    0.4017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7659   -1.5986    2.3573 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4237   -3.9608    2.9304 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1129   -2.3310    3.4874 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0159   -3.5762    0.9855 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4439   -3.5164    3.7716 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  7  1  0
+  2  3  2  0
+  2  7  1  0
+  3 11  1  0
+  5  6  1  0
+  5  7  2  0
+  5  8  1  0
+  6  9  1  0
+  6 11  2  0
+  8 10  2  0
+  9 12  2  0
+ 10 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01275
+
+>  <COMMON_NAME>  (1) 
+Hydralazine
+
+>  <CAS_NUMBER>  (1) 
+86-54-4
+
+>  <UNII>  (1) 
+26NAK24LS8
+
+>  <SYNONYMS>  (1) 
+(1Z)-1(2H)-Phthalazinone hydrazone; (2H)-Phthalazinone hydrazone; 1-Hydrazinophthalazine; 1-Phthalazinylhydrazine; 6-Hydralazine; Hidralazina; Hydralazin; Hydralazine; Hydralazinum; Hydrallazine; Hydrazinophthalazine; Hydrazone 1(2H)-phthalazinone; Hypophthalin; Idralazina; Phthalazin-1-ylhydrazine
+
+$$$$

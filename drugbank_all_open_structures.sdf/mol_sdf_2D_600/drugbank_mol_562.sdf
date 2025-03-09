@@ -1,0 +1,45 @@
+
+     RDKit          2D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+    0.6822    0.6159    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1743    0.6159    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6822   -0.2065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6519    1.4422    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4782    0.6121    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0537    0.6235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6822   -1.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4782    1.3323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4517   -0.0966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0341   -1.4422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3949   -1.4422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  1  5  1  0
+  2  6  1  0
+  3  7  1  0
+  6  8  1  0
+  6  9  1  0
+  7 10  1  0
+  7 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00677
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00763
+
+>  <COMMON_NAME>  (1) 
+Isoflurophate
+
+>  <CAS_NUMBER>  (1) 
+55-91-4
+
+>  <UNII>  (1) 
+12UHW9R67N
+
+>  <SYNONYMS>  (1) 
+DFP; Diisopropoxyphosphoryl fluoride; Diisopropyl fluorophosphate; Diisopropyl fluorophosphonate; Diisopropyl phosphofluoridate; Diisopropyl phosphorofluoridate; Diisopropylfluorophosphate; Diisopropylfluorophosphoric acid ester; Diisopropylphosphofluoridate; Diisopropylphosphorofluoridate; Fluorodiisopropyl phosphate; Fluorostigmine; Isofluorphate; Isoflurophate; Isoflurophosphate; Isopropyl fluophosphate; Isopropyl phosphorofluoridate; O,O'-diisopropyl phosphoryl fluoride
+
+$$$$

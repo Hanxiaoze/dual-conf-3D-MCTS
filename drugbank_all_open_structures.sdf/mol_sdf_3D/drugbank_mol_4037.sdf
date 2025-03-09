@@ -1,0 +1,31 @@
+
+ OpenBabel10282417143D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9645   -0.0600    0.0717 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3378    1.5484    0.5506 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3378   -1.2790    1.2251 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7445   -0.0600    0.0717 Al  0  5  0  0  0  0  0  0  0  0  0  0
+    3.3378   -0.4495   -1.5607 F   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  CHG  1   4  -1
+M  END
+>  <DRUGBANK_ID>
+DB04444
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT00497
+
+>  <COMMON_NAME>
+Tetrafluoroaluminate Ion
+
+>  <CAS_NUMBER>
+21340-02-3
+
+>  <SYNONYMS>
+Tetrafluoroaluminate anion; tetrafluoroaluminate(1−)
+
+$$$$

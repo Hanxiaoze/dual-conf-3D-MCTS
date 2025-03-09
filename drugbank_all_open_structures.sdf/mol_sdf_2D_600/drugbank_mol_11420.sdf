@@ -1,0 +1,44 @@
+
+     RDKit          2D
+
+ 12 11  0  0  1  0  0  0  0  0999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  5  4  1  6
+  5  6  1  0
+  5 10  1  0
+  6  7  1  0
+  7  8  1  0
+  7  9  2  0
+ 10 11  1  0
+ 10 12  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16956
+
+>  <COMMON_NAME>  (1) 
+L-Acetylleucine
+
+>  <CAS_NUMBER>  (1) 
+1188-21-2
+
+>  <UNII>  (1) 
+E915HL7K2O
+
+>  <SYNONYMS>  (1) 
+(s)-2-acetamido-4-methylpentanoic acid; Acetyl-l-leucine; Acetylleucine, (s)-; Acetylleucine, l-; L-leucine, n-acetyl-; Leucine, n-acetyl-, l-; N-acetyl leucine; N-acetyl-l-(-)-leucine; N-acetyl-l-leucine; N-Acetyl-Leucine; N-acetylleucine
+
+$$$$

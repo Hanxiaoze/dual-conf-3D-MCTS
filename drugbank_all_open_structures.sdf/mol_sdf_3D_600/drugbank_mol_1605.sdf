@@ -1,0 +1,24 @@
+
+     RDKit          3D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.9483   -0.0687   -0.0644 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4714    0.4106   -1.3492 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01828
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02363
+
+>  <COMMON_NAME>  (1) 
+Methylamine
+
+>  <CAS_NUMBER>  (1) 
+74-89-5
+
+>  <UNII>  (1) 
+BSF23SJ79E
+
+$$$$

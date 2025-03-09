@@ -1,0 +1,56 @@
+
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   -4.4429    1.3084    2.5416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5480    0.7264    3.8147 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3776    2.7165    2.4736 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4993    1.4803    4.9829 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4074    3.4769    3.6497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4583    2.8539    4.8936 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4180    4.8452    3.6326 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5165    3.5682    6.0540 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5714    0.4851    1.2617 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0749   -1.0181    1.1549 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.3475   -1.4166   -0.1744 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7214   -0.4348   -0.8591 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2458   -2.5812   -0.5661 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3821   -1.8580    1.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2050   -1.5471    2.2397 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0037   -0.7634    2.3892 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  4  2  0
+  6  5  1  0
+  7  5  1  0
+  8  6  1  0
+  9  1  1  0
+ 10 15  1  0
+ 10 11  1  0
+ 10  9  1  0
+ 12 11  1  0
+ 13 11  2  0
+ 10 14  1  6
+ 16 15  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00190
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00160
+
+>  <COMMON_NAME>  (1) 
+Carbidopa
+
+>  <CAS_NUMBER>  (1) 
+28860-95-9
+
+>  <UNII>  (1) 
+KR87B45RGH
+
+>  <SYNONYMS>  (1) 
+(-)-L-alpha-Hydrazino-3,4-dihydroxy-alpha-methylhydrocinnamic acid monohydrate; (S)-(−)-carbidopa; (S)-carbidopa; (αS)-α-hydrazino-3,4-dihydroxy-α-methylbenzenepropanoic acid; Carbidopa; Carbidopa (anhydrous); Carbidopa anhydrous; Carbidopum; L-3-(3,4-dihydroxyphenyl)-2-methyl-2-hydrazinopropionic acid; L-α-methyldopahydrazine
+
+$$$$

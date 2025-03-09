@@ -1,0 +1,39 @@
+888
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.2168    0.7025   -0.2985 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2063   -1.3751    4.6844 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8053   -1.7378    1.6381 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2504   -0.3769    1.2784 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2810   -2.1498    2.9804 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3629   -1.9290    1.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.1557   -0.1260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9213   -1.2990    4.2159 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  8  1  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00888
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00249
+
+>  <COMMON_NAME>  (1) 
+Mechlorethamine
+
+>  <CAS_NUMBER>  (1) 
+51-75-2
+
+>  <UNII>  (1) 
+50D9XSG0VR
+
+>  <SYNONYMS>  (1) 
+2,2'-dichloro-N-methyldiethylamine; bis(2-chloroethyl)methylamine; bis(β-chloroethyl)methylamine; Chlormethine; Chlormethinum; Clormetina; Mechlorethamine; methylbis(2-chloroethyl)amine; methylbis(β-chloroethyl)amine; Mustine; N-methyl-bis(2-chloroethyl)amine; N-methyl-bis(β-chloroethyl)amine; Nitrogen mustard; β,β'-dichlorodiethyl-N-methylamine
+
+$$$$

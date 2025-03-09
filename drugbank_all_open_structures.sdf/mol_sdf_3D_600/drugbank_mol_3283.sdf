@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9265   -0.0882    0.0521 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2873   -0.4291   -1.1053 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2911    0.1696    1.0716 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4576   -0.0883    0.0043 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9686   -0.4147   -1.3443 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  1  2  0
+  4  1  1  0
+  4  5  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03636
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01617
+
+>  <COMMON_NAME>  (1) 
+Glycinamide
+
+>  <CAS_NUMBER>  (1) 
+598-41-4
+
+>  <UNII>  (1) 
+4JDT453NWO
+
+>  <SYNONYMS>  (1) 
+Aminomethylamide; Glycine amide
+
+$$$$

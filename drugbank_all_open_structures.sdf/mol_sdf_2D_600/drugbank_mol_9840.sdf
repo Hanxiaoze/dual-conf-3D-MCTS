@@ -1,0 +1,44 @@
+
+     RDKit          2D
+
+ 13  8  0  0  0  0  0  0  0  0999 V2000
+   -2.9695   -3.0520    0.0000 Mg  0  0  0  0  0 15  0  0  0  0  0  0
+    2.1445   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1445   -0.9071    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3195   -0.9071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9695   -0.9071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1445   -0.0821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8045   -1.3195    0.0000 Mg  0  0  0  0  0 15  0  0  0  0  0  0
+   -2.7220    0.6596    0.0000 Mg  0  0  0  0  0 15  0  0  0  0  0  0
+    2.1445    1.4021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1445    2.2270    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3195    2.2270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9695    2.2270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1445    3.0520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  9 10  2  0
+ 10 11  1  0
+ 10 12  1  0
+ 10 13  1  0
+M  CHG  8   1   2   4  -1   5  -1   6  -1   7   2   8   2  11  -1  12  -1
+M  CHG  1  13  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13862
+
+>  <COMMON_NAME>  (1) 
+Magnesium phosphate
+
+>  <CAS_NUMBER>  (1) 
+7757-87-1
+
+>  <UNII>  (1) 
+XMK14ETW2D
+
+>  <SYNONYMS>  (1) 
+Magnesium phosphate (3:2); Magnesium phosphate anhydrous; Magnesium phosphate, tribasic; Magnesium phosphate, tribasic, anhydrous; Phosphoric acid, magnesium salt (2:3); Tertiary magnesium phosphate; Trimagnesium phosphate
+
+$$$$

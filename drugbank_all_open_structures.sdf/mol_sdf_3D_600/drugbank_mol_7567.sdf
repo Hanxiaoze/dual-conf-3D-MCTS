@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+   -0.4801   -1.0510   -0.1063 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    1.0692    0.0559    0.0455 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6176    0.0559    0.0455 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7608   -0.1460   -1.4557 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6782    1.6354    0.3904 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3476    0.0559    0.0455 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+M  CHG  2   1   1   4  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09449
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09127; DB11083; DB09524; DB09542; DB09468; DB11084; DB09482; DB09469; DB09525; DBSALT001969
+
+>  <COMMON_NAME>  (1) 
+Sodium phosphate, monobasic
+
+>  <CAS_NUMBER>  (1) 
+7558-80-7
+
+>  <UNII>  (1) 
+KH7I04HPUU
+
+>  <SYNONYMS>  (1) 
+Disodium hydrogen phosphate anhydrous; Monosodium dihydrogen monophosphate; Monosodium dihydrogen orthophosphate; Monosodium monophosphate; Monosodium phosphate, anhydrous; Phosphoric acid, monosodium salt, anhydrous; Sodium acid phosphate; Sodium biphosphate, anhydrous; Sodium dihydrogen phosphate; Sodium dihydrogen phosphate, anhydrous; Sodium orthophosphate; Sodium orthophosphate monobasic; Sodium phosphate monobasic; Sodium phosphate monobasic (anhydrate); Sodium phosphate monobasic (anhydrous); Sodium phosphate, monobasic; Sodium phosphate, monobasic anhydrous; Sodium phosphate,monobasic; Sodium primary phosphate
+
+$$$$

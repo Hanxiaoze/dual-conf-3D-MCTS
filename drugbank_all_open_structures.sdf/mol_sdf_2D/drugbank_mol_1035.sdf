@@ -1,0 +1,28 @@
+
+ OpenBabel10282417072D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.8250    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.8250    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <DRUGBANK_ID>
+DB01164
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00840
+
+>  <COMMON_NAME>
+Calcium chloride
+
+>  <CAS_NUMBER>
+10043-52-4
+
+>  <UNII>
+OFM21057LP
+
+>  <SYNONYMS>
+Calcio cloruro; Calcium chloride anhydrous; Calcium chloride, anhydrous; calcium(2+) chloride
+
+$$$$

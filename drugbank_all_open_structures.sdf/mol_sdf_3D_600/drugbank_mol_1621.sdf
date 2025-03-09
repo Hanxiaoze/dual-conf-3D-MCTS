@@ -1,0 +1,33 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0070   -0.1035   -0.0616 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5310   -1.4712   -0.0553 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3024   -1.9388    1.0335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8853   -2.3053   -1.0959 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5840   -1.9902   -2.0518 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01844
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01224
+
+>  <COMMON_NAME>  (1) 
+N,N-dimethylformamide
+
+>  <CAS_NUMBER>  (1) 
+68-12-2
+
+>  <UNII>  (1) 
+8696NH0Y2X
+
+>  <SYNONYMS>  (1) 
+Dimethylformamide; N-Formyldimethylamine; N,N-Dimethylmethanamide
+
+$$$$

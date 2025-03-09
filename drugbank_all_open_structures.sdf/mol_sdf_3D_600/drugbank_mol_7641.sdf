@@ -1,0 +1,28 @@
+
+     RDKit          3D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.0688    0.0549    0.0475 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4488   -0.9265    1.5008 Se  0  0  0  0  0  4  0  0  0  0  0  0
+    1.0688   -0.1585    3.0774 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2159   -0.9265    1.5008 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB11127
+
+>  <COMMON_NAME>  (1) 
+Selenious acid
+
+>  <CAS_NUMBER>  (1) 
+7783-00-8
+
+>  <UNII>  (1) 
+F6A27P4Q4R
+
+>  <SYNONYMS>  (1) 
+selenige Säure; Selenious acid; Selenous acid
+
+$$$$

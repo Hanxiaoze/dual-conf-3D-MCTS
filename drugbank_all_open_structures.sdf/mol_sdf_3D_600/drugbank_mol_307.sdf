@@ -1,0 +1,74 @@
+417
+     RDKit          3D
+
+ 24 26  0  0  1  0  0  0  0  0999 V2000
+    0.9337   -1.0781   -0.5532 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6841    1.0929   -0.5013 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4902    3.6101    0.9139 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1066    2.6403    2.1214 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4501   -3.8630   -2.4743 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2865   -4.2096    0.8267 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8025    0.4025    0.7002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0506   -2.0273   -1.2240 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4747   -1.0412    0.6031 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5275    0.5686    0.0236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2073    1.3653    0.2194 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8988   -1.2945    0.0595 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9856    0.2575    0.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4198    1.1114   -1.0913 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3515    0.3504    1.3020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3462    2.5769    1.1659 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3297   -3.3683   -1.3528 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3881   -4.2264   -0.0768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0760   -4.6279    0.3366 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4109   -4.3225   -0.9340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7769   -5.2758    1.2286 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7098   -4.6316   -1.3202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0964   -5.5663    0.8543 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5558   -5.2602   -0.4264 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9  1  1  6
+  1 10  1  0
+  2 13  2  0
+  3 16  1  0
+  4 16  2  0
+  5 17  2  0
+  6 18  1  0
+  6 19  1  0
+  7  9  1  0
+  7 11  1  0
+  7 13  1  0
+  8 17  1  0
+  9 12  1  0
+ 10 11  1  0
+ 10 14  1  0
+ 10 15  1  0
+ 11 16  1  1
+ 12 13  1  0
+ 12  8  1  6
+ 17 18  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  2  0
+ 22 24  2  0
+ 23 24  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00417
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00423; DB08415
+
+>  <COMMON_NAME>  (1) 
+Phenoxymethylpenicillin
+
+>  <CAS_NUMBER>  (1) 
+87-08-1
+
+>  <UNII>  (1) 
+Z61I075U2W
+
+>  <SYNONYMS>  (1) 
+(2S,5R,6R)-3,3-DIMETHYL-7-OXO-6-(2-PHENOXYACETAMIDO)-4-THIA-1- AZABICYCLO(3.2.0)HEPTANE-2-CARBOXYLIC ACID; (2S,5R,6R)-3,3-dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 6-phenoxyacetamidopenicillanic acid; Fenoximetilpenicilina; Oracillin; Penicillin Phenoxymethyl; Penicillin V; Phenoxomethylpenicillin; Phenoxymethyl Penicillin; Phenoxymethylenepenicillinic acid; Phenoxymethylpenicillin; Phénoxyméthylpénicilline; Phenoxymethylpenicillinum; PV
+
+$$$$

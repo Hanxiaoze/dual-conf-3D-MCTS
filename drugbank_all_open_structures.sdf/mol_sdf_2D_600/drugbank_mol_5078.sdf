@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5 10  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06698
+
+>  <COMMON_NAME>  (1) 
+Betahistine
+
+>  <CAS_NUMBER>  (1) 
+5638-76-6
+
+>  <UNII>  (1) 
+X32KK4201D
+
+>  <SYNONYMS>  (1) 
+[2-(2-pyridyl)ethyl]methylamine; 2-(β-methylaminoethyl)pyridine; 2-[2-(methylamino)ethyl]pyridine; Betahistina; Bétahistine; Betahistine; Betahistinum; N-methyl-2-(2-pyridinyl)ethanamine; N-methyl-2-pyridineethanamine
+
+$$$$

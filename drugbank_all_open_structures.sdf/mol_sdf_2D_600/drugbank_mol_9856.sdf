@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -0.7088    0.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0035    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7191    0.4082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4312   -0.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4278   -0.8334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7125   -1.2417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0002   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7055    1.2417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4242    0.0084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4312   -0.8164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  8  2  0
+  1  9  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  9 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB13882
+
+>  <COMMON_NAME>  (1) 
+Methyl nicotinate
+
+>  <CAS_NUMBER>  (1) 
+93-60-7
+
+>  <UNII>  (1) 
+7B1AVU9DJN
+
+>  <SYNONYMS>  (1) 
+3-(Carbomethoxy)pyridine; 3-(Methoxycarbonyl)pyridine; 3-pyridinecarboxylic acid methyl ester; Heat spray; Methyl 3-pyridinecarboxylate; Methyl nicotinate; Methyl-nicotinate; Methylnicotinate; Nicotinic acid, methyl ester
+
+$$$$

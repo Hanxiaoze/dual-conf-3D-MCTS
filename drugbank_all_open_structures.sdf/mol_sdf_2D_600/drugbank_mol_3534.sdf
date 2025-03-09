@@ -1,0 +1,31 @@
+
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03904
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03203
+
+>  <COMMON_NAME>  (1) 
+Urea
+
+>  <CAS_NUMBER>  (1) 
+57-13-6
+
+>  <UNII>  (1) 
+8W8T17847W
+
+>  <SYNONYMS>  (1) 
+Carbamide; Carbonyldiamide; Harnstoff; Karbamid; Urea; Urée
+
+$$$$

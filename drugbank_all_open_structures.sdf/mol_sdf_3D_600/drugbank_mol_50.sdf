@@ -1,0 +1,67 @@
+5280581
+     RDKit          3D
+
+ 22 21  0  0  0  0  0  0  0  0999 V2000
+    2.3636   -3.2291   -6.9251 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5495   -3.5370   -6.6059 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0554   -5.3508   -6.2381 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8735   -4.7505   -5.0851 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2963   -6.8031   -5.9406 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2222   -5.4609   -4.9303 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0385   -6.8979   -4.6192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0494   -5.4092   -6.2144 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0644  -11.8397   -5.7760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4450  -13.3136   -5.6669 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.5172  -11.3152   -4.4578 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4404  -13.5628   -4.5302 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3475   -6.1689   -4.7126 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5235   -6.7779   -4.5832 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2205  -11.9919   -4.1187 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4160   -3.9989   -6.5941 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7293  -12.7860   -4.7512 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6138   -8.2242   -4.2883 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0644  -11.3382   -4.0138 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9797   -9.8714   -4.1936 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3512   -8.4498   -3.0204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4323   -9.2257   -2.9733 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0
+  2 16  2  0
+  3  4  1  0
+  3  5  1  0
+  4  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7 13  1  0
+  8 16  1  0
+  9 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 11 15  1  0
+ 12 17  1  0
+ 13 14  2  0
+ 14 18  1  0
+ 15 19  2  0
+ 18 21  1  0
+ 19 20  1  0
+ 20 22  1  0
+ 21 22  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00154
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00032
+
+>  <COMMON_NAME>  (1) 
+Dihomo-gamma-linolenic acid
+
+>  <CAS_NUMBER>  (1) 
+1783-84-2
+
+>  <UNII>  (1) 
+FC398RK06S
+
+>  <SYNONYMS>  (1) 
+(8Z,11Z,14Z)-Icosatrienoic acid; (Z,Z,Z)-8,11,14-Eicosatrienoic acid; (Z,Z,Z)-8,11,14-Icosatrienoate; (Z,Z,Z)-8,11,14-Icosatrienoic acid; 20:3, n-6,9,12 all-cis; 8,11,14-Eicosatrienoic Acid; 8c,11c,14c-eicosatrienoic acid; 8c,11c,14c-Eicosatriensäure; all-cis-8,11,14-eicosatrienoic acid; all-cis-8,11,14-icosatrienoic acid; all-cis-eicosa-8,11,14-trienoic acid; all-cis-Eicosa-8,11,14-triensäure; all-cis-icosa-8,11,14-trienoic acid; C20:3, n-6,9,12 all-cis; cis,cis,cis-8,11,14-eicosatrienoic acid; DGLA; dihomo-γ-linolenic acid; eicosa-8Z,11Z,14Z-trienoic acid; gamma-Homolinolenic acid; Homo-gamma-linolenic acid; Homo-gamma-linolensäure; Homo-γ-linolensäure
+
+$$$$

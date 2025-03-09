@@ -1,0 +1,25 @@
+
+ OpenBabel10282417072D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+M  CHG  1   1  -1
+M  END
+>  <DRUGBANK_ID>
+DB14522
+
+>  <COMMON_NAME>
+Hydroxide ion
+
+>  <CAS_NUMBER>
+14280-30-9
+
+>  <UNII>
+9159UV381P
+
+>  <SYNONYMS>
+Hydroxide; Oxidanide
+
+$$$$

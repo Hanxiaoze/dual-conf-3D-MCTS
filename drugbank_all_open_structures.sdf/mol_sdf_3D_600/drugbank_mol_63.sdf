@@ -1,0 +1,66 @@
+
+     RDKit          3D
+
+ 21 21  0  0  0  0  0  0  0  0999 V2000
+    1.1250    0.0394   -0.1127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3362   -1.0473   -0.8127 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5597   -1.8470    0.1349 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5174   -0.9533    0.9907 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8398   -1.1184    0.7118 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9588   -0.3609    1.3347 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.8584    0.2685    0.2281 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5835   -0.7422   -0.6564 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8838   -3.1060   -1.3096 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2196   -2.1012   -0.6500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6914   -0.4071   -1.4293 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4183   -1.4320   -2.0638 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0008   -2.7687   -2.0237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6286    1.0407    0.3603 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4659   -0.1352   -0.1221 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2887   -2.8810   -0.6647 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1444   -0.1913    1.8615 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8179   -1.1153    2.4220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8445   -0.8280    3.6099 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5529   -2.1263    1.8910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4374   -2.9003    2.7036 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 14  2  0
+  1 15  1  0
+  2  3  1  0
+  3  4  1  0
+  3 16  1  6
+  4  5  1  0
+  4 17  2  0
+  5  6  1  0
+  6  7  1  6
+  6 18  1  0
+  7  8  1  0
+  8 11  2  0
+  9 10  2  0
+  9 13  1  0
+ 10  8  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 18 19  2  0
+ 18 20  1  0
+ 20 21  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00168
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00046
+
+>  <COMMON_NAME>  (1) 
+Aspartame
+
+>  <CAS_NUMBER>  (1) 
+22839-47-0
+
+>  <UNII>  (1) 
+Z0H242BBR1
+
+>  <SYNONYMS>  (1) 
+1-Methyl N-L-alpha-aspartyl-L-phenylalanate; 1-methyl N-L-α-aspartyl-L-phenylalanate; 3-Amino-N-(alpha-carboxyphenethyl)succinamic acid N-methyl ester; 3-Amino-N-(alpha-methoxycarbonylphenethyl) succinamic acid; 3-Amino-N-(α-carboxyphenethyl)succinamic acid N-methyl ester; 3-Amino-N-(α-methoxycarbonylphenethyl) succinamic acid; Asp-phe-ome; Aspartam; Aspartame; Aspartamo; Aspartamum; Aspartylphenylalanine methyl ester; L-Aspartyl-L-phenylalanine methyl ester
+
+$$$$

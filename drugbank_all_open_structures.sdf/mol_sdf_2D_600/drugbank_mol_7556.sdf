@@ -1,0 +1,32 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    1.9384   -2.6400    0.0000 K   0  0  0  0  0 15  0  0  0  0  0  0
+   -1.1133    0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1133    1.8150    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9384    1.8150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2892    1.8150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1133    2.6400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  3  6  1  0
+M  CHG  2   1   1   6  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09413
+
+>  <COMMON_NAME>  (1) 
+Monopotassium phosphate
+
+>  <CAS_NUMBER>  (1) 
+7778-77-0
+
+>  <UNII>  (1) 
+4J9FJ0HL51
+
+>  <SYNONYMS>  (1) 
+Monobasic potassium phosphate; Monopotassium dihydrogen monophosphate; Monopotassium dihydrogen orthophosphate; Monopotassium dihydrogen phosphate; Monopotassium monophosphate; Monopotassium orthophosphate; Phosphoric acid, monopotassium salt; Potassium acid phosphate; Potassium biphosphate; Potassium dihydrogen orthophosphate; Potassium dihydrogen phosphate; Potassium phosphate; Potassium phosphate monobasic; Potassium phosphate monobasic (anhydrous); Potassium phosphate, monobasic; Potassium phosphate,monobasic
+
+$$$$

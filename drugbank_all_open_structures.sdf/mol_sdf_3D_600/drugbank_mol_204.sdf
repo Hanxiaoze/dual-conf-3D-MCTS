@@ -1,0 +1,70 @@
+
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+   -0.3939    0.7126   -0.0184 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3782   -0.4365    0.0277 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4340    1.5442   -1.1042 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1158   -0.6585   -0.0198 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6756    1.5947   -0.0176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3792   -1.3763    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1589   -1.2014   -0.0133 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9857    1.0717   -0.0092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4849   -2.5923    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2269   -0.3144   -0.0072 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3731    1.7237    1.2765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1259    1.3000    2.5978 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0625    2.9470    1.1185 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6525    2.0124    3.6997 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4667    3.7167    2.2145 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3167    3.2258    3.5079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5082    1.3897    5.3462 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0075    4.1673    4.7810 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8211    0.9952    5.8004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8953    0.9264    0.0515 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6270   -0.0423    5.2040 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6449    2.2691    6.0982 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0
+  1  5  1  0
+  2  6  1  0
+  4  7  1  0
+  4  6  1  0
+  5  8  2  0
+  6  9  2  0
+  7 10  2  0
+  8 10  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 15  2  0
+ 14 16  2  0
+ 14 17  1  0
+ 15 16  1  0
+ 16 18  1  0
+ 17 22  2  0
+ 17 19  2  0
+ 17 21  1  0
+ 20  1  1  0
+ 20  2  1  0
+ 20  3  1  0
+ 20 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00310
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00127
+
+>  <COMMON_NAME>  (1) 
+Chlorthalidone
+
+>  <CAS_NUMBER>  (1) 
+77-36-1
+
+>  <UNII>  (1) 
+Q0MQD1073Q
+
+>  <SYNONYMS>  (1) 
+1-keto-3-(3'-sulfamyl-4'-chlorophenyl)-3-hydroxyisoindoline; 1-oxo-3-(3-sulfamyl-4-chlorophenyl)-3-hydroxyisoindoline; 2-chloro-5-(1-hydroxy-3-oxo-1-isoindolinyl)benzenesulfonamide; 2-chloro-5-(2,3-dihydro-1-hydroxy-3-oxo-1H-isoindol-1-yl)benzenesulfonamide; 3-(4'-chloro-3'-sulfamoylphenyl)-3-hydroxyphthalimidine; 3-hydroxy-3-(4-chloro-3-sulfamylphenyl)phthalimidine; Chlorphthalidolone; Chlortalidone; Chlortalidonum; Chlorthalidone; Clortalidona; Phthalamodine; Phthalamudine
+
+$$$$

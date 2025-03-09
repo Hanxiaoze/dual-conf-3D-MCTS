@@ -1,0 +1,46 @@
+
+     RDKit          2D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+   -0.7124   -0.6196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4268   -0.2054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0019   -0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1413    0.2047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7165   -0.6196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0019    0.6189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4268   -0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1413   -0.6196    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4268    0.6189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4268    0.6196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1413   -0.6179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  2 10  1  0
+  2 11  1  0
+  3  5  1  0
+  3  6  1  0
+  5  7  1  0
+  7  8  1  0
+  7  9  2  0
+M  CHG  1   2   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01019
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00051
+
+>  <COMMON_NAME>  (1) 
+Bethanechol
+
+>  <CAS_NUMBER>  (1) 
+674-38-4
+
+>  <UNII>  (1) 
+004F72P8F4
+
+>  <SYNONYMS>  (1) 
+(2-hydroxypropyl)trimethylammonium carbamate; 2-(carbamoyloxy)-N,N,N-trimethylpropan-1-aminium; 2-carbamoyloxypropyl-trimethylazanium; Amidopropyldimethylbetaine; Bethanechol; Carbamoyl-beta-methylcholine; carbamoyl-β-methylcholine; Carbamyl-beta-methylcholine; carbamyl-β-methylcholine
+
+$$$$

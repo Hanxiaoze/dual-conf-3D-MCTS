@@ -1,0 +1,43 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    1.4289   -0.8251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.8251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7147    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146    0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  3  1  0
+  5  4  1  0
+  5  2  1  0
+  6  5  1  0
+  7  9  1  0
+  9  6  1  0
+  9  8  2  0
+  9 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01779
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01526
+
+>  <COMMON_NAME>  (1) 
+Glycerol 2-phosphate
+
+>  <CAS_NUMBER>  (1) 
+17181-54-3
+
+>  <UNII>  (1) 
+WWH06G87W6
+
+>  <SYNONYMS>  (1) 
+1,2,3-Propanetriol, 2-(dihydrogen phosphate); 1,3-Hydroxy-2-propyl dihydrogen phosphate; 2-glycerophosphate; beta-Glycerophosphoric acid; β-glycerophosphate; β-glycerophosphoric acid
+
+$$$$

@@ -1,0 +1,47 @@
+
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   -0.7144    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  4  2  0
+  6  5  1  0
+  6 13  1  0
+  7  8  1  0
+  7  9  2  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB14177
+
+>  <COMMON_NAME>  (1) 
+Propylparaben
+
+>  <CAS_NUMBER>  (1) 
+94-13-3
+
+>  <UNII>  (1) 
+Z8IX2SC1OH
+
+>  <SYNONYMS>  (1) 
+4-Hydroxybenzoic acid propyl ester; 4-Hydroxybenzoic acid, propyl ester; n-Propyl 4-hydroxybenzoate; n-Propyl p-hydroxybenzoate; n-propyl paraben; p-Hydroxybenzoic acid propyl ester; p-Hydroxybenzoic propyl ester; p-Oxybenzoesäurepropylester; Propyl p-hydroxybenzoate; Propyl paraben; Propyl parahydroxybenzoate; Propylparaben
+
+$$$$

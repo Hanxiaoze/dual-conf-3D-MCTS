@@ -1,0 +1,43 @@
+
+     RDKit          3D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    1.0991    0.1219   -0.0917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5560    2.9090    2.6645 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6224    0.2311    1.3727 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9256    2.7734    1.2832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1118    1.4853    2.1071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6002    2.7530    1.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5290    1.0687   -1.1517 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4958    0.9026   -1.7728 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2419    2.2055   -1.3214 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0774    4.1982    3.3157 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2 10  1  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  4  1  0
+  6  5  1  0
+  7  8  2  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04519
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02413
+
+>  <COMMON_NAME>  (1) 
+Caprylic acid
+
+>  <CAS_NUMBER>  (1) 
+124-07-2
+
+>  <UNII>  (1) 
+OBL58JN025
+
+>  <SYNONYMS>  (1) 
+1-heptanecarboxylic acid; Acide octanoïque; Acide octanoique; ácido octanoico; Acidum octanocium; Acidum octanoicum; C8:0; Caprylic acid; Kaprylsäure; n-caprylic acid; n-octanoic acid; n-Octoic acid; n-octylic acid; Octanoic acid; Octoic acid; Octylic acid
+
+$$$$

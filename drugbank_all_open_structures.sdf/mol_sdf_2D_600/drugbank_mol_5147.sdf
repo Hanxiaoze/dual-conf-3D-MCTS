@@ -1,0 +1,32 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cu  0  0  0  0  0 15  0  0  0  0  0  0
+    2.8286   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6536    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  3  6  2  0
+M  CHG  3   1   2   2  -1   4  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06778
+
+>  <COMMON_NAME>  (1) 
+Cupric sulfate
+
+>  <CAS_NUMBER>  (1) 
+7758-98-7
+
+>  <UNII>  (1) 
+KUW2Q3U1VV
+
+>  <SYNONYMS>  (1) 
+Copper monosulfate; Copper monosulphate; Copper sulfate; Copper sulfate (1:1); Copper sulphate; Copper(2+) sulfate; Copper(II) sulphate; Cupric sulfate anhydrous; Cupric sulfate, anhydrous; Cupric sulphate anhydrous; Cupric sulphate, anhydrous
+
+$$$$

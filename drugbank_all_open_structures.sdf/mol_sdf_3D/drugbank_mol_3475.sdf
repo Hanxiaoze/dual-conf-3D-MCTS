@@ -1,0 +1,31 @@
+
+ OpenBabel10282417133D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    0.9916    0.0579   -0.0446 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0925    0.0646   -0.0870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3793   -0.1081    1.0030 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4784    0.2104   -1.0074 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  2  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB03843
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+EXPT01444
+
+>  <COMMON_NAME>
+Formaldehyde
+
+>  <CAS_NUMBER>
+50-00-0
+
+>  <UNII>
+1HG84L3525
+
+>  <SYNONYMS>
+Formaldehído; Formaldehyd; Formaldehyde; Formaldehyde solution; Formalin; Formic aldehyde; Formol; Methanal; Methyl aldehyde; Methylene oxide; Oxomethane; Oxomethylene; Oxymethylene; Paraform
+
+$$$$

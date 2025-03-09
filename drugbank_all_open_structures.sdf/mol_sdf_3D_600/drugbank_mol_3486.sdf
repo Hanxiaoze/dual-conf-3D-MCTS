@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    1.0153    0.0957   -0.1312 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5809   -0.5902   -1.3425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0620   -2.0430   -1.3687 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5043   -2.8974   -0.2220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0278   -2.9940   -0.2228 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6048   -3.6154   -1.4975 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1376   -4.9863   -1.6663 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03854
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02275
+
+>  <COMMON_NAME>  (1) 
+Cadaverine
+
+>  <CAS_NUMBER>  (1) 
+462-94-2
+
+>  <UNII>  (1) 
+L90BEN6OLL
+
+>  <SYNONYMS>  (1) 
+1,5-Diaminopentane; 1,5-pentamethylenediamine; 1,5-Pentanediamine; DAPE; Pentamethylenediamine
+
+$$$$

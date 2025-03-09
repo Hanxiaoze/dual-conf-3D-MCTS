@@ -1,0 +1,44 @@
+951
+     RDKit          3D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    1.0530    0.0255   -0.0270 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9873    0.5991   -1.0758 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2656   -1.2093    3.5560 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3781    0.5335   -1.2712 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9898   -0.3453    1.2347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5795   -1.5226    1.8609 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0106    0.4175    1.8005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2822    0.1008    0.0111 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2476   -1.9097    3.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6191   -0.0597    2.9456 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  4  1  0
+  2  8  1  0
+  3  9  2  0
+  3 10  1  0
+  5  6  2  0
+  5  7  1  0
+  5  8  1  0
+  6  9  1  0
+  7 10  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00951
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01055; EXPT01940
+
+>  <COMMON_NAME>  (1) 
+Isoniazid
+
+>  <CAS_NUMBER>  (1) 
+54-85-3
+
+>  <UNII>  (1) 
+V83O1VOZ8L
+
+>  <SYNONYMS>  (1) 
+4-pyridinecarbohydrazide; INH; Isoniazid; Isoniazida; Isonicotinic acid hydrazide; Isonicotinic hydrazide; Isonicotinohydrazide; Isonicotinoylhydrazide; Isonicotinsäurehydrazid; Isonicotinylhydrazine; Pyridine-4-carboxylic acid hydrazide
+
+$$$$

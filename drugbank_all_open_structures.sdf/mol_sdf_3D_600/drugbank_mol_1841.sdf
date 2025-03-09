@@ -1,0 +1,37 @@
+
+     RDKit          3D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    1.0809   -0.0212   -0.0207 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5914   -1.0558   -0.9289 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8717   -1.1414   -0.8654 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0655   -0.8271   -2.3130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5652    0.4860   -2.9313 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5385    1.3815   -3.2188 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6128    0.7483   -3.1453 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  2  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB02083
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01225
+
+>  <COMMON_NAME>  (1) 
+N,N-dimethylglycine
+
+>  <CAS_NUMBER>  (1) 
+1118-68-9
+
+>  <UNII>  (1) 
+7797M4CPPA
+
+>  <SYNONYMS>  (1) 
+(dimethylamino)acetic acid; 2-(Dimethylamino)acetic acid; Dimethylglycine; N-Methylsarcosine; N,N-Dimethylaminoacetic acid
+
+$$$$

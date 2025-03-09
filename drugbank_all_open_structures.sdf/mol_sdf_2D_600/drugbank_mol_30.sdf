@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.4289    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.0312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.2062    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  2  1  0
+  4  2  1  0
+  4  5  1  1
+  6  4  1  0
+  7  6  1  0
+  8  7  1  0
+  9  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00134
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00038
+
+>  <COMMON_NAME>  (1) 
+Methionine
+
+>  <CAS_NUMBER>  (1) 
+63-68-3
+
+>  <UNII>  (1) 
+AE28F7PNPL
+
+>  <SYNONYMS>  (1) 
+(2S)-2-amino-4-(methylsulfanyl)butanoic acid; (S)-2-amino-4-(methylthio)butanoic acid; (S)-2-amino-4-(methylthio)butyric acid; (S)-methionine; L-(−)-methionine; L-a-Amino-g-methylthiobutyric acid; L-Methionin; L-Methionine; L-α-amino-γ-methylmercaptobutyric acid; M; Met; Methionine
+
+$$$$

@@ -1,0 +1,35 @@
+
+     RDKit          3D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.9570    0.0821    0.0065 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4489   -0.8607    1.0842 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9415   -0.4274    2.4667 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9748   -0.8923    1.0033 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2392   -0.1021    3.4131 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2860   -0.4156    2.5759 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  2  1  0
+  5  3  2  0
+  6  3  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04398
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01996; DB09294
+
+>  <COMMON_NAME>  (1) 
+Lactic acid
+
+>  <CAS_NUMBER>  (1) 
+50-21-5
+
+>  <UNII>  (1) 
+3B8D35Y7S4
+
+>  <SYNONYMS>  (1) 
+(±)-2-hydroxypropanoic acid; 2-Hydroxypropanoic acid; 2-Hydroxypropionic acid; ácido láctico; Acidum lacticum; DL- lactic acid; DL-Lactic Acid; DL-Milchsäure; Lactic acid; Lacticum acidum; Milchsäure; Milk acid; rac-lactic acid; α-hydroxypropanoic acid; α-hydroxypropionic acid
+
+$$$$

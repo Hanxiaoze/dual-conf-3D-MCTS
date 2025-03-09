@@ -1,0 +1,26 @@
+
+ OpenBabel10282417173D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0676   -0.0527    0.0515 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4076   -0.0527    0.0515 Cu  0  0  0  0  0  0  0  0  0  0  0  0
+    5.7476   -0.0527    0.0515 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB09131
+
+>  <COMMON_NAME>
+Cupric Chloride
+
+>  <CAS_NUMBER>
+7447-39-4
+
+>  <UNII>
+P484053J2Y
+
+>  <SYNONYMS>
+Copper chloride; Copper(2+) chloride; copper(II) chloride; Cupric chloride anhydrous
+
+$$$$

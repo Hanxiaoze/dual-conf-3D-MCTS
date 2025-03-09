@@ -1,0 +1,27 @@
+
+ OpenBabel10282417153D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.1059   -0.0352    0.0837 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7579   -0.0352    0.0837 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB05382
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+DB05247
+
+>  <COMMON_NAME>
+Iodine
+
+>  <CAS_NUMBER>
+7553-56-2
+
+>  <UNII>
+9679TC07X4
+
+>  <SYNONYMS>
+diiodine; I2; Iodine; iodo; Jod; molecular iodine
+
+$$$$

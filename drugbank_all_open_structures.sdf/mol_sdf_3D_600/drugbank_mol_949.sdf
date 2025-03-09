@@ -1,0 +1,45 @@
+
+     RDKit          3D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+    1.0290   -0.0094   -0.0952 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4190   -0.8096    1.4334 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4621   -2.0671    1.2649 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1956    0.1516    2.3375 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5235    1.7940    0.1807 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7250    1.7725    1.1942 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6051    2.7494    0.5895 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4902   -0.6862   -1.3352 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4748   -0.0154   -0.1552 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1576   -1.5660    2.8784 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3584    2.4049   -1.0080 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  1  8  1  0
+  2  3  1  0
+  2  4  2  0
+  2 10  1  0
+  5  6  1  0
+  5  7  2  0
+  5 11  1  0
+  9  1  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01077
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00964
+
+>  <COMMON_NAME>  (1) 
+Etidronic acid
+
+>  <CAS_NUMBER>  (1) 
+2809-21-4
+
+>  <UNII>  (1) 
+M2F465ROXU
+
+>  <SYNONYMS>  (1) 
+(1-hydroxy-ethylidene)diphosphonic acid; (1-Hydroxyethylene)diphosphonic acid; (1-Hydroxyethylidene)bis(phosphonic acid); (1-Hydroxyethylidene)bisphosphonic acid; (1-Hydroxyethylidene)diphosphonic acid; (Hydroxyethylidene)diphosphonic acid; 1-Hydroxy-1,1-diphosphonoethane; 1-hydroxyethane 1,1-diphosphonic acid; 1-Hydroxyethane-1,1-bisphosphonic acid; 1-Hydroxyethane-1,1-diphosphonate; 1-Hydroxyethane-1,1-diphosphonic acid; 1-Hydroxyethanediphosphonic acid; 1-Hydroxyethylidene-1,1-bisphosphonate; 1-Hydroxyethylidene-1,1-diphosphonic acid; 1,1,1-Ethanetriol diphosphonate; Acetodiphosphonic acid; acide étidronique; ácido etidrónico; acidum etidronicum; EHDP; Ethane-1-hydroxy-1,1-bisphosphonic acid; Ethane-1-hydroxy-1,1-diphosphonate; Ethane-1-hydroxy-1,1-diphosphonic acid; Etidronate; Etidronic acid; Etidronsäure; HEDP; Hydroxyethanediphosphonic acid; Oxyethylidenediphosphonic acid
+
+$$$$

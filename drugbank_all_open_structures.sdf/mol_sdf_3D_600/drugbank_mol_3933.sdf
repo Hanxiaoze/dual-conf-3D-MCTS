@@ -1,0 +1,42 @@
+
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    1.4284   -0.2735    0.0118 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5225   -1.3328    0.0251 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9625    1.0347   -0.0720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8531   -1.0887   -0.0190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4061    1.2749   -0.1464 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8188    0.5108   -0.1782 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4087    1.2730    1.0243 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3350    0.2254   -0.0954 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8456    2.6102    1.2255 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  2  4  1  0
+  3  5  2  0
+  4  8  2  0
+  5  8  1  0
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04325
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02542
+
+>  <COMMON_NAME>  (1) 
+Phenethylamine
+
+>  <CAS_NUMBER>  (1) 
+64-04-0
+
+>  <UNII>  (1) 
+327C7L2BXQ
+
+>  <SYNONYMS>  (1) 
+2-phenylethylamine; benzeneethanamine; beta-Phenylethylamine; Phenylethylamine; β-aminoethylbenzene; β-phenethylamine
+
+$$$$

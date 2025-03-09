@@ -1,0 +1,39 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  6  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB04074
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01974
+
+>  <COMMON_NAME>  (1) 
+alpha-Ketoisovalerate
+
+>  <CAS_NUMBER>  (1) 
+759-05-7
+
+>  <UNII>  (1) 
+34P71D50E0
+
+>  <SYNONYMS>  (1) 
+2-Keto-3-methylbutyric acid; 2-Ketoisovaleric acid; 2-Ketovaline; 2-Oxo-3-methylbutanoic acid; 3-Methyl-2-oxobutanoate; 3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; alpha-Ketovaline; Dimethylpyruvic acid; Isopropylglyoxylic acid; α-keto-isovaleric acid; α-oxo-β-methylbutyricacid; α-oxoisovaleric acid
+
+$$$$

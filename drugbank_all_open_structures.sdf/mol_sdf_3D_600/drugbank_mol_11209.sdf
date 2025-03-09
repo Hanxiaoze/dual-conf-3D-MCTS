@@ -1,0 +1,31 @@
+
+     RDKit          3D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.9952   -0.0402   -0.0914 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4052   -0.0402   -0.0914 B   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8752    1.2810    0.0553 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8752   -0.8279    0.9794 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8752   -0.5738   -1.3090 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+M  CHG  1   2  -1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB16340
+
+>  <COMMON_NAME>  (1) 
+Tetrafluoroborate
+
+>  <CAS_NUMBER>  (1) 
+14874-70-5
+
+>  <UNII>  (1) 
+4YCF3545OY
+
+>  <SYNONYMS>  (1) 
+Borate(1-), tetrafluoro-; Fluoroborate; Tetrafluoroborate; Tetrafluoroborate (bf41-); Tetrafluoroborate anion; Tetrafluoroborate ion; Tetrafluoroborate(1-)
+
+$$$$

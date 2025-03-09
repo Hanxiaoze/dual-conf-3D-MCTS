@@ -1,0 +1,48 @@
+
+     RDKit          2D
+
+ 12 12  0  0  1  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8974   -1.9370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8974   -1.9370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674   -0.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4521   -0.2300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.2695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.2695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8109   -0.0724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0964   -0.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3819   -0.0724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3819    0.7526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6674   -0.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  3  1  0
+  6  7  2  0
+  7  2  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  6
+ 12  1  1  1
+ 12  7  1  0
+ 12 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00126
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00001; APRD00084; EXPT00568; DB11167; DB11316; DB11170; DB09541; DB11317
+
+>  <COMMON_NAME>  (1) 
+Ascorbic acid
+
+>  <CAS_NUMBER>  (1) 
+50-81-7
+
+>  <UNII>  (1) 
+PQ6CK8PD0R
+
+>  <SYNONYMS>  (1) 
+acide ascorbique; ácido ascórbico; Acidum ascorbicum; acidum ascorbinicum; Ascorbate; Ascorbic acid; Ascorbinsäure; L-(+)-ascorbic acid; L-Ascorbate; L-Ascorbic Acid; Vitamin C; Vitamina C
+
+$$$$

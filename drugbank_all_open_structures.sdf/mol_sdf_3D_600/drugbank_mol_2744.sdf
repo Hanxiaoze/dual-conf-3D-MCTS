@@ -1,0 +1,42 @@
+
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    2.3648    0.0686    0.1518 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9839   -0.0046   -0.0206 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2478    1.1942   -0.0057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1467    1.1996   -0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8430   -0.0027    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1332   -1.2038    0.0041 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2768   -1.2230    0.0097 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9607   -2.5675    0.0109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6275   -3.3036    1.1815 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB03058
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02934
+
+>  <COMMON_NAME>  (1) 
+2-Aminobenzyl alcohol
+
+>  <CAS_NUMBER>  (1) 
+5344-90-1
+
+>  <UNII>  (1) 
+JK3AH3NG9C
+
+>  <SYNONYMS>  (1) 
+2-Aminobenzenemethanol; 2-Aminobenzyl alcohol; o-(Hydroxymethyl)aniline; o-Aminobenzyl alcohol; o-Aminobenzylic alcohol
+
+$$$$

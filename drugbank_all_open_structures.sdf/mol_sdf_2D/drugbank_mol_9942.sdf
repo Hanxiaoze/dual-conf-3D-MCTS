@@ -1,0 +1,53 @@
+
+ OpenBabel10282417072D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   -0.0053    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0053   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7198    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7198   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4342    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4342   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7091    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7091    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4342    0.0213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7198    1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8884   -1.3410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7198   -2.2695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3279    0.5160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3279   -1.3410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4612   -0.9153    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4580    1.9175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  1  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  2  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  3  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6 14  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB14026
+
+>  <COMMON_NAME>
+Thiosalicylic acid
+
+>  <CAS_NUMBER>
+147-93-3
+
+>  <UNII>
+CIP6LXN5XW
+
+>  <SYNONYMS>
+2-Carboxythiophenol; 2-Mercaptobenzoic acid; 2-Sulfanylbenzoic acid; 2-Thiosalicylic acid; o-Benzoic acid thiol; o-Carboxythiophenol; o-Mercaptobenzoic acid; o-Mercaptobenzösäure; o-Sulfhydrylbenzoic acid; o-Thiosalicylic acid; Thiophenol-2-carboxylic acid; Thiosalicylate; Thiosalicylic acid
+
+$$$$

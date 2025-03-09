@@ -1,0 +1,59 @@
+250
+     RDKit          2D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    2.4751    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -3.3001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    3.3001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  6  1  0
+  1  7  1  0
+  4 16  1  0
+  5 17  1  0
+  6  8  2  0
+  6 10  1  0
+  7  9  2  0
+  7 11  1  0
+  8 12  1  0
+  9 13  1  0
+ 10 14  2  0
+ 11 15  2  0
+ 12 16  2  0
+ 13 17  2  0
+ 14 16  1  0
+ 15 17  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00250
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00345
+
+>  <COMMON_NAME>  (1) 
+Dapsone
+
+>  <CAS_NUMBER>  (1) 
+80-08-0
+
+>  <UNII>  (1) 
+8W5C518302
+
+>  <SYNONYMS>  (1) 
+1,1'-sulfonylbis(4-aminobenzene); 1,1'-Sulfonylbis[4-aminobenzene]; 4-(4-amino-benzenesulfonyl)-phenylamine; 4-(4-aminophenylsulfonyl)aniline; 4-(4-aminophenylsulfonyl)benzenamine; 4-aminophenyl sulfone; 4,4'-dapsone; 4,4'-diaminodiphenyl sulfone; 4,4'-Diaminodiphenyl sulphone; 4,4'-Diaminodiphenylsulfone; 4,4'-sulfonylbisaniline; 4,4'-Sulfonylbisbenzenamine; 4,4'-Sulfonylbisbenzeneamine; 4,4'-Sulfonyldianilin; 4,4'-sulfonyldianiline; bis(4-aminophenyl)sulfone; Bis(p-aminophenyl) sulfone; DADPS; Dapsona; Dapsone; Dapsonum; DDS; Diaphenylsulfone; p-aminophenyl sulfone; p,p-sulphonylbisbenzamine; p,p-sulphonylbisbenzenamine; p,p'-diaminodiphenyl sulfone
+
+$$$$

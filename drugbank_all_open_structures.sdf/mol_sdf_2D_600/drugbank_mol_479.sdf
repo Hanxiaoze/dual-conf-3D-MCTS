@@ -1,0 +1,36 @@
+592
+     RDKit          2D
+
+  6  6  0  0  0  0  0  0  0  0999 V2000
+    2.3645   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  5  1  0
+  4  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00592
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00225; DB11514
+
+>  <COMMON_NAME>  (1) 
+Piperazine
+
+>  <CAS_NUMBER>  (1) 
+110-85-0
+
+>  <UNII>  (1) 
+1RTM4PAL0V
+
+>  <SYNONYMS>  (1) 
+Diethylenediamine; Piperazidine; Piperazin; Piperazina; Piperazine
+
+$$$$

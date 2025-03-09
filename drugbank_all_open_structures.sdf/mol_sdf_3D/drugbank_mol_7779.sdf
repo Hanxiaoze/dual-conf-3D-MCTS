@@ -1,0 +1,30 @@
+
+ OpenBabel10282417183D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0081   -0.0501    0.0795 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4507   -0.1717    1.7568 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4507    1.4633   -0.6538 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4507   -1.4418   -0.8645 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1012   -0.0501    0.0795 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB11387
+
+>  <COMMON_NAME>
+Chloroform
+
+>  <CAS_NUMBER>
+67-66-3
+
+>  <UNII>
+7V31YC746X
+
+>  <SYNONYMS>
+1,1,1-trichloromethane; CHCl3; Chloroforme; chloroformium pro narcosi; Trichlormethan; Trichloromethane; trichlorométhane
+
+$$$$

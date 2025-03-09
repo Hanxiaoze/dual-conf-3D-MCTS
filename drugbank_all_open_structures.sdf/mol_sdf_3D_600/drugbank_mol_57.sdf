@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.0229   -0.1178   -0.1582 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2464   -0.0696   -0.1147 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0062   -0.8237   -0.9469 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0576    0.8074    0.8699 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7368    2.2251    0.6254 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7222    0.4089    2.3272 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0727   -1.0616    2.5826 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    1.2758    3.3518 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  2  1  0
+  4  2  1  0
+  4  5  1  1
+  6  4  1  0
+  7  6  1  0
+  8  6  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00161
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00060
+
+>  <COMMON_NAME>  (1) 
+Valine
+
+>  <CAS_NUMBER>  (1) 
+72-18-4
+
+>  <UNII>  (1) 
+HG18B9YRS7
+
+>  <SYNONYMS>  (1) 
+(2S)-2-Amino-3-methylbutanoic acid; (S)-Valine; 2-Amino-3-methylbutyric acid; L-(+)-alpha-Aminoisovaleric acid; L-alpha-Amino-beta-methylbutyric acid; L-valin; L-valine; Val; Valine
+
+$$$$

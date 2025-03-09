@@ -1,0 +1,45 @@
+1033
+     RDKit          2D
+
+ 10 11  0  0  0  0  0  0  0  0999 V2000
+    2.3644    1.4933    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596    0.5071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.9818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -0.8206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  6  1  0
+  2  9  1  0
+  3  7  1  0
+  3 10  1  0
+  4  7  1  0
+  4  9  2  0
+  5  8  1  0
+  5 10  2  0
+  6  7  2  0
+  6  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01033
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01096
+
+>  <COMMON_NAME>  (1) 
+Mercaptopurine
+
+>  <CAS_NUMBER>  (1) 
+50-44-2
+
+>  <UNII>  (1) 
+PKK6MUZ20G
+
+>  <SYNONYMS>  (1) 
+1,9-DIHYDRO-6H-PURINE-6-THIONE; 6 MP; 6-Mercaptopurine; 6-MP; 6-Thiohypoxanthine; 6-Thioxopurine; Mercaptopurina; Mercaptopurine; Mercaptopurine anhydrous; Mercaptopurinum; Mercapurin
+
+$$$$

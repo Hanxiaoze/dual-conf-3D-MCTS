@@ -1,0 +1,49 @@
+
+ OpenBabel10282417103D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    1.0600    0.0736   -0.0313 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2334    0.9854    2.0190 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4400    0.0736   -0.0313 Pt  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7900    0.8306   -2.4884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1786   -1.7808   -0.5934 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4814    1.9563   -1.8917 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7900   -2.2580   -1.1148 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1300   -1.8672   -0.2361 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1500   -1.8672   -0.2361 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1300    1.2214   -1.6097 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7900    2.1777   -1.5088 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7901   -2.4328    0.5417 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1500    1.2214   -1.6097 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  8  5  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10  4  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00515
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+APRD00359
+
+>  <COMMON_NAME>
+Cisplatin
+
+>  <CAS_NUMBER>
+15663-27-1
+
+>  <UNII>
+Q20Q21Q62J
+
+>  <SYNONYMS>
+(SP-4-2)-DIAMMINEDICHLOROPLATINUM; CDDP; Cis-DDP; CIS-DIAMMINEDICHLOROPLATINUM; CIS-DIAMMINEDICHLOROPLATINUM II; cis-diamminedichloroplatinum(II); Cisplatin; cisplatino; INT-230-6 COMPONENT CISPLATIN; INT230-6 COMPONENT CISPLATIN; PLATINUM, DIAMMINEDICHLORO-, (SP-4-2)-
+
+$$$$

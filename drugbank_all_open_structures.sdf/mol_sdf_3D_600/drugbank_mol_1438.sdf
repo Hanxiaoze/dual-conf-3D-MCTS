@@ -1,0 +1,47 @@
+
+     RDKit          3D
+
+ 12 11  0  0  0  0  0  0  0  0999 V2000
+    1.2813    4.2118   -5.1127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8432    3.8978   -3.7133 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3259    3.1692   -3.6134 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7584    2.7175   -2.2993 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1564    1.3391   -1.9689 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3188    1.1608   -0.7196 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1295    0.4107   -2.7768 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2717    2.7623   -2.1372 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7228    2.5432   -0.6892 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3546    3.9288    0.4882 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5477    3.9532    0.7534 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4777    4.2863   -2.7350 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2 12  2  0
+  4  8  1  6
+  4  5  1  0
+  4  3  1  0
+  5  6  1  0
+  5  7  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01646
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00506
+
+>  <COMMON_NAME>  (1) 
+N-Acetylmethionine
+
+>  <CAS_NUMBER>  (1) 
+65-82-7
+
+>  <UNII>  (1) 
+9J12WX5B6A
+
+>  <SYNONYMS>  (1) 
+(2S)-2-acetamido-4-(methylsulfanyl)butanoic acid; Acetyl-L-methionine; Acetylmethionine; AcMet; L-(N-Acetyl)methionine; Methionamine; Methionin; N-Ac-Met; N-acetyl-L-methionine; Nα-acetyl-L-methionine; Thiomedon
+
+$$$$

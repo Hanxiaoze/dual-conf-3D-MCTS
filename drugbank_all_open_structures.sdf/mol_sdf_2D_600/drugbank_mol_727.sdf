@@ -1,0 +1,31 @@
+847
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    4.2366    0.4620    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0931    0.0495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8076    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  2  3  1  0
+  3  4  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00847
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00896
+
+>  <COMMON_NAME>  (1) 
+Cysteamine
+
+>  <CAS_NUMBER>  (1) 
+60-23-1
+
+>  <UNII>  (1) 
+5UX2SD1KE2
+
+>  <SYNONYMS>  (1) 
+2-amino-1-ethanethiol; 2-amino-ethanethiol; 2-aminoethanethiol; beta-aminoethanethiol; beta-Mercaptoethylamine; Cysteamine; MEA; Mercaptamina; Mercaptamine; Mercaptaminum; Thioethanolamine; β-aminoethylthiol; β-MEA
+
+$$$$

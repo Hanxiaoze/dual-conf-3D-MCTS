@@ -1,0 +1,39 @@
+
+     RDKit          3D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    2.4218   -0.8980   -1.6220 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2239   -2.0675   -1.3160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2691   -2.7867   -1.9609 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0006   -2.8652   -0.2428 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4413   -2.8900   -0.5765 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896   -2.2643    1.1549 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0639   -0.8900    1.2180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4174   -2.9967    2.2785 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  2  1  0
+  4  2  1  0
+  4  5  1  6
+  6  8  1  1
+  6  7  1  0
+  6  4  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00156
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00057
+
+>  <COMMON_NAME>  (1) 
+Threonine
+
+>  <CAS_NUMBER>  (1) 
+72-19-5
+
+>  <UNII>  (1) 
+2ZD004190S
+
+>  <SYNONYMS>  (1) 
+(2S,3R)-(-)-Threonine; (2S)-threonine; 2-Amino-3-hydroxybutyric acid; L-(-)-Threonine; L-2-Amino-3-hydroxybutyric acid; L-alpha-amino-beta-hydroxybutyric acid; L-Threonin; L-Threonine; L-α-amino-β-hydroxybutyric acid; Thr; Threonine; Threoninum; Treonina
+
+$$$$

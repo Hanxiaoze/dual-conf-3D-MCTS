@@ -1,0 +1,48 @@
+
+     RDKit          3D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    2.4201    4.8956   -0.9939 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3619    3.6946   -1.7594 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1219    2.5681   -1.0236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5850    2.3176    0.4271 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0426    2.3966    0.5061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3955    1.3067    1.0265 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0577    1.2633    1.0695 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5809   -0.0343    0.4686 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1147   -1.2569    1.2454 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5890   -1.2242    2.5838 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4228    3.4022    0.1451 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0999    3.2576    1.3728 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9861    1.2674   -1.8368 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6132    2.9726   -1.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3 13  1  0
+  3 14  1  0
+  4 12  1  1
+  4  5  1  0
+  4  3  1  0
+  5  6  1  0
+  5 11  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09357
+
+>  <COMMON_NAME>  (1) 
+Dexpanthenol
+
+>  <CAS_NUMBER>  (1) 
+81-13-0
+
+>  <UNII>  (1) 
+1O6C93RI7Z
+
+>  <SYNONYMS>  (1) 
+(+)-Panthenol; (2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide; Bepanthen; Bepanthene; Bepantol; D-panthenol; D-panthenol 50; D-Pantothenol; D-Pantothenyl alcohol; D(+)-Panthenol; Dexpantenol; Dexpanthenol; Dexpanthenolum; Pantol; Pantothenyl alcohol; Provitamin B
+
+$$$$

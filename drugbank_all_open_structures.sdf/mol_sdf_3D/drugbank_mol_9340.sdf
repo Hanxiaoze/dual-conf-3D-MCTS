@@ -1,0 +1,32 @@
+
+ OpenBabel10282417203D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.5624   -0.9760    0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4595   -0.1164    0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2255   -0.5575    0.0001 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2583    1.5977    0.0038 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0813   -0.7204    0.0017 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4313   -2.0506    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB13323
+
+>  <COMMON_NAME>
+Trichloroethylene
+
+>  <CAS_NUMBER>
+79-01-6
+
+>  <UNII>
+290YE8AR51
+
+>  <SYNONYMS>
+1,1-dichloro-2-chloroethylene; acetylene trichloride; ethinyl trichloride; ethylene trichloride; Narcogen; TCE; trichlor; Trichloräthen; Trichloräthylen; trichloréthylène; Trichloroethene; Trichloroethylene; trichloroéthylène; trichloroethylenum; triciene
+
+$$$$

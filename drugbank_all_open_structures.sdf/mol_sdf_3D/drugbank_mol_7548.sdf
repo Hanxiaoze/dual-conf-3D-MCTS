@@ -1,0 +1,24 @@
+
+ OpenBabel10282417183D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0529   -0.0518    0.0672 F   0  5  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1  18
+M  CHG  1   1  -1
+M  END
+>  <DRUGBANK_ID>
+DB09398
+
+>  <COMMON_NAME>
+Fluoride ion F-18
+
+>  <CAS_NUMBER>
+67862-54-8
+
+>  <UNII>
+4M4WE5N2GE
+
+>  <SYNONYMS>
+(18F)-Fluoride; 18F-Fluoride; Fluoride-18 anion
+
+$$$$

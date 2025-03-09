@@ -1,0 +1,26 @@
+
+ OpenBabel10282417223D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    0.9239   -0.0143    0.0633 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2206    0.3660    2.0160 Ag  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0339   -0.0143    0.0633 Ag  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB15668
+
+>  <COMMON_NAME>
+Silver oxide
+
+>  <CAS_NUMBER>
+20667-12-3
+
+>  <UNII>
+897WUN6G6T
+
+>  <SYNONYMS>
+Argentous oxide; Argentum oxydatum; Disilver oxide; Silver rust; Silver(I) oxide
+
+$$$$

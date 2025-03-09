@@ -1,0 +1,52 @@
+1170
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   -1.3900    0.0304    0.7703 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0313   -1.2720   -0.1937 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6815   -0.3755   -1.9096 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3780   -2.4640   -2.0738 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2154    1.3463    0.1127 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0188   -1.3161    0.2963 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1135    1.5596   -0.5895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2611   -1.5521   -0.4647 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2549    1.2997    0.3894 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4028   -1.2566    0.4667 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0792    0.0483    0.0820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6352   -0.0343    1.5483 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9196   -0.0758    0.6806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4749   -1.3172   -1.3702 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  6  1  0
+  1 12  1  0
+  2 13  1  0
+  2 14  2  3
+  3 14  1  0
+  4 14  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 11  1  0
+ 12 13  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01170
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01007
+
+>  <COMMON_NAME>  (1) 
+Guanethidine
+
+>  <CAS_NUMBER>  (1) 
+55-65-2
+
+>  <UNII>  (1) 
+ZTI6C33Q2Q
+
+>  <SYNONYMS>  (1) 
+(2-(hexahydro-1(2h)-azocinyl)ethyl)guanidine; (2-(Octahydro-1-azocinyl)ethyl)guanidine; 2-(1-N,N-Heptamethyleneimino)ethylguanidine; 2-(1'-Azacyclooctyl)ethylguanidine; Azocine, 1-(2-guanidinoethyl)octahydro-; Guanethidine; guanéthidine; guanethidinum; guanetidina; Guanidine, (2-(hexahydro-1(2H)-azocinyl)ethyl)-; Heptamethylenimine, 1-(2-guanidinoethyl)-; N-(2-Perhydroazocin-1-ylethyl)guanidine
+
+$$$$

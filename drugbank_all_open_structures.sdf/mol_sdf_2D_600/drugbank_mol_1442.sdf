@@ -1,0 +1,48 @@
+2HC
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    0.5995    0.8655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3140    1.2780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3140    2.1030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0284    0.8655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5995    0.0405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1150   -0.3720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1150   -1.1970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8295   -1.6095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5439   -1.1970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5439   -0.3720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8295    0.0405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8295    0.8655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  2  0
+  2  3  1  0
+  2  4  2  0
+  5  6  1  0
+  6  7  2  0
+  6 11  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01650
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00123
+
+>  <COMMON_NAME>  (1) 
+trans-2-hydroxycinnamic acid
+
+>  <CAS_NUMBER>  (1) 
+614-60-8
+
+>  <UNII>  (1) 
+23AU5FZB9C
+
+>  <SYNONYMS>  (1) 
+(2E)-3-(2-hydroxyphenyl)-2-propenoic acid; (2E)-3-(2-hydroxyphenyl)prop-2-enoic acid; (E)-3-(2-Hydroxyphenyl)-2-propenoic acid; (E)-o-hydroxycinnamic acid; 2-Coumarate; 2-Coumaric acid; 2-Hydroxycinnamate; o-Coumaric acid; o-hydroxy-trans-cinnamic acid; trans-2-Hydroxycinnamate; trans-o-hydroxycinnamic acid
+
+$$$$

@@ -1,0 +1,34 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+   -0.2435   -0.7033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2435    0.1216    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5814    0.1216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2435    0.9466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0685    0.1216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2237   -0.9466    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+    1.2237   -0.7967    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+  2  5  1  0
+M  CHG  4   3  -1   5  -1   6   1   7   1
+M  ISO  1   2  32
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB09370
+
+>  <COMMON_NAME>  (1) 
+Sodium phosphate P 32
+
+>  <CAS_NUMBER>  (1) 
+7635-46-3
+
+>  <UNII>  (1) 
+O181101B5G
+
+>  <SYNONYMS>  (1) 
+Disodium hydrogen phosphate (32P); Sodium phosphate (32P); Sodium phosphate 32P; Sodium phosphate P 32; Sodium phosphate P-32
+
+$$$$

@@ -1,0 +1,32 @@
+
+ OpenBabel10282417072D
+
+  7  3  0  0  0  0  0  0  0  0999 V2000
+   -0.0145    0.7666    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.9853   -0.7041    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9854   -0.7666    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0770   -0.1416    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    0.9555    0.7666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9553   -0.7041    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0154   -0.7666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  CHG  4   1  -1   2  -1   3  -1   4   3
+M  END
+>  <DRUGBANK_ID>
+DB06723
+
+>  <COMMON_NAME>
+Aluminum hydroxide
+
+>  <CAS_NUMBER>
+21645-51-2
+
+>  <UNII>
+5QB0T2IUN0
+
+>  <SYNONYMS>
+Aluminio hidróxido; Aluminium hydroxide; Aluminium hydroxide gel, dried; Aluminium hydroxide, dried; Aluminum hydroxide; Aluminum hydroxide gel, dried; Aluminum hydroxide, dried; Dried aluminium hydroxide; Dried aluminum hydroxide gel
+
+$$$$

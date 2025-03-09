@@ -1,0 +1,40 @@
+
+     RDKit          3D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+    0.9711   -0.6781    0.1432 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3436   -1.0796    0.0381 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9517    0.6811    0.0513 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1644    0.0249   -0.0262 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3592    1.0611    0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8826   -2.4725   -0.0158 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4118   -3.2546   -1.2563 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0464   -3.4235   -1.3363 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  2  4  1  0
+  2  6  1  0
+  3  5  1  0
+  4  5  2  0
+  6  7  1  0
+  7  8  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB05381
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01015; DB05891; DB11320; DB00667
+
+>  <COMMON_NAME>  (1) 
+Histamine
+
+>  <CAS_NUMBER>  (1) 
+51-45-6
+
+>  <UNII>  (1) 
+820484N8I3
+
+>  <SYNONYMS>  (1) 
+1H-Imidazole-4-ethanamine; 2-(4-imidazolyl)ethylamine; 4-imidazoleethylamine; 5-imidazoleethylamine; beta-aminoethylglyoxaline; beta-aminoethylimidazole
+
+$$$$

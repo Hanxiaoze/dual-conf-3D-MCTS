@@ -1,0 +1,41 @@
+
+     RDKit          2D
+
+  9  8  0  0  1  0  0  0  0  0999 V2000
+    1.7862   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0311    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  2  8  1  0
+  3  6  1  0
+  4  5  2  0
+  6  4  1  0
+  6  7  1  1
+  8  3  1  0
+  8  9  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00149
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00033
+
+>  <COMMON_NAME>  (1) 
+Leucine
+
+>  <CAS_NUMBER>  (1) 
+61-90-5
+
+>  <UNII>  (1) 
+GMW67QNF9C
+
+>  <SYNONYMS>  (1) 
+(2S)-2-Amino-4-methylpentanoic acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine; (S)-(+)-Leucine; (S)-Leucine; 2-Amino-4-methylvaleric acid; L; L-Leucin; L-Leucine; L-Leuzin; Leu; Leucine
+
+$$$$

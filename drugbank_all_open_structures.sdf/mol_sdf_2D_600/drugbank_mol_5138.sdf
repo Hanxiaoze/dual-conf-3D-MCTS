@@ -1,0 +1,24 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06767
+
+>  <COMMON_NAME>  (1) 
+Ammonium chloride
+
+>  <CAS_NUMBER>  (1) 
+12125-02-9
+
+>  <UNII>  (1) 
+01Q9PC255D
+
+>  <SYNONYMS>  (1) 
+Ammonium chloride; Ammoniumchlorid; Chlorammonic; Chlorid ammonia
+
+$$$$

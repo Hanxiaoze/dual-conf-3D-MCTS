@@ -1,0 +1,30 @@
+
+ OpenBabel10282417072D
+
+  5  3  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.6040    0.0000 V   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.0166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2209    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0166    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+M  CHG  2   4  -1   5   1
+M  END
+>  <DRUGBANK_ID>
+DB14702
+
+>  <COMMON_NAME>
+Sodium metavanadate
+
+>  <CAS_NUMBER>
+13718-26-8
+
+>  <UNII>
+252S9L5606
+
+>  <SYNONYMS>
+Sodium trioxovanadate; Sodium vanadate; Sodium vanadate(V); Sodium vanadium oxide; Vanadic acid, monosodium salt
+
+$$$$

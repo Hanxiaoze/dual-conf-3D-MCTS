@@ -1,0 +1,48 @@
+1472
+     RDKit          2D
+
+ 12 12  0  0  1  0  0  0  0  0999 V2000
+    2.3645   -2.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.3472    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  1 12  1  0
+  2  4  1  0
+  3  4  1  0
+  3  5  1  0
+  4  6  1  0
+  5  7  2  0
+  5  8  1  0
+  7  9  1  0
+  8 10  2  0
+  9 11  2  0
+ 10 11  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB01472
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03303
+
+>  <COMMON_NAME>  (1) 
+4-Methoxyamphetamine
+
+>  <CAS_NUMBER>  (1) 
+64-13-1
+
+>  <UNII>  (1) 
+OVB8F8P39Q
+
+>  <SYNONYMS>  (1) 
+(2RS)-1-(4-methoxyphenyl)propan-2-amine; 4-methoxyamfetamine; D,L-p-methoxyamphetamine; Formoterol fumarate related compound G; P-methoxyamfetamine; P-methoxyamphetamine; Paramethoxyamphetamine
+
+$$$$

@@ -1,0 +1,58 @@
+
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    3.1451   -5.3356    3.0669 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0576   -6.6772    3.4739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8959   -7.2495    4.4378 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0481   -6.1466    5.4694 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.9042   -8.6291    4.6960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0674   -9.4689    3.9634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0824  -11.3350    4.2723 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2455   -8.9315    2.9905 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2509   -7.5381    2.7188 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4123   -6.9968    1.5872 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4723   -5.9298    1.9449 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8765   -6.0067    1.3267 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5117   -7.3720    1.6424 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1790   -8.4939    0.6282 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5427   -8.0969   -0.7823 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.9578   -8.0861   -0.8571 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9164   -6.7490   -1.1671 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1729   -5.6413   -0.1466 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  9  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 12 13  1  0
+ 12 18  1  0
+ 12 11  1  6
+ 13 14  1  0
+ 14 15  1  0
+ 15 17  1  0
+ 15 16  1  1
+ 17 18  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB06742
+
+>  <COMMON_NAME>  (1) 
+Ambroxol
+
+>  <CAS_NUMBER>  (1) 
+18683-91-5
+
+>  <UNII>  (1) 
+200168S0CL
+
+>  <SYNONYMS>  (1) 
+Ambroxol; Ambroxolum; Bisolvon metabolite vIII; Bromhexine metabolite vIII; Bromhexine-metabolite vIII; Cyclohexanol, 4-((2-amino-3,5-dibromobenzyl)amino)- (E)-; N-(2-Amino-3,4-dibromociclohexil)-trans-4-aminociclohexanol; N-(2-Amino-3,4-dibromocyclohexyl)-trans-4-aminocyclohexanol; trans-4-((2-Amino-3,5-dibromobencil)amino)ciclohexanol; trans-4-((2-Amino-3,5-dibromobenzyl)amine)cyclohexanol; trans-4-((2-Amino-3,5-dibromobenzyl)amino)cyclohexanol
+
+$$$$

@@ -1,0 +1,43 @@
+
+ OpenBabel10282417072D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    2.0928    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    1.1433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2359   -1.2763    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1628    0.3286    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1627   -0.7414    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+>  <DRUGBANK_ID>
+DB00119
+
+>  <SECONDARY_ACCESSION_NUMBERS>
+NUTR00050; DB11194
+
+>  <COMMON_NAME>
+Pyruvic acid
+
+>  <CAS_NUMBER>
+127-17-3
+
+>  <UNII>
+8558G7RUTR
+
+>  <SYNONYMS>
+2-ketopropionic acid; 2-oxopropanoic acid; 2-Oxopropansäure; 2-Oxopropionsäure; a-Ketopropionic acid; Acetylformic acid; acide pyruvique; alpha-ketopropionic acid; Brenztraubensäure; BTS; Pyroracemic acid; α-ketopropionic acid; α-Oxopropionsäure
+
+$$$$

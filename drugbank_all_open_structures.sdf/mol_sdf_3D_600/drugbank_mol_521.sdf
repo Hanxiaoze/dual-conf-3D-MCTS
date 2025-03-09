@@ -1,0 +1,52 @@
+634
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    0.9867   -0.0609   -0.0734 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4778   -0.5661   -1.3309 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4834   -0.5781    1.1820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3271    3.9109   -0.0501 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5750    1.6234   -0.0643 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9966   -0.1559   -0.0718 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7557   -0.4121   -0.0794 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5299    0.6919   -0.0704 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4715   -1.5761   -0.0806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6252   -0.2593   -0.0683 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8904    0.8804   -0.0779 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9104   -1.4847   -0.0724 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1032    2.9789   -0.0581 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5799    3.3030   -0.0588 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  5  1  0
+  1  7  1  0
+  4 13  2  0
+  5 13  1  0
+  6 10  1  0
+  7  8  2  0
+  7  9  1  0
+  8 11  1  0
+  9 12  2  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 14  1  0
+M  END
+>  <DRUGBANK_ID>  (1) 
+DB00634
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00452
+
+>  <COMMON_NAME>  (1) 
+Sulfacetamide
+
+>  <CAS_NUMBER>  (1) 
+144-80-9
+
+>  <UNII>  (1) 
+4965G3J0F5
+
+>  <SYNONYMS>  (1) 
+Acetosulfamine; N-((p-Aminophenyl)sulfonyl)acetamide; N-(p-Aminobenzenesulfonyl)acetamide; N-[(p-Aminophenyl)sulfonyl]acetamide; N-Acetyl-4-aminobenzenesulfonamide; N-Acetylsulfanilamide; N-Sulfanilylacetamide; N-Sulphanilylacetamide; N'-acetylsulfanilamide; N(1)-Acetyl-4-aminophenylsulfonamide; N(1)-Acetylsulfanilamide; p-Aminobenzenesulfonacetamide; p-Aminobenzenesulfonoacetamide; Sulfacetamid; Sulfacetamida; Sulfacétamide; Sulfacetamide; Sulfacetamidum; Sulfanilazetamid; Sulphacetamide; Sulphacetamidum
+
+$$$$

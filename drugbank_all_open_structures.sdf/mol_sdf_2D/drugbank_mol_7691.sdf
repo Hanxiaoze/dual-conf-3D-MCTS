@@ -1,0 +1,24 @@
+
+ OpenBabel10282417072D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 S   0  6  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -2   2   2
+M  END
+>  <DRUGBANK_ID>
+DB11211
+
+>  <COMMON_NAME>
+Calcium sulfide
+
+>  <CAS_NUMBER>
+20548-54-3
+
+>  <UNII>
+1MBW07J51Q
+
+>  <SYNONYMS>
+Calcium sulphide
+
+$$$$
