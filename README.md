@@ -9,7 +9,7 @@ dual conformation 3D Monte Carlo Tree Search drug generation method with mini-GP
 
 # Dependencies
 ------------
-# Use envi file:
+# Use our provided envi file for easy create:
 ```
 conda env create -f ./environment.yml -n dual-conf-3D-MCTS_env
 conda env create -f ./mperformer_environment.yml -n mperformer_env
