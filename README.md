@@ -63,7 +63,7 @@ conda activate dual-conf-3D-MCTS_env
 mkdir -p first/second/run_dua_conf
 cd ./first/second/run_dua_conf
 cp ligand_A.sdf ligand_B.sdf conf_A.pdb conf_B.pdb conf_A_pocket.pdb conf_B_pocket.pdb ./   # copy your mol files to here
-python ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ./ligand_A.sdf --ligand_dual ./ligand_B.sdf --protein ./conf_A.pdb --protein_dual ./conf_B.pdb --pocket ./conf_A_pocket.pdb --pocket_dual ./conf_B_pocket.pdb --score -7 --score_dual 0 --start 1 --qed 0.3 --processor 30
+python ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ./ligand_A.sdf --ligand_dual ./ligand_B.sdf --protein ./conf_A.pdb --protein_dual ./conf_B.pdb --pocket ./conf_A_pocket.pdb --pocket_dual ./conf_B_pocket.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
 ```
 
 An example, for the paper data reproduce, dual conformation:
