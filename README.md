@@ -69,7 +69,7 @@ python ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ./ligand_A.
 An example, for the paper data reproduce, dual conformation:
 ```
 cd dual-conf-3D-MCTS/SARS-CoV-2/Mpro_A_B_conformation_generate_analysis/run_dual_QWEN_test/
-python ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ../ligand_B_s.sdf --protein ../conf_A_919.pdb --protein_dual ../conf_B_4240.pdb --pocket ../conf_A_919_pock.pdb --pocket_dual ../conf_B_4240_pock.pdb --score -7 --score_dual 0 --start 1 --qed 0.3 --processor 30
+python ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ../ligand_B_s.sdf --protein ../conf_A_919.pdb --protein_dual ../conf_B_4240.pdb --pocket ../conf_A_919_pock.pdb --pocket_dual ../conf_B_4240_pock.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
 ```
 
 An example, for the paper data reproduce, single conformation A:
