@@ -28,6 +28,25 @@ RDLogger.DisableLog('*MDLV30*')
 warnings.filterwarnings("ignore", category=UserWarning, module="openbabel")
 warnings.filterwarnings("ignore")
 
+
+import sys
+import os
+from datetime import datetime
+
+# 获取当前执行的命令
+command = " ".join(sys.argv)
+
+# 获取当前时间
+current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+# 定义日志文件路径
+log_file = "./command_log.txt"
+
+# 将命令和时间写入日志文件
+with open(log_file, "a") as f:
+    f.write(f"{current_time}: {command}\n\n")
+
+
 from contextlib import redirect_stdout
 
 def remove_dir(folder_path):
