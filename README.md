@@ -2,7 +2,8 @@
 dual conformation 3D Monte Carlo Tree Search drug generation method with mini-GPT
 
 
-<img width="1248" alt="TOC" src="https://github.com/user-attachments/assets/34dd3e54-7d01-49d5-9c6b-a3cd28a4361e" />
+<img width="1216" alt="fig1" src="https://github.com/user-attachments/assets/999a84fb-1234-495f-a53a-7f93c6797d1a" />
+
 
 
 
