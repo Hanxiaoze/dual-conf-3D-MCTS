@@ -30,8 +30,8 @@ from contextlib import redirect_stdout
 
 
 # Please replace the PATH for GNINA and ADFR first.
-GNINA = '/home/zhou/3D-MCTS-main'
-ADFR = '/home/zhou/3D-MCTS-main/ADFRsuite/ADFRsuite-1.0/bin'
+GNINA = '/home/zqc-gpu-03/dual-conf-3D-MCTS'
+ADFR = '/home/zqc-gpu-03/dual-conf-3D-MCTS/ADFRsuite/ADFRsuite-1.0/bin'
 
 parser = argparse.ArgumentParser(description='3D-MCTS code, for molecular generation')
 parser.add_argument('--num_sims', action="store", type=int, default=1000000, help='Number of simulation steps')

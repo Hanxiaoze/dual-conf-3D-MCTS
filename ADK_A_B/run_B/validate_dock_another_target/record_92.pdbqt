@@ -1,0 +1,69 @@
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_6
+REMARK    2  A    between atoms: C_1  and  C_9
+REMARK    3  A    between atoms: C_1  and  C_10
+REMARK    4  A    between atoms: C_1  and  C_25
+REMARK    5  A    between atoms: C_3  and  N_8
+REMARK    6  A    between atoms: C_10  and  N_11
+REMARK    7  A    between atoms: C_13  and  C_19
+REMARK    8  A    between atoms: C_25  and  C_26
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      38.456  25.754  33.641  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1      39.302  26.996  33.682  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      3  C   UNL     1      39.722  23.555  36.325  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      38.730  23.595  37.285  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      37.635  24.385  36.993  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      37.590  25.059  35.813  0.00  0.00    +0.000 NA
+ATOM      7  C   UNL     1      38.590  24.994  34.892  0.00  0.00    +0.000 A 
+ATOM      8  N   UNL     1      39.683  24.217  35.162  0.00  0.00    +0.000 NA
+BRANCH   4   9
+ATOM      9  N   UNL     1      38.906  22.840  38.465  0.00  0.00    +0.000 N 
+ATOM     10  H   UNL     1      38.181  22.852  39.197  0.00  0.00    +0.000 HD
+ATOM     11  H   UNL     1      39.759  22.277  38.594  0.00  0.00    +0.000 HD
+ENDBRANCH   4   9
+ENDBRANCH   1   7
+BRANCH   1  12
+ATOM     12  C   UNL     1      37.024  26.069  33.441  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  N   UNL     1      36.715  27.405  33.027  0.00  0.00    +0.000 N 
+ATOM     14  C   UNL     1      36.179  28.203  33.980  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      35.828  29.517  33.725  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      36.041  30.006  32.454  0.00  0.00    +0.000 A 
+ATOM     17  N   UNL     1      35.673  31.357  32.218  0.00  0.00    +0.000 N 
+ATOM     18  N   UNL     1      36.570  29.214  31.517  0.00  0.00    +0.000 NA
+ATOM     19  C   UNL     1      36.894  27.943  31.818  0.00  0.00    +0.000 A 
+ATOM     20  O   UNL     1      37.393  27.176  30.955  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      35.811  31.773  31.286  0.00  0.00    +0.000 HD
+ATOM     22  H   UNL     1      35.268  31.921  32.979  0.00  0.00    +0.000 HD
+BRANCH  15  23
+ATOM     23  C   UNL     1      35.247  30.337  34.803  0.00  0.00    +0.000 A 
+ATOM     24  C   UNL     1      36.021  31.178  35.557  0.00  0.00    +0.000 A 
+ATOM     25  C   UNL     1      35.439  31.930  36.561  0.00  0.00    +0.000 A 
+ATOM     26  C   UNL     1      34.103  31.803  36.762  0.00  0.00    +0.000 A 
+ATOM     27  C   UNL     1      33.294  30.975  36.032  0.00  0.00    +0.000 A 
+ATOM     28  C   UNL     1      33.872  30.217  35.022  0.00  0.00    +0.000 A 
+ENDBRANCH  15  23
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+BRANCH   1  29
+ATOM     29  C   UNL     1      38.936  24.872  32.470  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C   UNL     1      37.913  23.902  32.050  0.00  0.00    +0.000 A 
+ATOM     31  N   UNL     1      36.637  24.109  31.676  0.00  0.00    +0.000 NA
+ATOM     32  C   UNL     1      35.805  23.123  31.316  0.00  0.00    +0.000 A 
+ATOM     33  N   UNL     1      36.206  21.838  31.309  0.00  0.00    +0.000 NA
+ATOM     34  C   UNL     1      37.488  21.550  31.678  0.00  0.00    +0.000 A 
+ATOM     35  C   UNL     1      37.814  20.224  31.642  0.00  0.00    +0.000 A 
+ATOM     36  C   UNL     1      39.089  19.865  32.002  0.00  0.00    +0.000 A 
+ATOM     37  C   UNL     1      39.987  20.845  32.381  0.00  0.00    +0.000 A 
+ATOM     38  C   UNL     1      39.594  22.167  32.395  0.00  0.00    +0.000 A 
+ATOM     39  C   UNL     1      38.327  22.582  32.044  0.00  0.00    +0.000 A 
+ENDBRANCH  29  30
+ENDBRANCH   1  29
+TORSDOF 7

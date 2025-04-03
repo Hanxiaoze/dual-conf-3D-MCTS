@@ -1,0 +1,144 @@
+MODEL 1
+REMARK minimizedAffinity -2.61551571REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      44.575  35.954  44.511  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      45.334  35.676  43.354  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      46.172  34.551  43.375  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      46.207  33.795  44.512  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      45.464  34.092  45.602  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      44.651  35.165  45.597  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity -2.59403038REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      46.120  34.454  43.356  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      45.345  35.631  43.287  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      44.608  35.997  44.424  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      44.682  35.194  45.526  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      45.437  34.073  45.555  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      46.153  33.709  44.475  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK minimizedAffinity -2.57526636REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      46.032  34.957  43.074  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      46.280  33.917  43.995  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      45.625  33.971  45.234  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      44.790  35.024  45.477  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      44.576  36.002  44.568  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      45.193  35.964  43.373  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK minimizedAffinity -2.56579208REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      45.360  34.175  45.526  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      46.183  33.762  44.456  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      46.206  34.561  43.303  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      45.432  35.686  43.282  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      44.658  36.051  44.329  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      44.626  35.298  45.444  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK minimizedAffinity -2.46957278REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      48.609  33.565  40.697  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      48.336  34.950  40.694  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      49.018  35.753  41.621  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      49.899  35.149  42.471  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      50.136  33.818  42.443  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      49.494  33.034  41.558  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK minimizedAffinity -2.46771693REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      49.793  35.105  42.432  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      48.887  35.670  41.510  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      48.289  34.815  40.572  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      48.621  33.490  40.605  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      49.493  32.985  41.506  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      50.072  33.790  42.415  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK minimizedAffinity -2.46258235REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      49.006  35.731  41.617  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      48.319  34.941  40.670  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      48.583  33.563  40.653  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      49.487  33.069  41.549  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      50.125  33.857  42.444  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      49.881  35.181  42.476  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK minimizedAffinity -2.46067238REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      48.309  34.851  40.575  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      48.910  35.682  41.546  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      49.787  35.085  42.464  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      50.006  33.741  42.367  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      49.413  32.978  41.421  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      48.571  33.534  40.530  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK minimizedAffinity -2.43234205REMARK  Name = 7
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      44.753  36.088  44.025  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      44.584  35.483  45.289  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      45.250  34.271  45.528  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      46.017  33.749  44.526  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1      46.156  34.359  43.328  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1      45.528  35.524  43.083  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0
+ENDMDL

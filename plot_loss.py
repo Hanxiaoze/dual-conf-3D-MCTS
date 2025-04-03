@@ -5,7 +5,8 @@ import glob
 import numpy as np
 
 # 设置中文字体（如果标签含中文）
-# plt.rcParams['font.sans-serif'] = ['SimHei']  # Windows系统
+# plt.rcParams['font.sans-serif'] = ['SimHei']  # Windows系统        # 使用衬线字体族
+plt.rcParams['font.family'] = 'Times New Roman'
 plt.rcParams['axes.unicode_minus'] = False    # 解决负号显示问题
 plt.rcParams['font.size'] = 16
 
@@ -29,7 +30,7 @@ plt.figure(figsize=(12, 6))  # 设置画布大小
 colors = plt.cm.tab10(np.linspace(0, 1, len(csv_files)))  # 使用tab10色系
 line_styles = ['-', '--', '-.', ':']  # 线型循环
 
-lable_list = ['Training', 'Validating']
+lable_list = ['Training', 'Validation']
 
 for idx, (df, file) in enumerate(zip(dataframes, csv_files)):
     # 提取文件名作为标签（去除路径和后缀）

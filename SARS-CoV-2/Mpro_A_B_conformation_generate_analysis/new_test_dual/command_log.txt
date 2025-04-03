@@ -1,0 +1,10 @@
+2025-03-21 19:52:40: ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ./ligand_B_s.sdf --protein ./conf_A_919.pdb --protein_dual ./conf_B_4240.pdb --pocket ./conf_A_919_pocket.pdb --pocket_dual ./conf_B_4240_pocket.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
+
+2025-03-21 19:54:04: ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ./ligand_B_s.sdf --protein ./conf_A_919.pdb --protein_dual ./conf_B_4240.pdb --pocket ./conf_A_919_pocket.pdb --pocket_dual ./conf_B_4240_pocket.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
+
+2025-03-21 19:56:18: ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ./ligand_B_s.sdf --protein ./conf_A_919.pdb --protein_dual ./conf_B_4240.pdb --pocket ./conf_A_919_pocket.pdb --pocket_dual ./conf_B_4240_pocket.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
+
+2025-03-21 19:57:02: ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ../ligand_B_s.sdf --protein ../conf_A_919.pdb --protein_dual ../conf_B_4240.pdb --pocket ../conf_A_919_pocket.pdb --pocket_dual ../conf_B_4240_pocket.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
+
+2025-03-21 19:58:00: ../../../3D-MCTS-dual-conf_QWEN.py --num_sims 100000 --ligand ../ligand_A_s.sdf --ligand_dual ../ligand_B_s.sdf --protein ../conf_A_919.pdb --protein_dual ../conf_B_4240.pdb --pocket ../conf_A_919_pock.pdb --pocket_dual ../conf_B_4240_pock.pdb --score -7 --score_dual -7 --start 1 --qed 0.3 --processor 30
+

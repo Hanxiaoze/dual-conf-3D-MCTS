@@ -69,8 +69,8 @@ remove_dir('./vinaa')
 abs_vinaa_path = os.path.abspath('./vinaa') 
 
 # Please replace the PATH for GNINA and ADFR first.
-GNINA = '/home/zhou/3D-MCTS-main'
-ADFR = '/home/zhou/3D-MCTS-main/ADFRsuite/ADFRsuite-1.0/bin'
+GNINA = '/home/zqc-gpu-03/dual-conf-3D-MCTS'
+ADFR = '/home/zqc-gpu-03/dual-conf-3D-MCTS/ADFRsuite/ADFRsuite-1.0/bin'
 
 parser = argparse.ArgumentParser(description='3D-MCTS code, for molecular generation')
 parser.add_argument('--num_sims', action="store", type=int, default=1000000, help='Number of simulation steps')
@@ -119,8 +119,8 @@ print(f'len of mcts_fragment_to_idx: {len(mcts_fragment_to_idx)}')
 
 
 def run_mperformer_sdf_fixing(lig_name, vinaa_dir, 
-                             mperformer_dir='/home/zhou/MPerformer-master', 
-                             conda_env_path='/home/zhou/anaconda3/envs/MPerformer'):
+                             mperformer_dir='/home/zqc-gpu-03/MPerformer-master', 
+                             conda_env_path='/home/zqc-gpu-03/anaconda3/envs/MPerformer'):
     
     # 构建文件路径 
     target_sdf = os.path.join(vinaa_dir,  f"{lig_name}_repair.sdf") 
@@ -675,13 +675,11 @@ class GPT(nn.Module):
 
 
 model = GPT(GPTConfig())
-current_time = '2025-01-27__00-12-04'
-current_time = '2025-02-02__11-16-09'   
-epoch = '1000'
+current_time = '2025-03-13__16-19-16'   
 epoch = '100'
 
 # 设定要加载的模型路径
-checkpoint_path = f'/home/zhou/admet_ai/model_save_pth/mini_QWEN_frag_recomd_{current_time}/model_epoch_{epoch}.pt'
+checkpoint_path = f'/home/zqc-gpu-03/dual-conf-3D-MCTS/model_save_pth/mini_QWEN_frag_recomd_{current_time}/model_epoch_{epoch}.pt'
 
 def mcts_fragchoice_to_train_idseq(state_choices):
     print('\n\nGo into func mcts_fragchoice_to_train_idseq')
